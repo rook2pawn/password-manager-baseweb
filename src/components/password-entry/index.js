@@ -4,7 +4,7 @@ import { Input } from "baseui/input";
 import { Slider } from "baseui/slider";
 import { Checkbox } from "baseui/checkbox";
 import { ProgressBar } from "baseui/progress-bar";
-import { ProgressSteps, NumberedStep } from "baseui/progress-steps";
+import { Accordion, Panel } from "baseui/accordion";
 import { generate as generatePassword } from "generate-password";
 import zxcvbn from "zxcvbn";
 
@@ -37,11 +37,11 @@ export default () => {
   }, [length, uppercase, symbols, numbers]);
 
   const textStrength = {
-    0: "BAD",
-    1: "WEAK",
-    2: "BETTER",
-    3: "STRONG",
-    4: "STRONGEST",
+    0: "Weak",
+    1: "Average",
+    2: "Medium",
+    3: "Strong",
+    4: "Strongest",
   };
   return (
     <div>
@@ -61,31 +61,42 @@ export default () => {
       </FormControl>
       <div>
         <ProgressBar value={strength} successValue={4} />
-        {textStrength[strength]}
+        <span
+          style={{
+            fontSize: "10px",
+            color: "#545454",
+            fontFamily: "sans-serif",
+          }}
+        >
+          Strength: {textStrength[strength]}
+        </span>
       </div>
-
-      <Slider
-        min={MINLENGTH}
-        max={MAXLENGTH}
-        value={[length]}
-        onChange={({ value }) => setLength(value[0])}
-      />
-      <FormControl label="Characters">
-        <div>
-          <Checkbox
-            checked={uppercase}
-            onChange={() => setUppercase(!uppercase)}
-          >
-            A-Z
-          </Checkbox>
-          <Checkbox checked={numbers} onChange={() => setNumbers(!numbers)}>
-            0-9
-          </Checkbox>
-          <Checkbox checked={symbols} onChange={() => setSymbols(!symbols)}>
-            %@#
-          </Checkbox>
-        </div>
-      </FormControl>
+      <Accordion>
+        <Panel title="Options">
+          <Slider
+            min={MINLENGTH}
+            max={MAXLENGTH}
+            value={[length]}
+            onChange={({ value }) => setLength(value[0])}
+          />
+          <FormControl label="Characters">
+            <div>
+              <Checkbox
+                checked={uppercase}
+                onChange={() => setUppercase(!uppercase)}
+              >
+                A-Z
+              </Checkbox>
+              <Checkbox checked={numbers} onChange={() => setNumbers(!numbers)}>
+                0-9
+              </Checkbox>
+              <Checkbox checked={symbols} onChange={() => setSymbols(!symbols)}>
+                %@#
+              </Checkbox>
+            </div>
+          </FormControl>
+        </Panel>
+      </Accordion>
     </div>
   );
 };

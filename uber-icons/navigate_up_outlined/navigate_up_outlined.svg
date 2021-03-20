@@ -1,0 +1,8 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Navigate up (outlined)</title>
+  <g transform="matrix(
+          1 0
+          0 1
+          1 1
+        )"><path fill-rule="nonzero" clip-rule="nonzero" d="M11 6.29999L16.2 16.6L11 14.5L5.79999 16.6L11 6.29999ZM11 0L0 22L11 17.5L22 22L11 0Z" fill="currentColor" opacity="1"/></g>
+</svg>

@@ -1,0 +1,12 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Road (outlined)</title>
+  <g transform="matrix(
+          1 0
+          0 1
+          1 1
+        )"><path fill-rule="nonzero" clip-rule="nonzero" d="M0 22L3 22L6.4 0L3.4 0L0 22Z" fill="currentColor" opacity="1"/>
+<path fill-rule="nonzero" clip-rule="nonzero" d="M18.6001 0L15.6001 0L19.0001 22L22.0001 22L18.6001 0Z" fill="currentColor" opacity="1"/>
+<path fill-rule="nonzero" clip-rule="nonzero" d="M12.5 0L9.5 0L9.5 5L12.5 5L12.5 0Z" fill="currentColor" opacity="1"/>
+<path fill-rule="nonzero" clip-rule="nonzero" d="M12.5 8L9.5 8L9.5 14L12.5 14L12.5 8Z" fill="currentColor" opacity="1"/>
+<path fill-rule="nonzero" clip-rule="nonzero" d="M12.5 17L9.5 17L9.5 22L12.5 22L12.5 17Z" fill="currentColor" opacity="1"/></g>
+</svg>

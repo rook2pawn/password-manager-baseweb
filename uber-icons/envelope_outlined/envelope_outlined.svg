@@ -1,0 +1,8 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Envelope (outlined)</title>
+  <g transform="matrix(
+          1 0
+          0 1
+          1 4
+        )"><path fill-rule="nonzero" clip-rule="nonzero" d="M0 0L0 17L22 17L22 0L0 0ZM17.8 3L11 7.70001L4.19995 3L17.8 3ZM3 14L3 5.79999L11 11.3L19 5.79999L19 14L3 14Z" fill="currentColor" opacity="1"/></g>
+</svg>

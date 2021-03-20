@@ -1,0 +1,8 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Filter (outlined)</title>
+  <g transform="matrix(
+          1 0
+          0 1
+          1 4
+        )"><path fill-rule="evenodd" clip-rule="evenodd" d="M22 0L0 0L0 3L22 3L22 0ZM18 7L4 7L4 10L18 10L18 7ZM8 14L14 14L14 17L8 17L8 14Z" fill="currentColor" opacity="1"/></g>
+</svg>

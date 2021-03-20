@@ -1,0 +1,8 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Text bold (filled)</title>
+  <g transform="matrix(
+          1 0
+          0 1
+          5 2
+        )"><path fill-rule="nonzero" clip-rule="nonzero" d="M12.9 9.5C13.6 8.5 14 7.3 14 6C14 2.7 11.3 0 8 0L0 0L0 20L9 20C12.3 20 15 17.3 15 14C15 12.2 14.2 10.6 12.9 9.5ZM4 4L8 4C9.1 4 10 4.9 10 6C10 7.1 9.1 8 8 8L4 8L4 4ZM9 16L4 16L4 12L9 12C10.1 12 11 12.9 11 14C11 15.1 10.1 16 9 16Z" fill="currentColor" opacity="1"/></g>
+</svg>

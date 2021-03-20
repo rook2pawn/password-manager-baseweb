@@ -1,0 +1,8 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Trash can (filled)</title>
+  <g transform="matrix(
+          1 0
+          0 1
+          3 1
+        )"><path fill-rule="evenodd" clip-rule="evenodd" d="M13 0L13 2L18 2L18 5L0 5L0 2L5 2L5 0L13 0ZM2 7L16 7L16 22L2 22L2 7Z" fill="currentColor" opacity="1"/></g>
+</svg>

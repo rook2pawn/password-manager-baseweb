@@ -1,0 +1,12 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Wallet (filled)</title>
+  <g transform="matrix(
+          1 0
+          0 1
+          1 11
+        )"><path fill-rule="nonzero" clip-rule="nonzero" d="M13.12 3L8.88 3L5.88 0L0 0L0 9L22 9L22 0L16.12 0L13.12 3Z" fill="currentColor" opacity="1"/></g>,<g transform="matrix(
+          1 0
+          0 1
+          1 4
+        )"><path fill-rule="nonzero" clip-rule="nonzero" d="M0 0L0 4L7.12 4L10.12 7L11.88 7L14.88 4L22 4L22 0L0 0Z" fill="currentColor" opacity="1"/></g>
+</svg>

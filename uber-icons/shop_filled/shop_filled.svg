@@ -1,0 +1,8 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Shop (filled)</title>
+  <g transform="matrix(
+          1 0
+          0 1
+          1 0
+        )"><path fill-rule="nonzero" clip-rule="nonzero" d="M17 8L17 6C17 2.7 14.3 0 11 0C7.7 0 5 2.7 5 6L5 8L0 8L3 23L19 23L22 8L17 8ZM8 6C8 4.3 9.3 3 11 3C12.7 3 14 4.3 14 6L14 8L8 8L8 6Z" fill="currentColor" opacity="1"/></g>
+</svg>

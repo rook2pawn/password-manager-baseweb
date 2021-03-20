@@ -1,0 +1,12 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Pencil (filled)</title>
+  <g transform="matrix(
+          1 0
+          0 1
+          2 6.600006103515625
+        )"><path fill-rule="nonzero" clip-rule="nonzero" d="M12.3999 0L15.3999 3L3 15.4L0 15.4L0 12.4L12.3999 0Z" fill="currentColor" opacity="1"/></g>,<g transform="matrix(
+          0.707099974155426 -0.707099974155426
+          0.707099974155426 0.707099974155426
+          16.59619140625 4.46405029296875
+        )"><path fill-rule="nonzero" clip-rule="nonzero" d="M3.5 0L0 0L0 4.19998L3.5 4.19998L3.5 0Z" fill="currentColor" opacity="1"/></g>
+</svg>

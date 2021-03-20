@@ -1,0 +1,8 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Car curb (outlined)</title>
+  <g transform="matrix(
+          1 0
+          0 1
+          2 1
+        )"><path fill-rule="evenodd" clip-rule="evenodd" d="M15 18L11 18L11 16L0 16L0 13L12 13L12 12L8 12L8 9L11.7998 9L9.7998 3L0 3L0 0L10.6001 0C11.5001 0 12.2 0.600024 12.5 1.40002L14 6L16 6L16 9L15 9L15 18ZM17 20L17 15L22 15L22 18L20 18L20 23L0 23L0 20L17 20Z" fill="currentColor" opacity="1"/></g>
+</svg>

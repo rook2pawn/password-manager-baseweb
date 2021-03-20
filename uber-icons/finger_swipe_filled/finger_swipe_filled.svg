@@ -1,0 +1,8 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Finger swipe (filled)</title>
+  <g transform="matrix(
+          1 0
+          0 1
+          0.5 0
+        )"><path fill-rule="evenodd" clip-rule="evenodd" d="M22.5 19L22.5 14L13.5 9.5L13.5 2.5C13.5 1.1 12.4 0 11 0C9.6 0 8.5 1.1 8.5 2.5L8.5 11L7.5 11C6.4 11 5.5 11.9 5.5 13L5.5 18L9.5 24L17.5 24C20.3 24 22.5 21.8 22.5 19ZM3.40002 4.5L6 1L2.5 1L0 4.5L2.5 8L6 8L3.40002 4.5ZM19.4 8L22 4.5L19.4 1L16 1L18.5 4.5L16 8L19.4 8Z" fill="currentColor" opacity="1"/></g>
+</svg>

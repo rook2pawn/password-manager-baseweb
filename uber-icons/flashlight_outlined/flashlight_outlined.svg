@@ -1,0 +1,12 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Flashlight (outlined)</title>
+  <g transform="matrix(
+          1 0
+          0 1
+          4 1
+        )"><path fill-rule="nonzero" clip-rule="nonzero" d="M0 0L0 5.40002L2 8.40002L2 22L14 22L14 8.40002L16 5.40002L16 0L0 0ZM13 4.5L11 7.5L11 19L5 19L5 7.5L3 4.5L3 3L13 3L13 4.5Z" fill="currentColor" opacity="1"/></g>,<g transform="matrix(
+          1 0
+          0 1
+          10.5 9
+        )"><path fill-rule="nonzero" clip-rule="nonzero" d="M3 0L0 0L0 4L3 4L3 0Z" fill="currentColor" opacity="1"/></g>
+</svg>

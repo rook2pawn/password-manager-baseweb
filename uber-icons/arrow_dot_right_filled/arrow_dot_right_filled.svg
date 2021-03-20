@@ -1,0 +1,8 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Arrow dot right (filled)</title>
+  <g transform="matrix(
+          1 0
+          0 1
+          1 3
+        )"><path fill-rule="evenodd" clip-rule="evenodd" d="M11 0L14.8 0L21.4 9L14.8 18L11 18L16.5 10.5L5 10.5L5 7.5L16.5 7.5L11 0ZM0 7.5L3 7.5L3 10.5L0 10.5L0 7.5Z" fill="currentColor" opacity="1"/></g>
+</svg>

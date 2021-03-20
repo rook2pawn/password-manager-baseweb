@@ -1,0 +1,8 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Truck (outlined)</title>
+  <g transform="matrix(
+          1 0
+          0 1
+          1 1
+        )"><path fill-rule="nonzero" clip-rule="nonzero" d="M21 9L21 0L1 0L1 9L0 9L0 15L2 15L2 22L6 22L6 20L16 20L16 22L20 22L20 15L22 15L22 9L21 9ZM5 16L9 16L9 13L5 13L5 8L17 8L17 13L13 13L13 16L17 16L17 17L5 17L5 16ZM18 3L18 5L4 5L4 3L18 3Z" fill="currentColor" opacity="1"/></g>
+</svg>

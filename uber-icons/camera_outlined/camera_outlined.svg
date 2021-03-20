@@ -1,0 +1,8 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Camera (outlined)</title>
+  <g transform="matrix(
+          1 0
+          0 1
+          1 1
+        )"><path fill-rule="evenodd" clip-rule="evenodd" d="M15.5 0L17 3L22 3L22 20L0 20L0 3L5 3L6.5 0L15.5 0ZM3 6L3 17L19 17L19.1001 17L19.1001 6L15.2 6L13.7 3L8.3999 3L6.8999 6L3 6ZM15 11C15 13.2091 13.2091 15 11 15C8.79086 15 7 13.2091 7 11C7 8.79086 8.79086 7 11 7C13.2091 7 15 8.79086 15 11Z" fill="currentColor" opacity="1"/></g>
+</svg>

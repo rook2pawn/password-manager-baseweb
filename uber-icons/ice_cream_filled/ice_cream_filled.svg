@@ -1,0 +1,8 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Ice cream (filled)</title>
+  <g transform="matrix(
+          1 0
+          0 1
+          4 1
+        )"><path fill-rule="nonzero" clip-rule="nonzero" d="M16 8C16 3.6 12.4 0 8 0C3.6 0 0 3.6 0 8C0 9.5 0.399976 10.8 1.09998 12L7.5 23L8.5 23L14.9 12C15.6 10.8 16 9.5 16 8ZM8 3C10.8 3 13 5.2 13 8C13 8.3 13 8.7 12.9 9L3.09998 9C2.99998 8.7 3 8.3 3 8C3 5.2 5.2 3 8 3Z" fill="currentColor" opacity="1"/></g>
+</svg>

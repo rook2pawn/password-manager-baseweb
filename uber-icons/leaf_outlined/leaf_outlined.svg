@@ -1,0 +1,8 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Leaf (outlined)</title>
+  <g transform="matrix(
+          1 0
+          0 1
+          0.89990234375 1
+        )"><path fill-rule="nonzero" clip-rule="nonzero" d="M12.6 0C7.4 0 3.1 4.3 3.1 9.5L3.1 16.9L0 20L2.1 22.1L5.2 19L12.6 19C17.8 19 22.1 14.7 22.1 9.5L22.1 0L12.6 0ZM19.1 9.5C19.1 13.1 16.2 16 12.6 16L8.2 16L16.1 8.09998L14 6L6.1 13.9L6.1 9.5C6.1 5.9 9 3 12.6 3L19.1 3L19.1 9.5Z" fill="currentColor" opacity="1"/></g>
+</svg>

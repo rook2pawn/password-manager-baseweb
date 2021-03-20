@@ -1,0 +1,8 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Person share (filled)</title>
+  <g transform="matrix(
+          1 0
+          0 1
+          1 1
+        )"><path fill-rule="evenodd" clip-rule="evenodd" d="M16 5C16 7.76142 13.7614 10 11 10C8.23858 10 6 7.76142 6 5C6 2.23858 8.23858 0 11 0C13.7614 0 16 2.23858 16 5ZM9 12L16 12C19.3 12 22 14.7 22 18L22 22L12 22C12 18 10.1001 14.5 7.1001 12.3C7.7001 12.1 8.3 12 9 12ZM0 12L0 15C3.9 15 7 18.1 7 22L10 22C10 16.5 5.5 12 0 12ZM0 20L0 17C2.8 17 5 19.2 5 22L2 22C2 20.9 1.1 20 0 20Z" fill="currentColor" opacity="1"/></g>
+</svg>

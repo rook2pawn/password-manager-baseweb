@@ -1,0 +1,12 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Airplane depart (filled)</title>
+  <g transform="matrix(
+          1 0
+          0 1
+          0 21
+        )"><path fill-rule="nonzero" clip-rule="nonzero" d="M24 0L0 0L0 3L24 3L24 0Z" fill="currentColor" opacity="1"/></g>,<g transform="matrix(
+          1 0
+          0 1
+          0.89990234375 4.08587646484375
+        )"><path fill-rule="nonzero" clip-rule="nonzero" d="M20.6001 5.31413C22.0001 4.61413 22.5003 2.91414 21.8003 1.51414C21.1003 0.114143 19.4 -0.38587 18 0.31413L13.5 2.61415L5.30029 0.214124L3.30029 1.21412L8.2002 6.21412L4.3999 8.11415L2 7.41414L0 8.41414L4.7002 13.2141L20.6001 5.31413Z" fill="currentColor" opacity="1"/></g>
+</svg>

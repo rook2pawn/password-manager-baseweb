@@ -1,0 +1,8 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Subway (filled)</title>
+  <g transform="matrix(
+          1 0
+          0 1
+          0 0
+        )"><path fill-rule="nonzero" clip-rule="nonzero" d="M24 12C24 5.37 18.63 0 12 0C5.37 0 0 5.37 0 12C0 16.09 2.04 19.7 5.16 21.86L3.01999 24L6.98001 24L9.98001 21L14.02 21L17.02 24L20.98 24L18.84 21.86C21.96 19.7 24 16.09 24 12ZM7 18L7 16L10 16L10 18L7 18ZM7 11C7 8.24 9.24 6 12 6C14.76 6 17 8.23 17 11L17 13L7 13L7 11ZM14 16L17 16L17 18L14 18L14 16Z" fill="currentColor" opacity="1"/></g>
+</svg>

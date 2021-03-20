@@ -1,0 +1,8 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Person multiple (outlined)</title>
+  <g transform="matrix(
+          1 0
+          0 1
+          1 1
+        )"><path fill-rule="evenodd" clip-rule="evenodd" d="M2 4.5C2 2 4 0 6.5 0C9 0 11 2 11 4.5C11 7 9 9 6.5 9C4 9 2 7 2 4.5ZM5 4.5C5 5.3 5.7 6 6.5 6C7.3 6 8 5.3 8 4.5C8 3.7 7.3 3 6.5 3C5.7 3 5 3.7 5 4.5ZM22 4.5C22 7 20 9 17.5 9C15 9 13 7 13 4.5C13 2 15 0 17.5 0C20 0 22 2 22 4.5ZM19 4.5C19 3.7 18.3 3 17.5 3C16.7 3 16 3.7 16 4.5C16 5.3 16.7 6 17.5 6C18.3 6 19 5.3 19 4.5ZM0 16L0 22L3 22L3 16C3 14.9 3.9 14 5 14L9 14L9 11L5 11C2.2 11 0 13.2 0 16ZM11 22L11 16C11 13.2 13.2 11 16 11L22 11L22 14L16 14C14.9 14 14 14.9 14 16L14 22L11 22Z" fill="currentColor" opacity="1"/></g>
+</svg>

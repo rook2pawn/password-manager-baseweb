@@ -1,0 +1,8 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Desktop (filled)</title>
+  <g transform="matrix(
+          1 0
+          0 1
+          1 1
+        )"><path fill-rule="nonzero" clip-rule="nonzero" d="M20 0L2 0C0.9 0 0 0.9 0 2L0 15C0 16.1 0.9 17 2 17L8 17L8 19L6 19L6 22L16 22L16 19L14 19L14 17L20 17C21.1 17 22 16.1 22 15L22 2C22 0.9 21.1 0 20 0ZM19 3L19 13L3 13L3 3L19 3Z" fill="currentColor" opacity="1"/></g>
+</svg>

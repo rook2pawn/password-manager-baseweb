@@ -1,0 +1,8 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Octagonal star (outlined)</title>
+  <g transform="matrix(
+          1 0
+          0 1
+          1 1
+        )"><path fill-rule="nonzero" clip-rule="nonzero" d="M11 4.2L12.8 6L16 6L16 9.2L17.8 11L16 12.8L16 16L12.8 16L11 17.8L9.19995 16L6 16L6 12.8L4.19995 11L6 9.2L6 6L9.19995 6L11 4.2ZM11 0L8 3L3 3L3 8L0 11L3 14L3 19L8 19L11 22L14 19L19 19L19 14L22 11L19 8L19 3L14 3L11 0Z" fill="currentColor" opacity="1"/></g>
+</svg>

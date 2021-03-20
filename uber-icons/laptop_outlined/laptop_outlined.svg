@@ -1,0 +1,8 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Laptop (outlined)</title>
+  <g transform="matrix(
+          1 0
+          0 1
+          0 3
+        )"><path fill-rule="nonzero" clip-rule="nonzero" d="M21.3 14.9999C21.7 14.4999 22 13.8999 22 13.0999L22 2.9999C22 1.3999 20.6 0 19 0L5 0C3.4 0 2 1.3999 2 2.9999L2 13.0999C2 13.7999 2.3 14.4999 2.7 14.9999L0 14.9999L0 15.9999C0 17.0999 0.9 17.9999 2 17.9999L22 17.9999C23.1 17.9999 24 17.0999 24 15.9999L24 14.9999L21.3 14.9999ZM5 2.9999L19 2.9999L19 12.9999L5 12.9999L5 2.9999Z" fill="currentColor" opacity="1"/></g>
+</svg>

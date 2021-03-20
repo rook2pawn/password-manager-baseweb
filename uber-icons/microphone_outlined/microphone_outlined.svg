@@ -1,0 +1,8 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Microphone (outlined)</title>
+  <g transform="matrix(
+          1 0
+          0 1
+          5 1
+        )"><path fill-rule="nonzero" clip-rule="nonzero" d="M14 10L14 7C14 3.1 10.9 0 7 0C3.1 0 0 3.1 0 7L0 10C0 13.4 2.4 16.1 5.5 16.8L5.5 19L2 19L2 22L12 22L12 19L8.5 19L8.5 16.8C11.6 16.1 14 13.4 14 10ZM7 3C9.2 3 11 4.8 11 7L11 8L3 8L3 7C3 4.8 4.8 3 7 3ZM3.1001 11L10.8 11C10.4 12.7 8.7999 14 6.8999 14C4.9999 14 3.6001 12.7 3.1001 11Z" fill="currentColor" opacity="1"/></g>
+</svg>

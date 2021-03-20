@@ -1,0 +1,8 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Surge (outlined)</title>
+  <g transform="matrix(
+          1 0
+          0 1
+          2 1
+        )"><path fill-rule="nonzero" clip-rule="nonzero" d="M10 0L0 5.5L0 16.5L10 22L20 16.5L20 5.5L10 0ZM3 7.29999L7.7998 4.70001L5.5 12.6L10.5 12.6L8.8999 18.1L3 14.9L3 7.29999ZM17 14.7L12.2002 17.3L14.5 9.40002L9.5 9.40002L11.1001 3.90002L17 7.09998L17 14.7Z" fill="currentColor" opacity="1"/></g>
+</svg>

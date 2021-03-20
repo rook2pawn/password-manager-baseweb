@@ -1,0 +1,8 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Compass north (outlined)</title>
+  <g transform="matrix(
+          1 0
+          0 1
+          4 -0.0001220703125
+        )"><path fill-rule="evenodd" clip-rule="evenodd" d="M0 12.0001L7.9999 24.0003L16 12.0001L7.9999 0L0 12.0001ZM4.6055 13.5001L7.99993 18.5919L11.3944 13.5001L4.6055 13.5001ZM11.3944 10.5001L4.6055 10.5001L7.99993 5.40837L11.3944 10.5001Z" fill="currentColor" opacity="1"/></g>
+</svg>

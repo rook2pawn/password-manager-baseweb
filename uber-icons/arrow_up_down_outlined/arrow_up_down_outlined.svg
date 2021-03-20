@@ -1,0 +1,8 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Arrow up down (outlined)</title>
+  <g transform="matrix(
+          1 0
+          0 1
+          2 2.800048828125
+        )"><path fill-rule="evenodd" clip-rule="evenodd" d="M9 4L14.5 0L20 4L20 7.5L16 4.5L16 17.2L13 17.2L13 4.5L9 7.5L9 4ZM7 1.19995L7 14.8999L11 11.8999L11 15.3999L5.5 19.3999L0 15.3999L0 11.8999L4 14.8999L4 1.19995L7 1.19995Z" fill="currentColor" opacity="1"/></g>
+</svg>

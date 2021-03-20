@@ -1,0 +1,8 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Circle stop cross (filled)</title>
+  <g transform="matrix(
+          1 0
+          0 1
+          0 0
+        )"><path fill-rule="evenodd" clip-rule="evenodd" d="M0 11C0 4.9 4.9 0 11 0C17.1 0 22 4.9 22 11L22 11.0004C22 11.6003 22 12.2001 21.9 12.8C21.3 12.6 20.7 12.5 20 12.5C16.4 12.5 13.5 15.4 13.5 19C13.5 19.9 13.7 20.8 14 21.6C13.1 21.8 12 22 11 22C4.9 22 0 17.1 0 11ZM20 17L22 15L24 17L22 19L24 21L22 23L20 21L18 23L16 21L18 19L16 17L18 15L20 17ZM8 14L14 14L14 8L8 8L8 14Z" fill="currentColor" opacity="1"/></g>
+</svg>

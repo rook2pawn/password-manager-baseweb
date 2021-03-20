@@ -1,0 +1,8 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Chart pie (outlined)</title>
+  <g transform="matrix(
+          1 0
+          0 1
+          1 1
+        )"><path fill-rule="nonzero" clip-rule="nonzero" d="M11 0C4.92 0 0 4.92 0 11C0 17.08 4.92 22 11 22C17.08 22 22 17.08 22 11C22 4.92 17.08 0 11 0ZM18.93 10L12 10L12 3.07001C15.61 3.52001 18.48 6.39 18.93 10ZM11 19C6.59 19 3 15.41 3 11C3 7.28 5.56 4.15001 9 3.26001L9 13L18.74 13C17.85 16.44 14.72 19 11 19Z" fill="currentColor" opacity="1"/></g>
+</svg>

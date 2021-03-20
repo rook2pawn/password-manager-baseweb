@@ -1,0 +1,8 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Clock arrow right (outlined)</title>
+  <g transform="matrix(
+          1 0
+          0 1
+          1 1
+        )"><path fill-rule="evenodd" clip-rule="evenodd" d="M3 11C3 6.6 6.6 3 11 3C15.4 3 19 6.6 19 11L22 11C22 4.9 17.1 0 11 0C4.9 0 0 4.9 0 11C0 17.1 4.9 22 11 22L11 19C6.6 19 3 15.4 3 11ZM14.8999 13L17 16L13 16L13 19L17 19L14.8999 22L18.6001 22L21.8999 17.5L18.6001 13L14.8999 13ZM7.1001 12.8L10 10.7L10 5L13 5L13 12.3L8.8999 15.2L7.1001 12.8Z" fill="currentColor" opacity="1"/></g>
+</svg>

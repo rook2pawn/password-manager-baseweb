@@ -1,0 +1,8 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Person cross (filled)</title>
+  <g transform="matrix(
+          1 0
+          0 1
+          1 1
+        )"><path fill-rule="evenodd" clip-rule="evenodd" d="M9 11C12.0376 11 14.5 8.53757 14.5 5.5C14.5 2.46243 12.0376 0 9 0C5.96243 0 3.5 2.46243 3.5 5.5C3.5 8.53757 5.96243 11 9 11ZM12.1001 22L0 22L0 19C0 15.7 2.7 13 6 13L12 13L12.1001 13C11.1001 14.2 10.5 15.8 10.5 17.5C10.5 19.2 11.1001 20.8 12.1001 22ZM20 13L22 15L19.5 17.5L22 20L20 22L17.5 19.5L15 22L13 20L15.5 17.5L13 15L15 13L17.5 15.5L20 13Z" fill="currentColor" opacity="1"/></g>
+</svg>

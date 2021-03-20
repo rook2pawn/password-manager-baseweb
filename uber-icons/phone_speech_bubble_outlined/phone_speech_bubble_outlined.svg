@@ -1,0 +1,12 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Phone speech bubble (outlined)</title>
+  <g transform="matrix(
+          1 0
+          0 1
+          1 1
+        )"><path fill-rule="nonzero" clip-rule="nonzero" d="M10.39 15.78C8.78 14.63 7.36 13.22 6.22 11.61L10.75 7.43L8.05 0L0 0L0 1.5C0 12.8 9.2 22 20.5 22L22 22L22 13.95L14.57 11.25L10.39 15.78ZM4.67 8.96C3.8 7.12 3.24 5.11 3.06 3L5.95 3L7.25 6.57L4.67 8.96ZM19 16.05L19 18.94C16.89 18.76 14.88 18.2 13.04 17.33L15.42 14.75L19 16.05Z" fill="currentColor" opacity="1"/></g>,<g transform="matrix(
+          1 0
+          0 1
+          14 1
+        )"><path fill-rule="nonzero" clip-rule="nonzero" d="M0 0L0 9L2 7L9 7L9 0L0 0Z" fill="currentColor" opacity="1"/></g>
+</svg>

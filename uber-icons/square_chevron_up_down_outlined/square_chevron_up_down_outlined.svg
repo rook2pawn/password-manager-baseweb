@@ -1,0 +1,8 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Square chevron up down (outlined)</title>
+  <g transform="matrix(
+          1 0
+          0 1
+          1 1
+        )"><path fill-rule="evenodd" clip-rule="evenodd" d="M0 22L0 0L22 0L22 22L0 22ZM3 3L3 19L19 19L19 3L3 3ZM15 9.90002L15 6.70001L11 4.40002L7 6.70001L7 9.90002L11 7.59998L15 9.90002ZM15 15.3L15 12.1L11 14.4L7 12.1L7 15.3L11 17.6L15 15.3Z" fill="currentColor" opacity="1"/></g>
+</svg>

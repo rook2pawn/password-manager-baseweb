@@ -1,0 +1,12 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Battery empty (outlined)</title>
+  <g transform="matrix(
+          1 0
+          0 1
+          5 1
+        )"><path fill-rule="nonzero" clip-rule="nonzero" d="M10 2L10 0L4 0L4 2L0 2L0 22L14 22L14 2L10 2ZM11 19L3 19L3 5L11 5L11 19Z" fill="currentColor" opacity="1"/></g>,<g transform="matrix(
+          1 0
+          0 1
+          10 15
+        )"><path fill-rule="nonzero" clip-rule="nonzero" d="M4 0L0 0L0 3L4 3L4 0Z" fill="currentColor" opacity="1"/></g>
+</svg>

@@ -1,0 +1,8 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Gift box (filled)</title>
+  <g transform="matrix(
+          1 0
+          0 1
+          2 0
+        )"><path fill-rule="evenodd" clip-rule="evenodd" d="M6.25 0C7.09 0 7.86 0.32 8.44 0.85L10 2.27L11.56 0.85C12.14 0.32 12.91 0 13.75 0C15.54 0 17 1.46 17 3.25C17 3.89 16.81 4.49 16.49 5L20 5L20 12L11.5 12L11.5 5L8.5 5L8.5 12L0 12L0 5L3.51 5C3.19 4.49 3 3.89 3 3.25C3 1.46 4.46 0 6.25 0ZM8.5 15L0 15L0 22L8.5 22L8.5 15ZM11.5 22L20 22L20 15L11.5 15L11.5 22Z" fill="currentColor" opacity="1"/></g>
+</svg>

@@ -1,0 +1,8 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Sound (filled)</title>
+  <g transform="matrix(
+          1 0
+          0 1
+          1 1.199951171875
+        )"><path fill-rule="evenodd" clip-rule="evenodd" d="M13 0L13 3.09998C16.4 3.99998 19 7.09999 19 10.9C19 14.7 16.4 17.7 13 18.7L13 21.8C18.1 20.9 22 16.4 22 11C22 5.4 18.1 0.9 13 0ZM16 10.8001C16 8.70008 14.8 7.00007 13 6.20007L13 15.4001C14.8 14.6001 16 12.9001 16 10.8001ZM0 5.80005L3.80005 5.80005L8 1.80005L10 1.80005L10 19.8L8 19.8L3.80005 15.8L0 15.8L0 5.80005Z" fill="currentColor" opacity="1"/></g>
+</svg>

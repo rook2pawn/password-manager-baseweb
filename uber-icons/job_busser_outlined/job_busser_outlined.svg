@@ -1,0 +1,8 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Job busser (outlined)</title>
+  <g transform="matrix(
+          1 0
+          0 1
+          1 2
+        )"><path fill-rule="nonzero" clip-rule="nonzero" d="M20.9 10C20.6 7.2 18.6 5.00001 16 4.20001C14.7 1.70001 12 0 8.9 0C4.5 0 0.900002 3.6 0.900002 8C0.900002 8.7 1 9.4 1.2 10L0 10L0 15C0 17.8 2.2 20 5 20L17 20C19.8 20 22 17.8 22 15L22 10L20.9 10ZM17.9 10L10.6 10C10.9 8.3 12.5 7 14.3 7C16.1 7 17.6 8.3 17.9 10ZM4 8C4 5.2 6.2 3 9 3C10.3 3 11.4 3.49999 12.3 4.29999C9.8 5.09999 7.9 7.3 7.6 10L4.5 10C4.2 9.4 4 8.7 4 8ZM19 15C19 16.1 18.1 17 17 17L5 17C3.9 17 3 16.1 3 15L3 13L19 13L19 15Z" fill="currentColor" opacity="1"/></g>
+</svg>

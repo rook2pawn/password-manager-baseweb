@@ -1,0 +1,8 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Airplane arrive (filled)</title>
+  <g transform="matrix(
+          1 0
+          0 1
+          0 1.5999755859375
+        )"><path fill-rule="evenodd" clip-rule="evenodd" d="M22.2002 13.5C21.7002 15 20.2002 15.8 18.7002 15.3L2 9.7L2 3.2L4.1001 3.89999L5.3999 6.2L9 7.29999L9 0L11.5 0.899994L15.6001 8.39999L20.3999 10C21.8999 10.5 22.7002 12 22.2002 13.5ZM0 19.4L24 19.4L24 22.4L0 22.4L0 19.4Z" fill="currentColor" opacity="1"/></g>
+</svg>

@@ -1,0 +1,8 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Person speech bubble (filled)</title>
+  <g transform="matrix(
+          1 0
+          0 1
+          1 1
+        )"><path fill-rule="evenodd" clip-rule="evenodd" d="M8 10C10.7614 10 13 7.76142 13 5C13 2.23858 10.7614 0 8 0C5.23858 0 3 2.23858 3 5C3 7.76142 5.23858 10 8 10ZM0 18L0 22L10 22L10 12L6 12C2.7 12 0 14.7 0 18ZM12 22L12 12L22 12L22 20L14.5 20L13 22L12 22Z" fill="currentColor" opacity="1"/></g>
+</svg>

@@ -1,0 +1,8 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Parking (filled)</title>
+  <g transform="matrix(
+          1 0
+          0 1
+          6 2
+        )"><path fill-rule="nonzero" clip-rule="nonzero" d="M3 20L0 20L0 0L8.5 0C12.08 0 15 2.92 15 6.5C15 10.08 12.08 13 8.5 13L3 13L3 20ZM3 10L8.5 10C10.43 10 12 8.43 12 6.5C12 4.57 10.43 3 8.5 3L3 3L3 10Z" fill="currentColor" opacity="1"/></g>
+</svg>

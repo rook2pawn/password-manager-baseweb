@@ -1,0 +1,8 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Checkbox checked (outlined)</title>
+  <g transform="matrix(
+          1 0
+          0 1
+          2 2
+        )"><path fill-rule="evenodd" clip-rule="evenodd" d="M0 20L0 0L20 0L20 20L0 20ZM3 17L17 17L17 3L3 3L3 17ZM13.8999 5.40002L16.0999 7.60004L8.49988 15.1L3.8999 10.6L6.09985 8.40002L8.49988 10.9L13.8999 5.40002Z" fill="currentColor" opacity="1"/></g>
+</svg>

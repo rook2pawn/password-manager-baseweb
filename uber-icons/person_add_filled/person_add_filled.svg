@@ -1,0 +1,8 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Person add (filled)</title>
+  <g transform="matrix(
+          1 0
+          0 1
+          1 1
+        )"><path fill-rule="evenodd" clip-rule="evenodd" d="M9 11C12.0376 11 14.5 8.53757 14.5 5.5C14.5 2.46243 12.0376 0 9 0C5.96243 0 3.5 2.46243 3.5 5.5C3.5 8.53757 5.96243 11 9 11ZM22 16L19 16L19 13L16 13L16 16L13 16L13 19L16 19L16 22L19 22L19 19L22 19L22 16ZM0 22L12.1001 22C11.1001 20.8 10.5 19.2 10.5 17.5C10.5 15.8 11.1001 14.2 12.1001 13L12 13L6 13C2.7 13 0 15.7 0 19L0 22Z" fill="currentColor" opacity="1"/></g>
+</svg>

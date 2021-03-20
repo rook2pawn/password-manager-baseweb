@@ -1,0 +1,8 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Arrow right return (outlined)</title>
+  <g transform="matrix(
+          1 0
+          0 1
+          4 1
+        )"><path fill-rule="nonzero" clip-rule="nonzero" d="M15 12.92L15 7.74001C15 3.54001 11.57 0 7.5 0C3.36 0 0 3.36 0 7.5L0 22L3 22L3 7.5C3 5.02 5.02 3 7.5 3C9.94 3 12 5.17001 12 7.74001L12 12.92L8 10L8 13.47L13.5 17.5L19 13.47L19 10L15 12.92Z" fill="currentColor" opacity="1"/></g>
+</svg>

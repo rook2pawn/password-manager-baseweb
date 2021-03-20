@@ -1,0 +1,8 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Weather moon (filled)</title>
+  <g transform="matrix(
+          1 0
+          0 1
+          2.10009765625 1.098480224609375
+        )"><path fill-rule="nonzero" clip-rule="nonzero" d="M15.6997 12.4015C11.6997 12.4015 8.5 9.20152 8.5 5.20152C8.5 3.10152 9.39971 1.30153 10.6997 0.00153478C4.69971 -0.0984652 0 4.70153 0 10.5015C0 16.3015 4.7 21.0015 10.5 21.0015C16.2 21.0015 21.1 16.4015 21 10.3015C19.6 11.5015 17.6997 12.4015 15.6997 12.4015Z" fill="currentColor" opacity="1"/></g>
+</svg>

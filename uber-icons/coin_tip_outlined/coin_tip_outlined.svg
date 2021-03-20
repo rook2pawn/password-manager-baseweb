@@ -1,0 +1,12 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Coin tip (outlined)</title>
+  <g transform="matrix(
+          1 0
+          0 1
+          1 1
+        )"><path fill-rule="nonzero" clip-rule="nonzero" d="M11 3C15.41 3 19 6.59 19 11C19 15.41 15.41 19 11 19C6.59 19 3 15.41 3 11C3 6.59 6.59 3 11 3ZM11 0C4.92 0 0 4.92 0 11C0 17.08 4.92 22 11 22C17.08 22 22 17.08 22 11C22 4.92 17.08 0 11 0Z" fill="currentColor" opacity="1"/></g>,<g transform="matrix(
+          1 0
+          0 1
+          6 6
+        )"><path fill-rule="nonzero" clip-rule="nonzero" d="M6 0L4.5 4.5L0 6L4.5 7.5L6 12L7.5 7.5L12 6L7.5 4.5L6 0Z" fill="currentColor" opacity="1"/></g>
+</svg>

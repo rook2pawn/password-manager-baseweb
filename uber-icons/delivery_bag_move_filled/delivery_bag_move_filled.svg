@@ -1,0 +1,10 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Delivery bag move (filled)</title>
+  <g transform="matrix(
+          1 0
+          0 1
+          0 3
+        )"><path fill-rule="evenodd" clip-rule="evenodd" d="M21 0L21 5L23 5L23 13.75C23 14.3081 22.8901 14.8608 22.6765 15.3764C22.4629 15.892 22.1499 16.3606 21.7552 16.7552C21.3606 17.1499 20.892 17.4629 20.3764 17.6765C19.8608 17.8901 19.3081 18 18.75 18L12.25 18C11.1228 18 10.0418 17.5522 9.2448 16.7552C8.85015 16.3606 8.53709 15.892 8.32351 15.3764C8.10993 14.8608 8 14.3081 8 13.75L8 5L10 5L10 0L21 0ZM18 3L13 3L13 5L18 5L18 3Z" fill="currentColor" opacity="1"/>
+<path fill-rule="nonzero" clip-rule="nonzero" d="M6 5L0 5L0 8L6 8L6 5Z" fill="currentColor" opacity="1"/>
+<path fill-rule="nonzero" clip-rule="nonzero" d="M6 10L1 10L1 13L6 13L6 10Z" fill="currentColor" opacity="1"/></g>
+</svg>

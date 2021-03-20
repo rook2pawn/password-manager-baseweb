@@ -1,0 +1,8 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Arrow left slight (filled)</title>
+  <g transform="matrix(
+          1 0
+          0 1
+          5 1
+        )"><path fill-rule="nonzero" clip-rule="nonzero" d="M9.8 7.68L5.12 3L11.5 3L8.5 0L0 0L0 8.5L3 11.5L3 5.12L7.68 9.8C8.53 10.65 9 11.78 9 12.98L9 22L12 22L12 12.99C12 10.98 11.22 9.1 9.8 7.68Z" fill="currentColor" opacity="1"/></g>
+</svg>

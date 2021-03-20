@@ -1,0 +1,8 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Train (filled)</title>
+  <g transform="matrix(
+          1 0
+          0 1
+          3 1
+        )"><path fill-rule="nonzero" clip-rule="nonzero" d="M18 4C18 4 15.5 0 9 0C2.5 0 0 4 0 4L0 16.5L2.76001 19.26L0.019989 22L3.98001 22L6.98001 19L11.02 19L14.02 22L17.98 22L15.24 19.26L18 16.5L18 4L18 4ZM9 3C12.33 3 14.19 4.32003 15 5.09003L15 8L3 8L3 5.09003C3.81 4.32003 5.67 3 9 3ZM12 16L6 16L6 14L12 14L12 16Z" fill="currentColor" opacity="1"/></g>
+</svg>

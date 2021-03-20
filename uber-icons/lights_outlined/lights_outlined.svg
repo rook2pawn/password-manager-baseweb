@@ -1,0 +1,20 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Lights (outlined)</title>
+  <g transform="matrix(
+          1 0
+          0 1
+          16 10.5
+        )"><path fill-rule="nonzero" clip-rule="nonzero" d="M7 0L0 0L0 3L7 3L7 0Z" fill="currentColor" opacity="1"/></g>,<g transform="matrix(
+          1 0
+          0 1
+          16 3.22998046875
+        )"><path fill-rule="nonzero" clip-rule="nonzero" d="M0 2.09998L0 5.23999L7 3.13998L7 0L0 2.09998Z" fill="currentColor" opacity="1"/></g>,<g transform="matrix(
+          1 0
+          0 1
+          16 15.530029296875
+        )"><path fill-rule="nonzero" clip-rule="nonzero" d="M0 3.14001L7 5.23999L7 2.10001L0 0L0 3.14001Z" fill="currentColor" opacity="1"/></g>,<g transform="matrix(
+          1 0
+          0 1
+          1 5
+        )"><path fill-rule="nonzero" clip-rule="nonzero" d="M0 7C0 10.87 3.13 14 7 14L13 14L13 0L7 0C3.13 0 0 3.13 0 7ZM10 11L7 11C4.79 11 3 9.21 3 7C3 4.79 4.79 3 7 3L10 3L10 11Z" fill="currentColor" opacity="1"/></g>
+</svg>

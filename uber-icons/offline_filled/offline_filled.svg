@@ -1,0 +1,16 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Offline (filled)</title>
+  <g transform="matrix(
+          1 0
+          0 1
+          0.1904296875 4
+        )"><path fill-rule="nonzero" clip-rule="nonzero" d="M13.97 3.28L16.41 0.84C14.81 0.3 13.09 0 11.31 0C6.9 0 2.9 1.8 0 4.69L2.12 6.81C4.47 4.46 7.73 3 11.31 3C12.22 3 13.11 3.09 13.97 3.28Z" fill="currentColor" opacity="1"/></g>,<g transform="matrix(
+          1 0
+          0 1
+          4.080078125 9.5
+        )"><path fill-rule="nonzero" clip-rule="nonzero" d="M4.04999 3.81L7.84998 0.00999832C7.70998 -1.67824e-06 7.56998 1.84741e-13 7.41998 1.84741e-13C4.51998 1.84741e-13 1.9 1.18 0 3.08L2.12 5.2C2.68 4.64 3.32999 4.16 4.04999 3.81Z" fill="currentColor" opacity="1"/></g>,<g transform="matrix(
+          1 0
+          0 1
+          5.01953125 3.02001953125
+        )"><path fill-rule="nonzero" clip-rule="nonzero" d="M18.9805 1.97998L17 0L0 17L2.03998 19.04L5.28998 15.79L7.47998 17.98L11.02 14.44C10.21 13.64 9.16999 13.16 8.04999 13.04L10.12 10.97C11.11 11.34 12.02 11.92 12.78 12.69L14.9 10.57C14.15 9.82 13.29 9.2 12.38 8.71L14.22 6.87C15.1 7.41 15.93 8.05 16.67 8.79L18.79 6.67C18.04 5.92 17.24 5.27 16.39 4.69L18.9805 1.97998Z" fill="currentColor" opacity="1"/></g>
+</svg>

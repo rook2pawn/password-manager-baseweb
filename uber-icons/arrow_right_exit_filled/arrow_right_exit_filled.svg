@@ -1,0 +1,12 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Arrow right exit (filled)</title>
+  <g transform="matrix(
+          1 0
+          0 1
+          5 2
+        )"><path fill-rule="nonzero" clip-rule="nonzero" d="M3 6.34L3 0L0 0L0 9.5C0.31 9.09 0.649998 8.7 1.01 8.33L3 6.34Z" fill="currentColor" opacity="1"/></g>,<g transform="matrix(
+          1 0
+          0 1
+          5 2
+        )"><path fill-rule="nonzero" clip-rule="nonzero" d="M8.5 0L5.5 3L9.88 3L2.78 10.1C0.989999 11.89 0 14.28 0 16.81L0 20L3 20L3 16.81C3 15.07 3.68 13.44 4.9 12.21L12 5.11L12 9.49L15 6.49L15 0L8.5 0Z" fill="currentColor" opacity="1"/></g>
+</svg>

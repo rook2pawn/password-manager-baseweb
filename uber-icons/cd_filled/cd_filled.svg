@@ -1,0 +1,8 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Cd (filled)</title>
+  <g transform="matrix(
+          1 0
+          0 1
+          1 1
+        )"><path fill-rule="nonzero" clip-rule="nonzero" d="M11 0C4.9 0 0 4.9 0 11C0 17.1 4.9 22 11 22C17.1 22 22 17.1 22 11C22 4.9 17.1 0 11 0ZM11 14C9.3 14 8 12.7 8 11C8 9.3 9.3 8 11 8C12.7 8 14 9.3 14 11C14 12.7 12.7 14 11 14Z" fill="currentColor" opacity="1"/></g>
+</svg>

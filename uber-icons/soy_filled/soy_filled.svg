@@ -1,0 +1,8 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Soy (filled)</title>
+  <g transform="matrix(
+          1 0
+          0 1
+          1 1
+        )"><path fill-rule="nonzero" clip-rule="nonzero" d="M2 0L0 0L0 2C0 13.05 8.95 22 20 22L22 22L22 20C22 8.95 13.05 0 2 0ZM5.5 8C4.12 8 3 6.88 3 5.5C3 4.12 4.12 3 5.5 3C6.88 3 8 4.12 8 5.5C8 6.88 6.88 8 5.5 8ZM11 13.5C9.62 13.5 8.5 12.38 8.5 11C8.5 9.62 9.62 8.5 11 8.5C12.38 8.5 13.5 9.62 13.5 11C13.5 12.38 12.38 13.5 11 13.5ZM16.5 19C15.12 19 14 17.88 14 16.5C14 15.12 15.12 14 16.5 14C17.88 14 19 15.12 19 16.5C19 17.88 17.88 19 16.5 19Z" fill="currentColor" opacity="1"/></g>
+</svg>

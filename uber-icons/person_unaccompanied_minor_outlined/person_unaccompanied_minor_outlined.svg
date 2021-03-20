@@ -1,0 +1,8 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Person unaccompanied minor (outlined)</title>
+  <g transform="matrix(
+          1 0
+          0 1
+          2 1
+        )"><path fill-rule="evenodd" clip-rule="evenodd" d="M7.5 2.5C7.5 3.88071 6.38071 5 5 5C3.61929 5 2.5 3.88071 2.5 2.5C2.5 1.11929 3.61929 0 5 0C6.38071 0 7.5 1.11929 7.5 2.5ZM0 9.5C0 7.6 1.6 6 3.5 6L6.5 6C8.4 6 10 7.6 10 9.5L10 17L9 17L9 22L6 22L6 14L7 14L7 9.5C7 9.2 6.8 9 6.5 9L3.5 9C3.2 9 3 9.2 3 9.5L3 14L4 14L4 22L1 22L1 17L0 17L0 9.5ZM20 13.5C20 11.6 18.4 10 16.5 10L15.5 10C13.6 10 12 11.6 12 13.5L12 17L13 17L13 22L19 22L19 17L20 17L20 13.5ZM17 13L17 17L15 17L15 13L17 13ZM18.5 6.5C18.5 7.88071 17.3807 9 16 9C14.6193 9 13.5 7.88071 13.5 6.5C13.5 5.11929 14.6193 4 16 4C17.3807 4 18.5 5.11929 18.5 6.5Z" fill="currentColor" opacity="1"/></g>
+</svg>

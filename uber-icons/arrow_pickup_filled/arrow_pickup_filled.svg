@@ -1,0 +1,12 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Arrow pickup (filled)</title>
+  <g transform="matrix(
+          1 0
+          0 1
+          10 18
+        )"><path fill-rule="nonzero" clip-rule="nonzero" d="M2 4C3.10457 4 4 3.10457 4 2C4 0.89543 3.10457 0 2 0C0.89543 0 0 0.89543 0 2C0 3.10457 0.89543 4 2 4Z" fill="currentColor" opacity="1"/></g>,<g transform="matrix(
+          1 0
+          0 1
+          5 1.77001953125
+        )"><path fill-rule="nonzero" clip-rule="nonzero" d="M7 0L0 5.12L0 8.59L5.5 4.56L5.5 14.23L8.5 14.23L8.5 4.56L14 8.59L14 5.12L7 0Z" fill="currentColor" opacity="1"/></g>
+</svg>

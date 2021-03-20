@@ -1,0 +1,8 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Arrow counter clockwise (outlined)</title>
+  <g transform="matrix(
+          1 0
+          0 1
+          0 3
+        )"><path fill-rule="nonzero" clip-rule="nonzero" d="M13 0C8 0 4 4 4 9C4 9.2 4 9.4 4 9.5L0 6.29999L0 10.1L6 14.8L12 10.1L12 6.29999L7.10001 10.1C7.00001 9.70001 7 9.29999 7 8.89999C7 5.59999 9.7 2.89999 13 2.89999C16.3 2.89999 19 5.59999 19 8.89999C19 12.2 16.3 14.9 13 14.9L13 17.9C18 17.9 22 13.9 22 8.89999C22 3.89999 18 0 13 0Z" fill="currentColor" opacity="1"/></g>
+</svg>

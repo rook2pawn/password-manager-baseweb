@@ -1,0 +1,20 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Face very sad (outlined)</title>
+  <g transform="matrix(
+          1 0
+          0 1
+          1 1
+        )"><path fill-rule="nonzero" clip-rule="nonzero" d="M11 0C4.92 0 0 4.92 0 11C0 17.08 4.92 22 11 22C17.08 22 22 17.08 22 11C22 4.92 17.08 0 11 0ZM11 19C6.59 19 3 15.41 3 11C3 6.59 6.59 3 11 3C15.41 3 19 6.59 19 11C19 15.41 15.41 19 11 19Z" fill="currentColor" opacity="1"/></g>,<g transform="matrix(
+          1 0
+          0 1
+          6.5 7
+        )"><path fill-rule="nonzero" clip-rule="nonzero" d="M2.25 0C1.01 0 0 1.34 0 3L4.5 3C4.5 1.34 3.49 0 2.25 0Z" fill="currentColor" opacity="1"/></g>,<g transform="matrix(
+          1 0
+          0 1
+          13 7
+        )"><path fill-rule="nonzero" clip-rule="nonzero" d="M2.25 0C1.01 0 0 1.34 0 3L4.5 3C4.5 1.34 3.49 0 2.25 0Z" fill="currentColor" opacity="1"/></g>,<g transform="matrix(
+          1 0
+          0 1
+          7.5 12
+        )"><path fill-rule="nonzero" clip-rule="nonzero" d="M4.5 0C2.01 0 0 2.24 0 5L9 5C9 2.24 6.99 0 4.5 0Z" fill="currentColor" opacity="1"/></g>
+</svg>

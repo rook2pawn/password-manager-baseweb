@@ -1,0 +1,20 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Game controller (outlined)</title>
+  <g transform="matrix(
+          1 0
+          0 1
+          0 3
+        )"><path fill-rule="nonzero" clip-rule="nonzero" d="M0 0L0 17L24 17L24 0L0 0ZM21 14L3 14L3 3L21 3L21 14Z" fill="currentColor" opacity="1"/></g>,<g transform="matrix(
+          1 0
+          0 1
+          5 8
+        )"><path fill-rule="nonzero" clip-rule="nonzero" d="M2 7L5 7L5 5L7 5L7 2L5 2L5 0L2 0L2 2L0 2L0 5L2 5L2 7Z" fill="currentColor" opacity="1"/></g>,<g transform="matrix(
+          1 0
+          0 1
+          16 12
+        )"><path fill-rule="nonzero" clip-rule="nonzero" d="M3 0L0 0L0 3L3 3L3 0Z" fill="currentColor" opacity="1"/></g>,<g transform="matrix(
+          1 0
+          0 1
+          14 8
+        )"><path fill-rule="nonzero" clip-rule="nonzero" d="M3 0L0 0L0 3L3 3L3 0Z" fill="currentColor" opacity="1"/></g>
+</svg>

@@ -1,0 +1,8 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Paper fold (outlined)</title>
+  <g transform="matrix(
+          1 0
+          0 1
+          2 1
+        )"><path fill-rule="nonzero" clip-rule="nonzero" d="M13.5 2.5L7.5 0L0 2.5L0 22L7.5 19.5L13.5 22L21 19.5L21 0L13.5 2.5ZM3 4.7L6 3.7L6 16.9L3 17.9L3 4.7ZM9 3.9L12 5.1L12 18.1L9 16.9L9 3.9ZM18 17.3L15 18.3L15 5.2L18 4.2L18 17.3Z" fill="currentColor" opacity="1"/></g>
+</svg>

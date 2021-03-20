@@ -1,0 +1,8 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Square chevron up down (filled)</title>
+  <g transform="matrix(
+          1 0
+          0 1
+          2 2
+        )"><path fill-rule="nonzero" clip-rule="nonzero" d="M0 0L0 20L20 20L20 0L0 0ZM15 14.3L10 17.1L5 14.3L5 11L10 13.9L15 11L15 14.3ZM15 9L10 6.09998L5 9L5 5.79999L10 3L15 5.79999L15 9Z" fill="currentColor" opacity="1"/></g>
+</svg>

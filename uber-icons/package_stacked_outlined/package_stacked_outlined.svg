@@ -1,0 +1,8 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Package stacked (outlined)</title>
+  <g transform="matrix(
+          1 0
+          0 1
+          1 2
+        )"><path fill-rule="nonzero" clip-rule="nonzero" d="M22 3L22 0L21.5 0L0.5 0L0 0L0 3L1.25 3L2.75 9L0.5 9L0 9L0 12L1.32 12L3.5 20L18.5 20L20.68 12L22 12L22 9L21.5 9L19.25 9L20.75 3L22 3ZM16.21 17L5.79 17L4.43 12L17.57 12L16.21 17ZM16.16 9L5.84 9L4.34 3L17.66 3L16.16 9Z" fill="currentColor" opacity="1"/></g>
+</svg>

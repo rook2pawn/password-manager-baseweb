@@ -1,0 +1,8 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Masks (filled)</title>
+  <g transform="matrix(
+          1 0
+          0 1
+          1 1
+        )"><path fill-rule="evenodd" clip-rule="evenodd" d="M22 8L22 0L8 0L8 5L16 5L16 14.9C19.4 14.4 22 11.5 22 8ZM14 15L14 7L0 7L0 15C0 18.9 3.1 22 7 22C10.9 22 14 18.9 14 15Z" fill="currentColor" opacity="1"/></g>
+</svg>

@@ -1,0 +1,12 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Train exit (filled)</title>
+  <g transform="matrix(
+          1 0
+          0 1
+          3 2.010009765625
+        )"><path fill-rule="nonzero" clip-rule="nonzero" d="M3 8.98999L3 4.98999C4.15 3.75999 6.21 3 8.5 3C9.01 3 9.52 3.04 10 3.12L10 0.0899658C9.5 0.0299658 9 0 8.5 0C5.08 0 1.66 1.32999 0 3.98999L0 15.49L2.76001 18.25L0.019989 20.99L3.98001 20.99L6.98001 17.99L10.02 17.99L13.02 20.99L16.98 20.99L14.24 18.25L17 15.49L17 8.98999L3 8.98999ZM6 12.99L11 12.99L11 14.99L6 14.99L6 12.99Z" fill="currentColor" opacity="1"/></g>,<g transform="matrix(
+          1 0
+          0 1
+          15 0
+        )"><path fill-rule="nonzero" clip-rule="nonzero" d="M5.70001 0L2.22 0L4.42001 3L0 3L0 6L4.42001 6L2.22 9L5.70001 9L9 4.5L5.70001 0Z" fill="currentColor" opacity="1"/></g>
+</svg>

@@ -1,0 +1,8 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Cheese (outlined)</title>
+  <g transform="matrix(
+          1 0
+          0 1
+          1 1.3900146484375
+        )"><path fill-rule="nonzero" clip-rule="nonzero" d="M21.96 8.75C20.26 1.95 13.64 0.22 13.36 0.15L12.73 0L0 8.3L0 19.61L22 19.61L22 9.11L21.96 8.75ZM13.22 3.26C14.38 3.68 16.93 4.9 18.33 7.61L6.54 7.61L13.22 3.26ZM3 16.61L3 10.61L19 10.61L19 16.61L3 16.61Z" fill="currentColor" opacity="1"/></g>
+</svg>

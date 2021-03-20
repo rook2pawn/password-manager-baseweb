@@ -1,0 +1,8 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Thumb down (filled)</title>
+  <g transform="matrix(
+          1 0
+          0 1
+          2 2
+        )"><path fill-rule="evenodd" clip-rule="evenodd" d="M0 0L3 0L3 12L0 12L0 0ZM5 0L15.6 0C16.8 0 17.8 0.700012 18.3 1.70001L21 7.5L21 10.5C21 11.9 19.9 13 18.5 13L13 13L13 19C13 20.7 11.7 22 10 22L9.5 22L5 12L5 0Z" fill="currentColor" opacity="1"/></g>
+</svg>

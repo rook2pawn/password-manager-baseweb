@@ -1,0 +1,8 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Paper airplane (outlined)</title>
+  <g transform="matrix(
+          1 0
+          0 1
+          2 1
+        )"><path fill-rule="nonzero" clip-rule="nonzero" d="M0 0L0 22L22 11L0 0ZM3 13.5L8 11L3 8.5L3 4.9L15.3 11L3 17.1L3 13.5Z" fill="currentColor" opacity="1"/></g>
+</svg>

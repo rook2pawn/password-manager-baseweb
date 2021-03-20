@@ -1,0 +1,12 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Folder open (filled)</title>
+  <g transform="matrix(
+          1 0
+          0 1
+          1 12
+        )"><path fill-rule="nonzero" clip-rule="nonzero" d="M22 0L0 0L0 9L22 9L22 0Z" fill="currentColor" opacity="1"/></g>,<g transform="matrix(
+          1 0
+          0 1
+          1 3
+        )"><path fill-rule="nonzero" clip-rule="nonzero" d="M22 7L22 3L11.5 3L8.5 0L0 0L0 7L22 7Z" fill="currentColor" opacity="1"/></g>
+</svg>

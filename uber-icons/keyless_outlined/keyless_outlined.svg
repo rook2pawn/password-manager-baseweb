@@ -1,0 +1,11 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Keyless (outlined)</title>
+  <g transform="matrix(
+          1 0
+          0 1
+          4.2001953125 1
+        )"><path fill-rule="nonzero" clip-rule="nonzero" d="M3.59961 6.79999L5.69961 8.90002C6.79961 7.80002 8.79961 7.80002 9.89961 8.90002L11.9996 6.79999C10.8996 5.69999 9.39961 5 7.79961 5C6.19961 5 4.69961 5.59999 3.59961 6.79999Z" fill="currentColor" opacity="1"/>
+<path fill-rule="nonzero" clip-rule="nonzero" d="M7.8 3C9.9 3 11.9 3.79999 13.5 5.29999L15.6 3.20001C13.5 1.10001 10.8 0 7.8 0C4.8 0 2.1 1.10001 0 3.20001L2.1 5.29999C3.7 3.79999 5.7 3 7.8 3Z" fill="currentColor" opacity="1"/>
+<path fill-rule="nonzero" clip-rule="nonzero" d="M11.2998 11L4.2998 11C2.3998 11 0.799805 12.6 0.799805 14.5L0.799805 22L3.7998 22L3.7998 14.5C3.7998 14.2 3.9998 14 4.2998 14L11.2998 14C11.5998 14 11.7998 14.2 11.7998 14.5L11.7998 22L14.7998 22L14.7998 14.5C14.7998 12.6 13.1998 11 11.2998 11Z" fill="currentColor" opacity="1"/>
+<path fill-rule="nonzero" clip-rule="nonzero" d="M9.7998 17L5.7998 17L5.7998 20L9.7998 20L9.7998 17Z" fill="currentColor" opacity="1"/></g>
+</svg>

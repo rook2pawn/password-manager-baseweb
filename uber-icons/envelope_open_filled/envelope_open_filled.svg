@@ -1,0 +1,8 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Envelope open (filled)</title>
+  <g transform="matrix(
+          1 0
+          0 1
+          1 0
+        )"><path fill-rule="evenodd" clip-rule="evenodd" d="M1 7L11 0L21 7L11 13.8L1 7ZM0 10L11 17.5L22 10L22 22L0 22L0 10Z" fill="currentColor" opacity="1"/></g>
+</svg>

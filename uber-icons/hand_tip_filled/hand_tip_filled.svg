@@ -1,0 +1,8 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Hand tip (filled)</title>
+  <g transform="matrix(
+          1 0
+          0 1
+          1 1
+        )"><path fill-rule="evenodd" clip-rule="evenodd" d="M22 4.5C22 6.98528 19.9853 9 17.5 9C15.0147 9 13 6.98528 13 4.5C13 2.01472 15.0147 0 17.5 0C19.9853 0 22 2.01472 22 4.5ZM15.1 14L17.6 12.5C19 11.6 20.8 11.8 22 13L22 14L12.5 21L0 21L0 12L4 8L11 8L11 10.4L7 13L8 14L15.1 14Z" fill="currentColor" opacity="1"/></g>
+</svg>

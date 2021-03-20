@@ -1,0 +1,8 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Thumb up (outlined)</title>
+  <g transform="matrix(
+          1 0
+          0 1
+          1 0
+        )"><path fill-rule="evenodd" clip-rule="evenodd" d="M12 4C12 3.6 11.8 3.30001 11.4 3.10001L8 10.6L8 19L16 19C16.4 19 16.7 18.8 16.9 18.4L19 13.8L19 11L12 11L12 8L12 4ZM9.5 0L11 0C13.2 0 15 1.8 15 4L15 8L19 8C20.7 8 22 9.3 22 11L22 14.5L19.6 19.7C19 21.1 17.6 22 16 22L5 22L5 10L9.5 0ZM0 10L3 10L3 22L0 22L0 10Z" fill="currentColor" opacity="1"/></g>
+</svg>

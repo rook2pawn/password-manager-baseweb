@@ -1,0 +1,8 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Phone arrow left (outlined)</title>
+  <g transform="matrix(
+          1 0
+          0 1
+          -0.10009765625 2
+        )"><path fill-rule="evenodd" clip-rule="evenodd" d="M6.30005 11.6C7.50005 13.2 8.9 14.7 10.5 15.8L14.6001 11.2L22 13.9L22 22L20.5 22C9.2 22 0 12.8 0 1.5L0 0L8.1001 0L10.8 7.39999L6.30005 11.6ZM3.2002 3C3.4002 5.2 3.90005 7.2 4.80005 9L7.40015 6.60001L6.1001 3L3.2002 3ZM19.1001 19L19.1001 16.1L15.5 14.8L13.1001 17.4C15.0001 18.3 17.0001 18.8 19.1001 19ZM20 0L17.4001 3.5L22.1001 3.5L22.1001 6.5L17.4001 6.5L20 10L16.5 10L12.9001 5L16.5 0L20 0Z" fill="currentColor" opacity="1"/></g>
+</svg>

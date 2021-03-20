@@ -1,0 +1,16 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Warehouse (outlined)</title>
+  <g transform="matrix(
+          1 0
+          0 1
+          1 1
+        )"><path fill-rule="nonzero" clip-rule="nonzero" d="M11 0L0 5L0 22L22 22L22 5L11 0ZM19 19L3 19L3 6.93L11 3.29L19 6.93L19 19Z" fill="currentColor" opacity="1"/></g>,<g transform="matrix(
+          1 0
+          0 1
+          6 15
+        )"><path fill-rule="nonzero" clip-rule="nonzero" d="M12 0L0 0L0 3L12 3L12 0Z" fill="currentColor" opacity="1"/></g>,<g transform="matrix(
+          1 0
+          0 1
+          6 10
+        )"><path fill-rule="nonzero" clip-rule="nonzero" d="M12 0L0 0L0 3L12 3L12 0Z" fill="currentColor" opacity="1"/></g>
+</svg>

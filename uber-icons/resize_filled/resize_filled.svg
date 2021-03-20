@@ -1,0 +1,16 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Resize (filled)</title>
+  <g transform="matrix(
+          1 0
+          0 1
+          18.51953125 18.52001953125
+        )"><path fill-rule="nonzero" clip-rule="nonzero" d="M4.48 0L4.48 4.48L0 4.48L4.48 0Z" fill="currentColor" opacity="1"/></g>,<g transform="matrix(
+          1 0
+          0 1
+          11.51953125 11.52001953125
+        )"><path fill-rule="nonzero" clip-rule="nonzero" d="M11.48 0L11.48 3.96001L3.96 11.48L0 11.48L11.48 0Z" fill="currentColor" opacity="1"/></g>,<g transform="matrix(
+          1 0
+          0 1
+          4.51953125 4.52001953125
+        )"><path fill-rule="nonzero" clip-rule="nonzero" d="M18.48 0L18.48 3.96001L3.96 18.48L0 18.48L18.48 0Z" fill="currentColor" opacity="1"/></g>
+</svg>

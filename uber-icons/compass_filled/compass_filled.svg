@@ -1,0 +1,12 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Compass (filled)</title>
+  <g transform="matrix(
+          1 0
+          0 1
+          7.800048828125 2
+        )"><path fill-rule="nonzero" clip-rule="nonzero" d="M0 3.70001L10.5 14.2L14.2 0L0 3.70001Z" fill="currentColor" opacity="1"/></g>,<g transform="matrix(
+          1 0
+          0 1
+          2 7.800048828125
+        )"><path fill-rule="nonzero" clip-rule="nonzero" d="M3.69995 0L0 14.2L14.2 10.5L3.69995 0Z" fill="currentColor" opacity="1"/></g>
+</svg>

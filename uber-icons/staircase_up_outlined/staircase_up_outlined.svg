@@ -1,0 +1,12 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Staircase up (outlined)</title>
+  <g transform="matrix(
+          1 0
+          0 1
+          1.300048828125 1
+        )"><path fill-rule="nonzero" clip-rule="nonzero" d="M6.69995 9.5L9.69995 6.5L9.69995 0L3.19995 0L0.199951 3L4.69995 3L0 7.79999L1.8999 9.70001L6.69995 5L6.69995 9.5Z" fill="currentColor" opacity="1"/></g>,<g transform="matrix(
+          1 0
+          0 1
+          5 5
+        )"><path fill-rule="nonzero" clip-rule="nonzero" d="M12 0L12 6L6 6L6 12L0 12L0 18L3 18L3 15L9 15L9 9L15 9L15 3L18 3L18 0L12 0Z" fill="currentColor" opacity="1"/></g>
+</svg>

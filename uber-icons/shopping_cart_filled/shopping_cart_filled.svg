@@ -1,0 +1,8 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Shopping cart (filled)</title>
+  <g transform="matrix(
+          1 0
+          0 1
+          1 2
+        )"><path fill-rule="evenodd" clip-rule="evenodd" d="M4.5 15L20 15L22 3L5.5 3L5.1001 0L0 0L0 3L2.5 3L4.5 15ZM6.5 20C7.60457 20 8.5 19.1046 8.5 18C8.5 16.8954 7.60457 16 6.5 16C5.39543 16 4.5 16.8954 4.5 18C4.5 19.1046 5.39543 20 6.5 20ZM20.5 18C20.5 19.1046 19.6046 20 18.5 20C17.3954 20 16.5 19.1046 16.5 18C16.5 16.8954 17.3954 16 18.5 16C19.6046 16 20.5 16.8954 20.5 18Z" fill="currentColor" opacity="1"/></g>
+</svg>

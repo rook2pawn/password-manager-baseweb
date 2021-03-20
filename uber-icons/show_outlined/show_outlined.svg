@@ -1,0 +1,8 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Show (outlined)</title>
+  <g transform="matrix(
+          1 0
+          0 1
+          0 2
+        )"><path fill-rule="evenodd" clip-rule="evenodd" d="M20.8999 10C19.5999 5.8 16 3 12 3C8 3 4.4001 5.8 3.1001 10C4.4001 14.2 8 17 12 17C16 17 19.5999 14.2 20.8999 10ZM0 10C1.4 4.2 6.2 0 12 0C17.8 0 22.6 4.2 24 10C22.6 15.8 17.8 20 12 20C6.2 20 1.4 15.8 0 10ZM16 10C16 12.2091 14.2091 14 12 14C9.79086 14 8 12.2091 8 10C8 7.79086 9.79086 6 12 6C14.2091 6 16 7.79086 16 10Z" fill="currentColor" opacity="1"/></g>
+</svg>

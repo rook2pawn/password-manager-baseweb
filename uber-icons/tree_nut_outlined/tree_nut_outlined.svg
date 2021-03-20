@@ -1,0 +1,8 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Tree nut (outlined)</title>
+  <g transform="matrix(
+          1 0
+          0 1
+          3 1
+        )"><path fill-rule="nonzero" clip-rule="nonzero" d="M18 11C18 6.54 14.75 2.85 10.5 2.13L10.5 0L7.5 0L7.5 2.13C3.25 2.85 0 6.54 0 11L1 11C1.08 13.39 1.91 19.08 9 22C16.09 19.08 16.92 13.39 17 11L18 11ZM9 18.69C5.85 17.04 4.18 14.46 4.01 11L13.99 11C13.82 14.46 12.15 17.04 9 18.69Z" fill="currentColor" opacity="1"/></g>
+</svg>

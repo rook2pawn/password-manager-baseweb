@@ -1,0 +1,8 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Pencil line (outlined)</title>
+  <g transform="matrix(
+          1 0
+          0 1
+          1 0.955810546875
+        )"><path fill-rule="evenodd" clip-rule="evenodd" d="M17.0417 0L14.5669 2.47485L17.5367 5.44466L20.0116 2.96981L17.0417 0ZM15.3999 7.64416L12.3999 4.64416L3 14.0442L3 17.0442L6 17.0442L15.3999 7.64416ZM0 19.0442L22 19.0442L22 22.0442L0 22.0442L0 19.0442Z" fill="currentColor" opacity="1"/></g>
+</svg>

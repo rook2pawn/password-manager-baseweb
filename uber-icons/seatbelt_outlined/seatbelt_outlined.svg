@@ -1,0 +1,12 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Seatbelt (outlined)</title>
+  <g transform="matrix(
+          1 0
+          0 1
+          0 0
+        )"><path fill-rule="nonzero" clip-rule="nonzero" d="M16 12L16 9L13 6L13 2.5L10.5 0L8.38 2.12L10 3.74L10 6.38L6.38 10L3.74 10L2.12 8.38L0 10.5L2.5 13L6 13L9 16L12 16L16 12ZM10.24 13L8.93 11.69L11.69 8.93L13 10.24L13 10.76L10.76 13L10.24 13Z" fill="currentColor" opacity="1"/></g>,<g transform="matrix(
+          1 0
+          0 1
+          11.5 11.5
+        )"><path fill-rule="nonzero" clip-rule="nonzero" d="M8.5 0L0 8.5L4 12.5L6.12 10.38L4.24 8.5L8.5 4.24L10.38 6.12L12.5 4L8.5 0Z" fill="currentColor" opacity="1"/></g>
+</svg>

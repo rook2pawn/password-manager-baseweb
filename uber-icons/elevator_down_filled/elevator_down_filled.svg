@@ -1,0 +1,8 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Elevator down (filled)</title>
+  <g transform="matrix(
+          1 0
+          0 1
+          1 1
+        )"><path fill-rule="evenodd" clip-rule="evenodd" d="M11 22L11 0L0 0L0 22L11 22ZM9 5L5.5 10.5L2 5L9 5ZM9 13L5.5 18.5L2 13L9 13ZM18 5C19.3807 5 20.5 3.88071 20.5 2.5C20.5 1.11929 19.3807 0 18 0C16.6193 0 15.5 1.11929 15.5 2.5C15.5 3.88071 16.6193 5 18 5ZM14 10C14 8.3 15.3 7 17 7L19 7C20.7 7 22 8.3 22 10L22 16L21 16L21 22L15 22L15 16L14 16L14 10Z" fill="currentColor" opacity="1"/></g>
+</svg>

@@ -1,0 +1,9 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Keys car (filled)</title>
+  <g transform="matrix(
+          1 0
+          0 1
+          0.5 1
+        )"><path fill-rule="evenodd" clip-rule="evenodd" d="M17.91 1.41L21.08 4.58C22.97 6.47 22.97 9.53 21.08 11.42L16 16.5L6 6.5L11.08 1.41C12.03 0.47 13.26 0 14.5 0C15.74 0 16.97 0.47 17.91 1.41ZM12.75 7L15.5 9.75L17.75 7.5L15 4.75L12.75 7Z" fill="currentColor" opacity="1"/>
+<path fill-rule="nonzero" clip-rule="nonzero" d="M1.5 20L0 18.5L7.25 11.25L10.75 14.75L5.5 20L1.5 20Z" fill="currentColor" opacity="1"/></g>
+</svg>

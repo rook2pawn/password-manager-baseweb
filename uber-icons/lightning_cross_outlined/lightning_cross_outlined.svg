@@ -1,0 +1,8 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Lightning cross (outlined)</title>
+  <g transform="matrix(
+          1 0
+          0 1
+          0 0
+        )"><path fill-rule="evenodd" clip-rule="evenodd" d="M13.9604 0L13.9604 7L20 7L10.7921 24L5.96531 24L5.96531 17L0 17L9.20788 0L13.9604 0ZM9.00991 14L9.00991 21L14.9504 10L10.9901 10L10.9901 3L5.04955 14L9.00991 14ZM18 20L16 18L18 16L20 18L22 16L24 18L22 20L24 22L22 24L20 22L18 24L16 22L18 20Z" fill="currentColor" opacity="1"/></g>
+</svg>

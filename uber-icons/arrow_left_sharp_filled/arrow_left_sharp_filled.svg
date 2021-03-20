@@ -1,0 +1,8 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Arrow left sharp (filled)</title>
+  <g transform="matrix(
+          1 0
+          0 1
+          2 1.49560546875
+        )"><path fill-rule="nonzero" clip-rule="nonzero" d="M14.53 0.314453C13.01 -0.315547 11.34 0.0144536 10.17 1.18445L3 8.35445L3 3.50445L0 3.50445L0 13.4745L10 13.4745L10 10.4745L5.12 10.4745L12.29 3.30445C12.72 2.87445 13.19 3.01445 13.38 3.08445C13.57 3.16445 14 3.40445 14 4.00445L14 20.5045L17 20.5045L17 4.00445C17 2.36445 16.05 0.944453 14.53 0.314453Z" fill="currentColor" opacity="1"/></g>
+</svg>

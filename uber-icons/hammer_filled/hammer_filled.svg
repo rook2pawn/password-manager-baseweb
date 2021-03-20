@@ -1,0 +1,8 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Hammer (filled)</title>
+  <g transform="matrix(
+          1 0
+          0 1
+          0.75 2
+        )"><path fill-rule="nonzero" clip-rule="nonzero" d="M21.25 17L12.75 8.5L18.25 3L15.25 0L9.25 0L6.75 2.5L5.25 1L2.25 4L3.75 5.5L0 9.25L6 15.25L9.75 11.5L18.25 20L21.25 17Z" fill="currentColor" opacity="1"/></g>
+</svg>

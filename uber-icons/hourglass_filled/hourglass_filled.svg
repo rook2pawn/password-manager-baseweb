@@ -1,0 +1,8 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Hourglass (filled)</title>
+  <g transform="matrix(
+          1 0
+          0 1
+          4 1
+        )"><path fill-rule="nonzero" clip-rule="nonzero" d="M15 4.5L15 3L16 3L16 0L15 0L1 0L0 0L0 3L1 3L1 4.5C1 7.45 2.83 9.97 5.41 11C2.83 12.03 1 14.55 1 17.5L1 19L0 19L0 22L1 22L15 22L16 22L16 19L15 19L15 17.5C15 14.55 13.17 12.03 10.59 11C13.17 9.97 15 7.45 15 4.5ZM12 3L12 4.5C12 5.03 11.89 5.54 11.7 6L4.3 6C4.11 5.54 4 5.03 4 4.5L4 3L12 3ZM12 17.5L12 19L4 19L4 17.5C4 15.29 5.79 13.5 8 13.5C10.21 13.5 12 15.29 12 17.5Z" fill="currentColor" opacity="1"/></g>
+</svg>

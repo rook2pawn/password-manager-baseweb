@@ -1,0 +1,12 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Truck enter (filled)</title>
+  <g transform="matrix(
+          1 0
+          0 1
+          1 1
+        )"><path fill-rule="nonzero" clip-rule="nonzero" d="M17 10L17 12L5 12L5 8L12 8L12 0L1 0L1 9L0 9L0 15L2 15L2 22L6 22L6 20L16 20L16 22L20 22L20 15L22 15L22 10L17 10ZM17 18L13 18L13 16L17 16L17 18ZM5 16L9 16L9 18L5 18L5 16Z" fill="currentColor" opacity="1"/></g>,<g transform="matrix(
+          1 0
+          0 1
+          15 0
+        )"><path fill-rule="nonzero" clip-rule="nonzero" d="M4.57999 3L6.78 0L3.29999 0L0 4.5L3.29999 9L6.78 9L4.57999 6L9 6L9 3L4.57999 3Z" fill="currentColor" opacity="1"/></g>
+</svg>

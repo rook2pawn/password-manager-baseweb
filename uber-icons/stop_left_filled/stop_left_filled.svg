@@ -1,0 +1,9 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Stop left (filled)</title>
+  <g transform="matrix(
+          1 0
+          0 1
+          1 0
+        )"><path fill-rule="evenodd" clip-rule="evenodd" d="M6 8.69995L6 12L3 12L3 8.69995C1.2998 8.09998 0 6.5 0 4.5C0 2 2 0 4.5 0C7 0 9 2 9 4.5C9 6.40002 7.7002 8.09998 6 8.69995ZM6 4.5C6 3.69995 5.2998 3 4.5 3C3.7002 3 3 3.69995 3 4.5C3 5.30005 3.7002 6 4.5 6C5.2998 6 6 5.30005 6 4.5Z" fill="currentColor" opacity="1"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M19.5 6L21.5 1L22 1L22 23L12.6001 23L14.6001 18L11.6001 18L9.6001 23L4.7002 23L13.6001 1L18.5 1L16.5 6L19.5 6ZM12.7998 15L15.7998 15L18.2002 9L15.2002 9L12.7998 15Z" fill="currentColor" opacity="1"/></g>
+</svg>

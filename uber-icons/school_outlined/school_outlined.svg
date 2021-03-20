@@ -1,0 +1,8 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>School (outlined)</title>
+  <g transform="matrix(
+          1 0
+          0 1
+          0.5 1
+        )"><path fill-rule="nonzero" clip-rule="nonzero" d="M23 7.5L11.5 0L0 7.5L2.5 9.09998L2.5 16.5C6.8 22.2 15.8 22.7 20.5 16.5L20.5 9.09998L23 7.5ZM11.5 3.59998L17.5 7.5L11.5 11.4L5.5 7.5L11.5 3.59998ZM17.5 15.4C13.9 19 8.6 18.7 5.5 15.4L5.5 11.1L11.5 15L17.5 11.1L17.5 15.4Z" fill="currentColor" opacity="1"/></g>
+</svg>

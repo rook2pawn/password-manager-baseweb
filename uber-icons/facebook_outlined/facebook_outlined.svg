@@ -1,0 +1,8 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Facebook (outlined)</title>
+  <g transform="matrix(
+          1 0
+          0 1
+          1 1
+        )"><path fill-rule="nonzero" clip-rule="nonzero" d="M20.79 0L1.21 0C0.54 0 0 0.54 0 1.21L0 20.78C0 21.46 0.54 22 1.21 22L11.75 22L11.75 13.49L8.9 13.49L8.9 10.16L11.76 10.16L11.76 7.71C11.76 4.87 13.5 3.32 16.03 3.32C16.88 3.32 17.74 3.36 18.59 3.45L18.59 6.42L16.84 6.42C15.46 6.42 15.19 7.07 15.19 8.04L15.19 10.16L18.49 10.16L18.06 13.49L15.17 13.49L15.17 22L20.78 22C21.45 22 21.99 21.46 21.99 20.79L21.99 1.21C22 0.54 21.46 0 20.79 0Z" fill="currentColor" opacity="1"/></g>
+</svg>

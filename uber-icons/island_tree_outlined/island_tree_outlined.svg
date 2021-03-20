@@ -1,0 +1,8 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Island tree (outlined)</title>
+  <g transform="matrix(
+          1 0
+          0 1
+          2 2
+        )"><path fill-rule="nonzero" clip-rule="nonzero" d="M19.1 14.2C20.3 12.7 21 10.8 21 8.8C21 4 17.1 0 12.2 0C8.2 0 4.8 2.7 3.8 6.5L10 9.60001L6.3 17L0 17L0 20L19 20L19 17L9.7 17L12.7 10.9L19.1 14.2ZM12.2 3.10001C15.4 3.10001 18 5.70001 18 8.90001C18 9.40001 17.9 9.8 17.8 10.3L7.8 5.3C8.9 3.9 10.5 3.10001 12.2 3.10001Z" fill="currentColor" opacity="1"/></g>
+</svg>

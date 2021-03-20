@@ -1,0 +1,8 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Checkbox checked (filled)</title>
+  <g transform="matrix(
+          1 0
+          0 1
+          2 2
+        )"><path fill-rule="nonzero" clip-rule="nonzero" d="M0 0L0 20L20 20L20 0L0 0ZM8.5 15.1L2.90002 9.5L5 7.39999L8.40002 10.8L14.8 4.39999L16.9 6.5L8.5 15.1Z" fill="currentColor" opacity="1"/></g>
+</svg>

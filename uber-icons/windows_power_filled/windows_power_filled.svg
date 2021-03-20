@@ -1,0 +1,9 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Windows power (filled)</title>
+  <g transform="matrix(
+          1 0
+          0 1
+          1 1
+        )"><path fill-rule="nonzero" clip-rule="nonzero" d="M9 0L0 9L0 21L22 21L22 0L9 0ZM10.2 3L19 3L19 11L3 11L3 10.2L10.2 3ZM9.5 14L15.5 14L12.5 18L9.5 14Z" fill="currentColor" opacity="1"/>
+<path fill-rule="nonzero" clip-rule="nonzero" d="M12.5 5L9.5 9L15.5 9L12.5 5Z" fill="currentColor" opacity="1"/></g>
+</svg>

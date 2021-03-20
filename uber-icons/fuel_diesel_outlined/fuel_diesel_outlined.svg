@@ -1,0 +1,9 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Fuel diesel (outlined)</title>
+  <g transform="matrix(
+          1 0
+          0 1
+          1 1
+        )"><path fill-rule="nonzero" clip-rule="nonzero" d="M16 0.0999756L16 3.20001C17.2 3.50001 18.1 4.30002 18.6 5.40002L17 7L17 12L19 12L19 15.5C19 16.9 17.9 18 16.5 18C15.1 18 14 16.9 14 15.5L14 0L0 0L0 3L11 3L11 19L3 19L3 17L0 17L0 22L14 22L14 20.4C14.8 20.8 15.6 21 16.5 21C19.5 21 22 18.5 22 15.5L22 7C22 3.5 19.4 0.599976 16 0.0999756Z" fill="currentColor" opacity="1"/>
+<path fill-rule="nonzero" clip-rule="nonzero" d="M9 11L9 9C9 6.8 7.2 5 5 5L0 5L0 15L5 15C7.2 15 9 13.2 9 11ZM3 8L5 8C5.6 8 6 8.4 6 9L6 11C6 11.6 5.6 12 5 12L3 12L3 8Z" fill="currentColor" opacity="1"/></g>
+</svg>

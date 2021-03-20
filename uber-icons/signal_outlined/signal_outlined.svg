@@ -1,0 +1,12 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Signal (outlined)</title>
+  <g transform="matrix(
+          1 0
+          0 1
+          0 3.5
+        )"><path fill-rule="nonzero" clip-rule="nonzero" d="M5.60001 2.10001L3.5 0C1.3 2.2 0 5.2 0 8.5C0 11.8 1.3 14.8 3.5 17L5.60001 14.9C4.00001 13.3 3 11 3 8.5C3 6 4.00001 3.80001 5.60001 2.10001Z" fill="currentColor" opacity="1"/>
+<path fill-rule="nonzero" clip-rule="nonzero" d="M20.4999 0L18.3999 2.10001C19.9999 3.70001 20.9999 6 20.9999 8.5C20.9999 11 19.9999 13.2 18.3999 14.9L20.4999 17C22.6999 14.8 23.9999 11.8 23.9999 8.5C23.9999 5.2 22.6999 2.2 20.4999 0Z" fill="currentColor" opacity="1"/>
+<path fill-rule="nonzero" clip-rule="nonzero" d="M16.9999 3.5L14.8999 5.60001C15.5999 6.30001 16.0999 7.29999 16.0999 8.39999C16.0999 9.49999 15.5999 10.5 14.8999 11.2L16.9999 13.3C18.2999 12 18.9999 10.3 18.9999 8.29999C18.9999 6.29999 18.1999 4.8 16.9999 3.5Z" fill="currentColor" opacity="1"/>
+<path fill-rule="nonzero" clip-rule="nonzero" d="M7 3.5C5.7 4.8 5 6.5 5 8.5C5 10.5 5.8 12.2 7 13.5L9.10001 11.4C8.40001 10.7 7.89999 9.70001 7.89999 8.60001C7.89999 7.50001 8.40001 6.49999 9.10001 5.79999L7 3.5Z" fill="currentColor" opacity="1"/>
+<path fill-rule="nonzero" clip-rule="nonzero" d="M12 10.5C13.1046 10.5 14 9.60457 14 8.5C14 7.39543 13.1046 6.5 12 6.5C10.8954 6.5 10 7.39543 10 8.5C10 9.60457 10.8954 10.5 12 10.5Z" fill="currentColor" opacity="1"/></g>
+</svg>

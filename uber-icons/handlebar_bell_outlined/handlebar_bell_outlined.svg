@@ -1,0 +1,16 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Handlebar bell (outlined)</title>
+  <g transform="matrix(
+          1 0
+          0 1
+          1 2
+        )"><path fill-rule="nonzero" clip-rule="nonzero" d="M17 8.5C17 3.81 13.19 0 8.5 0C3.81 0 0 3.81 0 8.5C0 13.19 3.81 17 8.5 17C13.19 17 17 13.19 17 8.5ZM3 8.5C3 5.47 5.47 3 8.5 3C11.53 3 14 5.47 14 8.5C14 11.53 11.53 14 8.5 14C5.47 14 3 11.53 3 8.5Z" fill="currentColor" opacity="1"/></g>,<g transform="matrix(
+          1 0
+          0 1
+          7 8
+        )"><path fill-rule="nonzero" clip-rule="nonzero" d="M2.5 5C3.88071 5 5 3.88071 5 2.5C5 1.11929 3.88071 0 2.5 0C1.11929 0 0 1.11929 0 2.5C0 3.88071 1.11929 5 2.5 5Z" fill="currentColor" opacity="1"/></g>,<g transform="matrix(
+          1 0
+          0 1
+          9 7
+        )"><path fill-rule="nonzero" clip-rule="nonzero" d="M15 2.5C15 1.12 13.88 0 12.5 0C11.12 0 10 1.12 10 2.5C10 3.29 10.38 3.99001 10.95 4.45001C10.47 9.80001 5.97 14 0.5 14C0.34 14 0.17 14 0 13.98L0 16.99C0.17 17 0.34 17 0.5 17C7.59 17 13.42 11.49 13.95 4.53C14.58 4.08 15 3.34 15 2.5Z" fill="currentColor" opacity="1"/></g>
+</svg>

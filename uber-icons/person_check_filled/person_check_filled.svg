@@ -1,0 +1,16 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Person check (filled)</title>
+  <g transform="matrix(
+          1 0
+          0 1
+          1 14
+        )"><path fill-rule="nonzero" clip-rule="nonzero" d="M12 0L6 0C2.7 0 0 2.7 0 6L0 9L12.1 9C11.1 7.8 10.5 6.2 10.5 4.5C10.5 2.8 11.1 1.2 12.1 0L12 0Z" fill="currentColor" opacity="1"/></g>,<g transform="matrix(
+          1 0
+          0 1
+          4.5 1
+        )"><path fill-rule="nonzero" clip-rule="nonzero" d="M5.5 11C8.53757 11 11 8.53757 11 5.5C11 2.46243 8.53757 0 5.5 0C2.46243 0 0 2.46243 0 5.5C0 8.53757 2.46243 11 5.5 11Z" fill="currentColor" opacity="1"/></g>,<g transform="matrix(
+          1 0
+          0 1
+          15 15
+        )"><path fill-rule="nonzero" clip-rule="nonzero" d="M6.5 0L3.49 3.01L1.98 1.5L0 3.48L3.49 6.97L8.48 1.98L6.5 0Z" fill="currentColor" opacity="1"/></g>
+</svg>

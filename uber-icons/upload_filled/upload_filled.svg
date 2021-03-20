@@ -1,0 +1,8 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Upload (filled)</title>
+  <g transform="matrix(
+          1 0
+          0 1
+          1 4
+        )"><path fill-rule="nonzero" clip-rule="nonzero" d="M17 4.09998C16 1.69998 13.7 0 11 0C8.3 0 5.9 1.69998 5 4.09998C2.2 4.59998 0 7 0 10C0 13.1 2.4 15.7 5.5 16L9.5 16L9.5 9.19995L6 11.5L6 8.09998L11 4.80005L16 8.09998L16 11.5L12.5 9.19995L12.5 16L16.5 16C19.6 15.7 22 13.2 22 10C22 7 19.9 4.59998 17 4.09998Z" fill="currentColor" opacity="1"/></g>
+</svg>

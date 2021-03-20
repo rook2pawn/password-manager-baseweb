@@ -1,0 +1,8 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Cloche (outlined)</title>
+  <g transform="matrix(
+          1 0
+          0 1
+          0 1
+        )"><path fill-rule="nonzero" clip-rule="nonzero" d="M23 14C23 8.6 19.1 4.10001 14 3.20001L14 2C14 0.9 13.1 0 12 0C10.9 0 10 0.9 10 2L10 3.20001C4.9 4.10001 1 8.6 1 14L0 14L0 17L24 17L24 14L23 14ZM4 14C4 9.6 7.6 6 12 6C16.4 6 20 9.6 20 14L4 14Z" fill="currentColor" opacity="1"/></g>
+</svg>

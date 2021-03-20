@@ -1,0 +1,16 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Clock cross (outlined)</title>
+  <g transform="matrix(
+          1 0
+          0 1
+          1 0
+        )"><path fill-rule="nonzero" clip-rule="nonzero" d="M3 11C3 6.59 6.59 3 11 3C15.41 3 19 6.59 19 11C19 11.34 18.97 11.67 18.93 12L21.95 12C21.98 11.67 22 11.34 22 11C22 4.92 17.08 0 11 0C4.92 0 0 4.92 0 11C0 17.08 4.92 22 11 22C11.34 22 11.67 21.98 12 21.95L12 18.93C11.67 18.97 11.34 19 11 19C6.59 19 3 15.41 3 11Z" fill="currentColor" opacity="1"/></g>,<g transform="matrix(
+          1 0
+          0 1
+          15.010009765625 14.010009765625
+        )"><path fill-rule="nonzero" clip-rule="nonzero" d="M6 0L3.99 2.01L1.98 0L0 1.98L2.01 3.99L0 6L1.98 7.98L3.99 5.97L6 7.98L7.98 6L5.97001 3.99L7.98 1.98L6 0Z" fill="currentColor" opacity="1"/></g>,<g transform="matrix(
+          1 0
+          0 1
+          8.1298828125 5
+        )"><path fill-rule="nonzero" clip-rule="nonzero" d="M2.87 5.73L0 7.78L1.74 10.22L5.87 7.27L5.87 0L2.87 0L2.87 5.73Z" fill="currentColor" opacity="1"/></g>
+</svg>

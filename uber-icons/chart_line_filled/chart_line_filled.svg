@@ -1,0 +1,8 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Chart line (filled)</title>
+  <g transform="matrix(
+          1 0
+          0 1
+          1 1
+        )"><path fill-rule="nonzero" clip-rule="nonzero" d="M3 15.62L9 9.62L14 14.62L23 5.5L20.94 3.44L14 10.38L9 5.38L3 11.38L3 0L0 0L0 22L22 22L22 19L3 19L3 15.62Z" fill="currentColor" opacity="1"/></g>
+</svg>

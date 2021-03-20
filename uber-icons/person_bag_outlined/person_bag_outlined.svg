@@ -1,0 +1,11 @@
+<svg width="24.013154983520508" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Person bag (outlined)</title>
+  <g transform="matrix(
+          1 0
+          0 1
+          4 1
+        )"><path fill-rule="nonzero" clip-rule="nonzero" d="M10 2.5C10 3.88071 8.88071 5 7.5 5C6.11929 5 5 3.88071 5 2.5C5 1.11929 6.11929 0 7.5 0C8.88071 0 10 1.11929 10 2.5Z" fill="currentColor" opacity="1"/>
+<path fill-rule="nonzero" clip-rule="nonzero" d="M3.8999 21.9999L0.399902 21.9999L4.1999 15.8999L5.9999 18.6999L3.8999 21.9999Z" fill="currentColor" opacity="1"/>
+<path fill-rule="nonzero" clip-rule="nonzero" d="M9 10L12.6 13.6L14.6 11.7L9.9 7L4.1 7C1.9 7 0 8.8 0 11.1L0 14L3 14L3 11.1C3 10.5 3.5 10 4.1 10L5 10L5 13.4L10.4 22L14 22L9 14.1L9 10Z" fill="currentColor" opacity="1"/>
+<path fill-rule="nonzero" clip-rule="nonzero" d="M16.7998 12L19.5998 14.9C20.1998 15.5 20.0998 16.5 19.5998 17L17.7998 18.8C17.0998 19.4 16.1998 19.4 15.5998 18.8L12.7998 15.9L14.2998 14.4L15.7998 13L16.7998 12Z" fill="currentColor" opacity="1"/></g>
+</svg>

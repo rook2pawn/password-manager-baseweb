@@ -1,0 +1,8 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Bank (outlined)</title>
+  <g transform="matrix(
+          1 0
+          0 1
+          1 0
+        )"><path fill-rule="nonzero" clip-rule="nonzero" d="M22 10L22 8L11 0L0 8L0 10L2 10L2 19L0 19L0 22L22 22L22 19L20 19L20 10L22 10ZM15 19L15 10L12 10L12 19L10 19L10 10L7 10L7 19L5 19L5 8.10001L11 3.7L17 8.10001L17 19L15 19Z" fill="currentColor" opacity="1"/></g>
+</svg>

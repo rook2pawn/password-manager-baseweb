@@ -1,0 +1,12 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Phone asterisk (filled)</title>
+  <g transform="matrix(
+          1 0
+          0 1
+          0 2
+        )"><path fill-rule="nonzero" clip-rule="nonzero" d="M14.94 12.36L11.38 16.43C9.01 14.98 7.02 12.98 5.57 10.62L9.64 7.06L8.23 0L0 0L0 1.5C0 12.8 9.2 22 20.5 22L22 22L22 13.77L14.94 12.36Z" fill="currentColor" opacity="1"/></g>,<g transform="matrix(
+          1 0
+          0 1
+          11.2802734375 2
+        )"><path fill-rule="nonzero" clip-rule="nonzero" d="M10.44 4.88L9.51 2.03L6.72 2.94L6.72 0L3.72 0L3.72 2.94L0.93 2.03L0 4.88L2.79 5.79L1.07 8.16L3.49 9.93L5.22 7.55L6.95 9.93L9.37 8.16L7.65 5.79L10.44 4.88Z" fill="currentColor" opacity="1"/></g>
+</svg>

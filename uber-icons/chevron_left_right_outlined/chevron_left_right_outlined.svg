@@ -1,0 +1,9 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Chevron left right (outlined)</title>
+  <g transform="matrix(
+          1 -1.6081230200044232e-16
+          1.6081230200044232e-16 1
+          1.2000422477722168 3.999786138534546
+        )"><path fill-rule="nonzero" clip-rule="nonzero" d="M9.20001 3.01604e-07L5.5 4.63337e-07L0 8L5.5 16L9.20001 16L3.59998 8L9.20001 3.01604e-07Z" fill="currentColor" opacity="1"/>
+<path fill-rule="nonzero" clip-rule="nonzero" d="M16.0999 0L12.3999 1.61733e-07L17.9999 8L12.3999 16L16.0999 16L21.5999 8L16.0999 0Z" fill="currentColor" opacity="1"/></g>
+</svg>

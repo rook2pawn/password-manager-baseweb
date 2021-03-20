@@ -1,0 +1,8 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Glass wine (outlined)</title>
+  <g transform="matrix(
+          1 0
+          0 1
+          4 1
+        )"><path fill-rule="nonzero" clip-rule="nonzero" d="M16 8L16 0L0 0L0 8C0 11.9 2.8 15.2 6.5 15.9L6.5 19L2 19L2 22L14 22L14 19L9.5 19L9.5 15.9C13.2 15.2 16 11.9 16 8ZM13 3L13 6L3 6L3 3L13 3ZM3.09998 9L12.9 9C12.4 11.3 10.4 13 8 13C5.6 13 3.59998 11.3 3.09998 9Z" fill="currentColor" opacity="1"/></g>
+</svg>

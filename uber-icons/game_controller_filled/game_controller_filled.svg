@@ -1,0 +1,8 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Game controller (filled)</title>
+  <g transform="matrix(
+          1 0
+          0 1
+          0 4
+        )"><path fill-rule="nonzero" clip-rule="nonzero" d="M0 0L0 15L24 15L24 0L0 0ZM12 9L9 9L9 12L6 12L6 9L3 9L3 6L6 6L6 3L9 3L9 6L12 6L12 9ZM15 3L18 3L18 6L15 6L15 3ZM21 12L18 12L18 9L21 9L21 12Z" fill="currentColor" opacity="1"/></g>
+</svg>

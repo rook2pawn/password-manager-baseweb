@@ -1,0 +1,8 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Car side (filled)</title>
+  <g transform="matrix(
+          1 0
+          0 1
+          1 1
+        )"><path fill-rule="evenodd" clip-rule="evenodd" d="M10.5 6L17.5 7.79999C20.2 8.49999 22 10.9 22 13.6L22 18L16 18L16 17.5C16 13.9 13.1 11 9.5 11C5.9 11 3 13.9 3 17.5L3 18L0 18L0 0L3.5 0L10.5 6ZM14 17.5C14 19.9853 11.9853 22 9.5 22C7.01472 22 5 19.9853 5 17.5C5 15.0147 7.01472 13 9.5 13C11.9853 13 14 15.0147 14 17.5Z" fill="currentColor" opacity="1"/></g>
+</svg>

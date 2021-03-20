@@ -1,0 +1,8 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Wind mill (outlined)</title>
+  <g transform="matrix(
+          1 0
+          0 1
+          2.939453125 0.93994140625
+        )"><path fill-rule="nonzero" clip-rule="nonzero" d="M18.12 2.12L16 0L9.06 6.94L2.12 0L0 2.12L6.94 9.06L0 16L2.12 18.12L3.81 16.43L4.56 22.06L13.56 22.06L14.31 16.43L16 18.12L18.12 16L11.18 9.06L18.12 2.12ZM10.93 19.06L7.17999 19.06L6.47 13.76L9.04999 11.18L11.63 13.76L10.93 19.06Z" fill="currentColor" opacity="1"/></g>
+</svg>

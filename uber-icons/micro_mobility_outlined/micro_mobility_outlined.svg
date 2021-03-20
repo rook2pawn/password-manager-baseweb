@@ -1,0 +1,20 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Micro mobility (outlined)</title>
+  <g transform="matrix(
+          1 0
+          0 1
+          10.5 8
+        )"><path fill-rule="nonzero" clip-rule="nonzero" d="M4.53 0.54C4.13 0.2 3.64 0 3.12 0C2.13 0 1.28 0.68 1.06 1.65C0.62 3.59 0 7.17 0 12L2.7 12C2.7 8.06 3.14 5 3.5 3.16C4.55 3.88 6.2 4.68 8.4 4.7L8.5 4.71L8.5 2C6.52 2 5.2 1.13 4.53 0.54Z" fill="currentColor" opacity="1"/></g>,<g transform="matrix(
+          1 0
+          0 1
+          13 1
+        )"><path fill-rule="nonzero" clip-rule="nonzero" d="M2.5 5C3.88071 5 5 3.88071 5 2.5C5 1.11929 3.88071 0 2.5 0C1.11929 0 0 1.11929 0 2.5C0 3.88071 1.11929 5 2.5 5Z" fill="currentColor" opacity="1"/></g>,<g transform="matrix(
+          1 0
+          0 1
+          0 14
+        )"><path fill-rule="nonzero" clip-rule="nonzero" d="M4.5 3C5.33 3 6 3.67 6 4.5C6 5.33 5.33 6 4.5 6C3.67 6 3 5.33 3 4.5C3 3.67 3.67 3 4.5 3ZM4.5 0C2.01 0 0 2.01 0 4.5C0 6.99 2.01 9 4.5 9C6.99 9 9 6.99 9 4.5C9 2.01 6.99 0 4.5 0Z" fill="currentColor" opacity="1"/></g>,<g transform="matrix(
+          1 0
+          0 1
+          15 14
+        )"><path fill-rule="nonzero" clip-rule="nonzero" d="M4.5 3C5.33 3 6 3.67 6 4.5C6 5.33 5.33 6 4.5 6C3.67 6 3 5.33 3 4.5C3 3.67 3.67 3 4.5 3ZM4.5 0C2.01 0 0 2.01 0 4.5C0 6.99 2.01 9 4.5 9C6.99 9 9 6.99 9 4.5C9 2.01 6.99 0 4.5 0Z" fill="currentColor" opacity="1"/></g>
+</svg>

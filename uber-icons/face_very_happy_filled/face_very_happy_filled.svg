@@ -1,0 +1,8 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Face very happy (filled)</title>
+  <g transform="matrix(
+          1 0
+          0 1
+          1 1
+        )"><path fill-rule="nonzero" clip-rule="nonzero" d="M11 0C4.92 0 0 4.92 0 11C0 17.08 4.92 22 11 22C17.08 22 22 17.08 22 11C22 4.92 17.08 0 11 0ZM15 5C16.38 5 17.5 6.79 17.5 9L12.5 9C12.5 6.79 13.62 5 15 5ZM7 5C8.38 5 9.5 6.79 9.5 9L4.5 9C4.5 6.79 5.62 5 7 5ZM11 18C7.47 18 4.57 15.39 4.08 12L17.92 12C17.43 15.39 14.53 18 11 18Z" fill="currentColor" opacity="1"/></g>
+</svg>

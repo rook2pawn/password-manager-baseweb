@@ -1,0 +1,12 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Wifi strength 2 (outlined)</title>
+  <g transform="matrix(
+          1 0
+          0 1
+          4.599609375 9.5
+        )"><path fill-rule="evenodd" clip-rule="evenodd" d="M2.1001 5.19995L0 3.09998C2 1.09998 4.5999 0 7.3999 0C10.1999 0 12.7998 1.09998 14.7998 3.09998L12.6997 5.19995C11.2997 3.79995 9.3999 3 7.3999 3C5.3999 3 3.5001 3.79995 2.1001 5.19995ZM7.40039 10.5L3.90039 7C4.80039 6 6.10039 5.5 7.40039 5.5C8.70039 5.5 10.0004 6.1 10.9004 7L7.40039 10.5Z" fill="currentColor" opacity="1"/></g>,<g transform="matrix(
+          1 0
+          0 1
+          0.7001953125 4
+        )"><path fill-rule="nonzero" clip-rule="nonzero" d="M11.2998 0C6.9998 0 3 1.69995 0 4.69995L2.09961 6.80005C4.59961 4.30005 7.7998 3 11.2998 3C14.7998 3 18 4.40005 20.5 6.80005L22.5996 4.69995C19.5996 1.69995 15.5998 0 11.2998 0Z" fill="currentColor" opacity="0.30000001192092896"/></g>
+</svg>

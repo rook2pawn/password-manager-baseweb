@@ -1,0 +1,8 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Yield (outlined)</title>
+  <g transform="matrix(
+          1 0
+          0 1
+          0.25 3
+        )"><path fill-rule="nonzero" clip-rule="nonzero" d="M18.38 3L11.75 14.86L5.12 3L18.38 3ZM23.5 0L0 0L11.75 21L23.5 0Z" fill="currentColor" opacity="1"/></g>
+</svg>

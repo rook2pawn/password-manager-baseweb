@@ -1,0 +1,8 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Location return (filled)</title>
+  <g transform="matrix(
+          1 0
+          0 1
+          2.5 0.02496337890625
+        )"><path fill-rule="nonzero" clip-rule="nonzero" d="M16.2998 16.275L9.5 23.075L2.7002 16.275C1.2002 14.775 0.3 12.875 0 10.975L8.8999 10.975L6 14.975L9.5 14.975L13.5 9.47501L9.5 3.97501L6 3.97501L8.8999 7.97501L0.100098 7.97501C0.400098 6.07501 1.2998 4.275 2.7998 2.775C6.4998 -0.925 12.5998 -0.925 16.2998 2.775C19.9998 6.475 19.9998 12.575 16.2998 16.275Z" fill="currentColor" opacity="1"/></g>
+</svg>

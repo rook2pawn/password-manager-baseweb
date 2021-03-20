@@ -1,0 +1,8 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Bus (filled)</title>
+  <g transform="matrix(
+          1 0
+          0 1
+          1 1
+        )"><path fill-rule="nonzero" clip-rule="nonzero" d="M22 8L21 8L21 4C21 1.79 19.21 0 17 0L5 0C2.79 0 1 1.79 1 4L1 8L0 8L0 13L1 13L1 22L5 22L5 20L17 20L17 22L21 22L21 13L22 13L22 8ZM18 5L18 12L4 12L4 5L18 5ZM8 17L4 17L4 15L8 15L8 17ZM18 15L18 17L14 17L14 15L18 15Z" fill="currentColor" opacity="1"/></g>
+</svg>

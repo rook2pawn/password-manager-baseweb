@@ -1,0 +1,12 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Car front plus (filled)</title>
+  <g transform="matrix(
+          1 0
+          0 1
+          1 4
+        )"><path fill-rule="nonzero" clip-rule="nonzero" d="M4.8 7L6.1 3L10 3L10 0L5.4 0C4.6 0 3.8 0.6 3.5 1.4L2 6L0 6L0 9L1 9L1 18L5 18L5 16L17 16L17 18L21 18L21 9L22 9L22 7L4.8 7ZM8 13L4 13L4 11L8 11L8 13ZM18 13L14 13L14 11L18 11L18 13Z" fill="currentColor" opacity="1"/></g>,<g transform="matrix(
+          1 0
+          0 1
+          14 0
+        )"><path fill-rule="nonzero" clip-rule="nonzero" d="M9 3L6 3L6 0L3 0L3 3L0 3L0 6L3 6L3 9L6 9L6 6L9 6L9 3Z" fill="currentColor" opacity="1"/></g>
+</svg>

@@ -1,0 +1,8 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Trophy (filled)</title>
+  <g transform="matrix(
+          1 0
+          0 1
+          2 1
+        )"><path fill-rule="nonzero" clip-rule="nonzero" d="M17 2L17 0L3 0L3 2L0 2L0 5C0 7.1 1.3002 8.9 3.2002 9.7C3.8002 12.3 5.9 14.3 8.5 14.9L8.5 19.1L4 19.1L4 22.1L16 22.1L16 19.1L11.5 19.1L11.5 14.9C14.1 14.3 16.1998 12.3 16.7998 9.7C18.6998 9 20 7.2 20 5L20 2L17 2Z" fill="currentColor" opacity="1"/></g>
+</svg>

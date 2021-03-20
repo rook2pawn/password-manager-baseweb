@@ -1,0 +1,8 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Delivery bag two (outlined)</title>
+  <g transform="matrix(
+          1 0
+          0 1
+          0 2
+        )"><path fill-rule="nonzero" clip-rule="nonzero" d="M21 5L21 0L14 0L3 0L3 5L0 5L0 14C0 16.21 1.79 18 4 18L20 18C22.21 18 24 16.21 24 14L24 5L21 5ZM14 3L18 3L18 5L17 5L14 5L14 3ZM6 3L11 3L11 5L8 5L6 5L6 3ZM3 14L3 8L14 8L14 14C14 14.55 13.55 15 13 15L4 15C3.45 15 3 14.55 3 14ZM21 14C21 14.55 20.55 15 20 15L16.86 15C16.94 14.68 17 14.35 17 14L17 8L21 8L21 14Z" fill="currentColor" opacity="1"/></g>
+</svg>

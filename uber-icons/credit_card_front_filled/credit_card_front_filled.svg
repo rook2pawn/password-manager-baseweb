@@ -1,0 +1,8 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Credit card front (filled)</title>
+  <g transform="matrix(
+          1 0
+          0 1
+          1 4
+        )"><path fill-rule="nonzero" clip-rule="nonzero" d="M0 0L0 16L22 16L22 0L0 0ZM3 3L8 3L8 6L3 6L3 3ZM3 10L7 10L7 13L3 13L3 10ZM9 10L13 10L13 13L9 13L9 10ZM19 13L15 13L15 10L19 10L19 13Z" fill="currentColor" opacity="1"/></g>
+</svg>

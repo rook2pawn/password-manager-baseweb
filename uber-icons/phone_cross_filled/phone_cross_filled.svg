@@ -1,0 +1,8 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Phone cross (filled)</title>
+  <g transform="matrix(
+          1 0
+          0 1
+          0 2
+        )"><path fill-rule="evenodd" clip-rule="evenodd" d="M11.3 16.5L14.8999 12.4L22 13.8L22 22L20.5 22C9.2 22 0 12.8 0 1.5L0 0L8.19995 0L9.6001 7.09998L5.5 10.7C6.9 13.1 8.90005 15.1 11.3 16.5ZM17.5 6.5L15 9L13 7L15.5 4.5L13 2L15 0L17.5 2.5L20 0L22 2L19.5 4.5L22 7L20 9L17.5 6.5Z" fill="currentColor" opacity="1"/></g>
+</svg>

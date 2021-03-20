@@ -1,0 +1,8 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Translate (filled)</title>
+  <g transform="matrix(
+          1 0
+          0 1
+          1 2
+        )"><path fill-rule="nonzero" clip-rule="nonzero" d="M17.4 9L13.6 9L12.2 12.3C11.5 12 10.7 11.5 9.9 10.9C11.2 9.6 12.3 7.9 12.9 6L15 6L15 3L9 3L9 0L6 0L6 3L0 3L0 6L2.2 6C2.8 7.9 3.9 9.6 5.1 10.9C3 12.3 1 13.1 1 13.1L1 16.3L2 15.9C2.2 15.8 4.8 14.9 7.5 12.9C8.7 13.8 10 14.5 11 15L8.3 21L11.6 21L12.9 18L18.1 18L19.4 21L22.7 21L17.4 9ZM9.6 6C9.1 7.1 8.4 8.1 7.5 9C6.7 8.1 5.9 7.1 5.4 6L9.6 6ZM14.2 15L15.5 12.1L16.8 15L14.2 15Z" fill="currentColor" opacity="1"/></g>
+</svg>

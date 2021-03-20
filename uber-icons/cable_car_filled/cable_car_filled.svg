@@ -1,0 +1,8 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Cable car (filled)</title>
+  <g transform="matrix(
+          1 0
+          0 1
+          4 1
+        )"><path fill-rule="nonzero" clip-rule="nonzero" d="M13 3L13 0L3 0L3 3L0 3L0 20L3 20L3 22L13 22L13 20L16 20L16 3L13 3ZM13 12L9.5 12L9.5 6L13 6L13 12ZM6.5 12L3 12L3 6L6.5 6L6.5 12Z" fill="currentColor" opacity="1"/></g>
+</svg>

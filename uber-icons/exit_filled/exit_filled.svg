@@ -1,0 +1,8 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Exit (filled)</title>
+  <g transform="matrix(
+          1 0
+          0 1
+          1 1
+        )"><path fill-rule="evenodd" clip-rule="evenodd" d="M6 7.5L6 14.5L13 14.5L13 22L0 22L0 0L13 0L13 7.5L6 7.5ZM15.3999 6L18.7998 6L22.5 11L18.7998 16L15.3999 16L17.8999 12.5L8 12.5L8 9.5L17.8999 9.5L15.3999 6Z" fill="currentColor" opacity="1"/></g>
+</svg>

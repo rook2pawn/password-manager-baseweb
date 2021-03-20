@@ -1,0 +1,9 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Chevron down two (filled)</title>
+  <g transform="matrix(
+          1 0
+          0 1
+          3.999999761581421 3.160155773162842
+        )"><path fill-rule="nonzero" clip-rule="nonzero" d="M8 17.8399L0 11.6799L1.65666e-07 7.88989L8 14.0599L16 7.88989L16 11.6799L8 17.8399Z" fill="currentColor" opacity="1"/>
+<path fill-rule="nonzero" clip-rule="nonzero" d="M8 9.95L0 3.79L1.65666e-07 0L8 6.17L16 6.99382e-07L16 3.79L8 9.95Z" fill="currentColor" opacity="1"/></g>
+</svg>

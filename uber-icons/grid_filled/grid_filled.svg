@@ -1,0 +1,8 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Grid (filled)</title>
+  <g transform="matrix(
+          1 0
+          0 1
+          1 1
+        )"><path fill-rule="nonzero" clip-rule="nonzero" d="M0 0L0 21L22 21L22 0L0 0ZM3 9L9.5 9L9.5 12L3 12L3 9ZM12.5 9L19 9L19 12L12.5 12L12.5 9ZM19 6L12.5 6L12.5 3L19 3L19 6ZM9.5 3L9.5 6L3 6L3 3L9.5 3ZM3 15L9.5 15L9.5 18L3 18L3 15ZM12.5 18L12.5 15L19 15L19 18L12.5 18Z" fill="currentColor" opacity="1"/></g>
+</svg>

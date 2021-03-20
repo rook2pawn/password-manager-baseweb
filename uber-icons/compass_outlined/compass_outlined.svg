@@ -1,0 +1,8 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Compass (outlined)</title>
+  <g transform="matrix(
+          1 0
+          0 1
+          1 1
+        )"><path fill-rule="nonzero" clip-rule="nonzero" d="M4.5 4.5L0 22L17.5 17.5L22 0L4.5 4.5ZM6.5 8.70001L13.3 15.5L4.1001 17.9L6.5 8.70001ZM15.5 13.3L8.69995 6.5L17.8999 4.09998L15.5 13.3Z" fill="currentColor" opacity="1"/></g>
+</svg>

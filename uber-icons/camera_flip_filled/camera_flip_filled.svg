@@ -1,0 +1,8 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Camera flip (filled)</title>
+  <g transform="matrix(
+          1 0
+          0 1
+          1 2
+        )"><path fill-rule="nonzero" clip-rule="nonzero" d="M17 3L15.5 0L6.5 0L5 3L0 3L0 20L22 20L22 3L17 3ZM14.8999 17L11.3999 17L13.3 14L9.1001 14C6.8001 14 5 12.2 5 9.90002L5 7L8 7L8 9.90002C8 10.5 8.5001 11 9.1001 11L13.3 11L11.3999 8L14.8999 8L17.7 12.5L14.8999 17Z" fill="currentColor" opacity="1"/></g>
+</svg>

@@ -1,0 +1,8 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Bike u lock (filled)</title>
+  <g transform="matrix(
+          1 0
+          0 1
+          1 0
+        )"><path fill-rule="nonzero" clip-rule="nonzero" d="M20 3L19 3L19 0L16 0L16 3L15 3L15 10L16 10L16 12.5C16 16.08 13.08 19 9.5 19C5.92 19 3 16.08 3 12.5C3 8.92 5.92 6 9.5 6L13 6L13 3L9.5 3C4.26 3 0 7.26 0 12.5C0 17.74 4.26 22 9.5 22C14.57 22 18.71 18.01 18.97 13L19 13L19 12.5L19 10L20 10L20 3Z" fill="currentColor" opacity="1"/></g>
+</svg>

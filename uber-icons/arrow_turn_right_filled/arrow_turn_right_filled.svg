@@ -1,0 +1,8 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Arrow turn right (filled)</title>
+  <g transform="matrix(
+          1 0
+          0 1
+          4 2
+        )"><path fill-rule="nonzero" clip-rule="nonzero" d="M18.8 7.5L12.7 15L9.10001 15L14 9L7.5 9C5 9 3 11 3 13.5L3 21L0 21L0 13.5C0 9.4 3.4 6 7.5 6L14 6L9.10001 0L12.7 0L18.8 7.5Z" fill="currentColor" opacity="1"/></g>
+</svg>

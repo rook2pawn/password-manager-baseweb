@@ -1,0 +1,8 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Staircase up (filled)</title>
+  <g transform="matrix(
+          1 0
+          0 1
+          1.300048828125 1
+        )"><path fill-rule="evenodd" clip-rule="evenodd" d="M9.69995 6.5L6.69995 9.5L6.69995 5L1.8999 9.70001L0 7.79999L4.69995 3L0.199951 3L3.19995 0L9.69995 0L9.69995 6.5ZM15.7 10L15.7 4L21.7 4L21.7 22L3.69995 22L3.69995 16L9.69995 16L9.69995 10L15.7 10Z" fill="currentColor" opacity="1"/></g>
+</svg>

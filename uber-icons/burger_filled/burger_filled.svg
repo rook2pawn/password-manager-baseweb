@@ -1,0 +1,8 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Burger (filled)</title>
+  <g transform="matrix(
+          1 0
+          0 1
+          0 2
+        )"><path fill-rule="evenodd" clip-rule="evenodd" d="M23 5.89999C23 2.59999 20.4 0 17.1 0L6.90002 0C3.60002 0 1 2.59999 1 5.89999L1 6L23 6L23 5.89999ZM1 14.1C1 17.4 3.60002 20 6.90002 20L17.1 20C20.4 20 23 17.4 23 14.1L23 14L1 14.1ZM0 8L24 8L24 12L0 12L0 8Z" fill="currentColor" opacity="1"/></g>
+</svg>

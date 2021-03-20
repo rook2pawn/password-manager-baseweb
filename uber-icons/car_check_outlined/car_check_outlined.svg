@@ -1,0 +1,12 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Car check (outlined)</title>
+  <g transform="matrix(
+          1 0
+          0 1
+          1 4
+        )"><path fill-rule="nonzero" clip-rule="nonzero" d="M15.53 6.47L10.75 5.15L5.08 0L0 0L0 3L3.92 3L9.26 7.85L14.73 9.36C15.48 9.57 16 10.25 16 11.03L16 14L10.72 14C10.1 12.26 8.45 11 6.5 11C4.55 11 2.9 12.26 2.28 14L0 14L0 17L2.28 17C2.9 18.74 4.55 20 6.5 20C8.45 20 10.1 18.74 10.72 17L19 17L19 11.03C19 8.91 17.57 7.03 15.53 6.47ZM6.5 17C5.67 17 5 16.33 5 15.5C5 14.67 5.67 14 6.5 14C7.33 14 8 14.67 8 15.5C8 16.33 7.33 17 6.5 17Z" fill="currentColor" opacity="1"/></g>,<g transform="matrix(
+          1 0
+          0 1
+          13.5 0.5
+        )"><path fill-rule="nonzero" clip-rule="nonzero" d="M4.06 7.68L0 3.62L2.12 1.5L4.06 3.44L8 0L10.12 1.62L4.06 7.68Z" fill="currentColor" opacity="1"/></g>
+</svg>

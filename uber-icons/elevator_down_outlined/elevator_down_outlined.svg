@@ -1,0 +1,16 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Elevator down (outlined)</title>
+  <g transform="matrix(
+          1 0
+          0 1
+          1 1
+        )"><path fill-rule="nonzero" clip-rule="nonzero" d="M0 22L10 22L10 0L0 0L0 22ZM8 5L5 10L2 5L8 5ZM8 13L5 18L2 13L8 13Z" fill="currentColor" opacity="1"/></g>,<g transform="matrix(
+          1 0
+          0 1
+          13 7
+        )"><path fill-rule="nonzero" clip-rule="nonzero" d="M6.5 0L3.5 0C1.6 0 0 1.6 0 3.5L0 11L1 11L1 16L4 16L4 8L3 8L3 3.5C3 3.2 3.2 3 3.5 3L6.5 3C6.8 3 7 3.2 7 3.5L7 8L6 8L6 16L9 16L9 11L10 11L10 3.5C10 1.6 8.4 0 6.5 0Z" fill="currentColor" opacity="1"/></g>,<g transform="matrix(
+          1 0
+          0 1
+          15.5 1
+        )"><path fill-rule="nonzero" clip-rule="nonzero" d="M2.5 5C3.88071 5 5 3.88071 5 2.5C5 1.11929 3.88071 0 2.5 0C1.11929 0 0 1.11929 0 2.5C0 3.88071 1.11929 5 2.5 5Z" fill="currentColor" opacity="1"/></g>
+</svg>

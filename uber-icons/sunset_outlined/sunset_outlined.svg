@@ -1,0 +1,12 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Sunset (outlined)</title>
+  <g transform="matrix(
+          1 0
+          0 1
+          4 18
+        )"><path fill-rule="nonzero" clip-rule="nonzero" d="M16 0L0 0L0 3L16 3L16 0Z" fill="currentColor" opacity="1"/></g>,<g transform="matrix(
+          1 0
+          0 1
+          1 2
+        )"><path fill-rule="nonzero" clip-rule="nonzero" d="M18.41 11C18.79 10.07 19 9.06 19 8C19 3.58 15.42 0 11 0C6.58 0 3 3.58 3 8C3 9.06 3.21 10.07 3.59 11L0 11L0 14L22 14L22 11L18.41 11ZM7.03 11C6.4 10.16 6 9.13 6 8C6 5.24 8.24 3 11 3C13.76 3 16 5.24 16 8C16 9.13 15.61 10.16 14.97 11L7.03 11Z" fill="currentColor" opacity="1"/></g>
+</svg>

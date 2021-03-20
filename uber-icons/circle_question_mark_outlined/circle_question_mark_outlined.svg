@@ -1,0 +1,16 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Circle question mark (outlined)</title>
+  <g transform="matrix(
+          1 0
+          0 1
+          1 1
+        )"><path fill-rule="nonzero" clip-rule="nonzero" d="M11 0C4.9 0 0 4.9 0 11C0 17.1 4.9 22 11 22C17.1 22 22 17.1 22 11C22 4.9 17.1 0 11 0ZM11 19C6.6 19 3 15.4 3 11C3 6.6 6.6 3 11 3C15.4 3 19 6.6 19 11C19 15.4 15.4 19 11 19Z" fill="currentColor" opacity="1"/></g>,<g transform="matrix(
+          1 0
+          0 1
+          10 16
+        )"><path fill-rule="nonzero" clip-rule="nonzero" d="M3 0L0 0L0 2L3 2L3 0Z" fill="currentColor" opacity="1"/></g>,<g transform="matrix(
+          1 0
+          0 1
+          8.10009765625 6
+        )"><path fill-rule="nonzero" clip-rule="nonzero" d="M3.8999 0C1.9999 0 0.4 1.30001 0 3.20001L2.8999 3.79999C2.9999 3.29999 3.3999 3 3.8999 3C4.3999 3 4.8999 3.5 4.8999 4C4.8999 4.4 4.6998 4.69999 4.2998 4.89999L1.8999 6.10001L1.8999 9.10001L4.8999 9.10001L4.8999 8.10001L5.6001 7.79999C7.0001 7.09999 7.8999 5.70001 7.8999 4.20001C7.8999 1.80001 6.0999 0 3.8999 0Z" fill="currentColor" opacity="1"/></g>
+</svg>

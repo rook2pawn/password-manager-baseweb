@@ -1,0 +1,12 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Dash cam (outlined)</title>
+  <g transform="matrix(
+          1 0
+          0 1
+          4 1
+        )"><path fill-rule="nonzero" clip-rule="nonzero" d="M16 8C16 3.58 12.42 0 8 0C3.58 0 0 3.58 0 8C0 11.91 2.8 15.15 6.5 15.85L6.5 19L3 19L3 22L13 22L13 19L9.5 19L9.5 15.85C13.2 15.15 16 11.91 16 8ZM3 8C3 5.24 5.24 3 8 3C10.76 3 13 5.24 13 8C13 10.76 10.76 13 8 13C5.24 13 3 10.76 3 8Z" fill="currentColor" opacity="1"/></g>,<g transform="matrix(
+          1 0
+          0 1
+          10 7
+        )"><path fill-rule="nonzero" clip-rule="nonzero" d="M2 4C3.10457 4 4 3.10457 4 2C4 0.89543 3.10457 0 2 0C0.89543 0 0 0.89543 0 2C0 3.10457 0.89543 4 2 4Z" fill="currentColor" opacity="1"/></g>
+</svg>

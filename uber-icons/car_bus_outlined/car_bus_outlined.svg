@@ -1,0 +1,8 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Car bus (outlined)</title>
+  <g transform="matrix(
+          1 0
+          0 1
+          0 0
+        )"><path fill-rule="nonzero" clip-rule="nonzero" d="M24 6L23 6L23 4C23 1.79 21.21 0 19 0L10 0C7.79 0 6 1.79 6 4L6 6L5 6L5 9L4.9 9C4.1 9 3.3 9.5 3 10.3L1.7 14L0 14L0 18L1 18L1 24L4 24L4 23L15 23L15 24L18 24L18 18L20 18L20 19L23 19L23 11L24 11L24 6ZM15 20L4 20L4 19L7 19L7 16L4.18 16L5.6 12L13.4 12L14.82 16L12 16L12 19L15 19L15 20ZM20 15L17.64 15L15.9 10.3C15.6 9.5 14.9 9 14 9L9 9L9 4C9 3.45 9.45 3 10 3L19 3C19.55 3 20 3.45 20 4L20 15Z" fill="currentColor" opacity="1"/></g>
+</svg>

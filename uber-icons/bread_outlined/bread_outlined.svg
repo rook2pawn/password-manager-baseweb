@@ -1,0 +1,8 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Bread (outlined)</title>
+  <g transform="matrix(
+          1 0
+          0 1
+          1 1
+        )"><path fill-rule="nonzero" clip-rule="nonzero" d="M16 3C17.7 3 19 4.3 19 6L19 9.39999L18.3 9.89999L17 10.8L17 12.4L17 19L5 19L5 12.4L5 10.8L3.69995 9.89999L3 9.39999L3 6C3 4.3 4.3 3 6 3L16 3ZM16 0L6 0C2.7 0 0 2.7 0 6L0 11L2 12.4L2 22L20 22L20 12.4L22 11L22 9.5L22 6C22 2.7 19.3 0 16 0Z" fill="currentColor" opacity="1"/></g>
+</svg>

@@ -1,0 +1,8 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Scooter foot break (outlined)</title>
+  <g transform="matrix(
+          1 0
+          0 1
+          0 3
+        )"><path fill-rule="nonzero" clip-rule="nonzero" d="M14.5 5C11.43 5 8.86 7.14 8.18 10L6.14 10C6.85 6.03 10.33 3 14.5 3C16.52 3 18.48 3.73001 20.03 5.04001L21.97 2.76001C19.88 0.98001 17.23 0 14.5 0C8.67 0 3.85 4.37 3.11 10L0 10L0 13L8.18 13C8.86 15.86 11.43 18 14.5 18C18.08 18 21 15.08 21 11.5C21 7.92 18.08 5 14.5 5ZM14.5 15C12.57 15 11 13.43 11 11.5C11 9.57 12.57 8 14.5 8C16.43 8 18 9.57 18 11.5C18 13.43 16.43 15 14.5 15Z" fill="currentColor" opacity="1"/></g>
+</svg>

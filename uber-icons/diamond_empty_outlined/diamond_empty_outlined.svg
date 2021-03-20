@@ -1,0 +1,8 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Diamond empty (outlined)</title>
+  <g transform="matrix(
+          0.7071067690849304 -0.7071067690849304
+          0.7071067690849304 0.7071067690849304
+          0.5 12
+        )"><path fill-rule="evenodd" clip-rule="evenodd" d="M0 0L16.2635 5.06639e-05L16.2635 16.2635L5.06639e-05 16.2635L0 0ZM3.00004 13.2635L13.2635 13.2635L13.2635 3.00004L3.00001 3.00001L3.00004 13.2635Z" fill="currentColor" opacity="1"/></g>
+</svg>

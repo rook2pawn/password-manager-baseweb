@@ -1,0 +1,8 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Arrow zigzag down (filled)</title>
+  <g transform="matrix(
+          1 0
+          0 1
+          0.89990234375 4.9000244140625
+        )"><path fill-rule="nonzero" clip-rule="nonzero" d="M22.1001 5.59998L22.1001 14.1L13.6001 14.1L10.7 11.2L17 11.2L11.6 5.79993L7.6 9.69995L0 2.19995L2.1 0L7.6 5.5L11.6 1.5L19.1 9.09998L19.1 2.79993L22.1001 5.59998Z" fill="currentColor" opacity="1"/></g>
+</svg>

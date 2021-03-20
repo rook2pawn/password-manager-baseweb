@@ -1,0 +1,8 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Shield check (filled)</title>
+  <g transform="matrix(
+          1 0
+          0 1
+          2 1
+        )"><path fill-rule="nonzero" clip-rule="nonzero" d="M10 0C4.68 0 0 2.04 0 2.04L0 13.94C0 18.78 5.57 21.09 10 23C14.4 21.11 20 18.8 20 13.94L20 2.04C20 2.04 15.5 0 10 0ZM9 16.12L3.44 10.56L5.56 8.44L9 11.88L14.94 5.94L17.06 8.06L9 16.12Z" fill="currentColor" opacity="1"/></g>
+</svg>

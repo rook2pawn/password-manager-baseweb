@@ -1,0 +1,8 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Enter (filled)</title>
+  <g transform="matrix(
+          1 0
+          0 1
+          4 1
+        )"><path fill-rule="nonzero" clip-rule="nonzero" d="M16 12.5L7.83 12.5L11.12 17L7.66 17L3.27 11L7.66 5L11.12 5L7.83 9.5L16 9.5L16 0L0 0L0 22L16 22L16 12.5Z" fill="currentColor" opacity="1"/></g>
+</svg>

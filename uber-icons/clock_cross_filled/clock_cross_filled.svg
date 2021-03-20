@@ -1,0 +1,12 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Clock cross (filled)</title>
+  <g transform="matrix(
+          1 0
+          0 1
+          16.010009765625 15.010009765625
+        )"><path fill-rule="nonzero" clip-rule="nonzero" d="M6 0L3.99 2.01L1.98 0L0 1.98L2.01 3.99L0 6L1.98 7.98L3.99 5.97L6 7.98L7.98 6L5.97 3.99L7.98 1.98L6 0Z" fill="currentColor" opacity="1"/></g>,<g transform="matrix(
+          1 0
+          0 1
+          0 0
+        )"><path fill-rule="nonzero" clip-rule="nonzero" d="M11 0C4.92 0 0 4.92 0 11C0 17.08 4.92 22 11 22C12.05 22 13.07 21.85 14.03 21.57C13.69 20.78 13.5 19.92 13.5 19C13.5 15.41 16.41 12.5 20 12.5C20.65 12.5 21.27 12.59 21.86 12.77C21.95 12.19 22 11.6 22 11C22 4.92 17.08 0 11 0ZM13 11.43L7.17 14.34L5.83 11.66L10 9.57L10 3L13 3L13 11.43Z" fill="currentColor" opacity="1"/></g>
+</svg>

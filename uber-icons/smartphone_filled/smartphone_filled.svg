@@ -1,0 +1,8 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Smartphone (filled)</title>
+  <g transform="matrix(
+          1 0
+          0 1
+          4 1
+        )"><path fill-rule="nonzero" clip-rule="nonzero" d="M14 0L2 0C0.9 0 0 0.9 0 2L0 20C0 21.1 0.9 22 2 22L14 22C15.1 22 16 21.1 16 20L16 2C16 0.9 15.1 0 14 0ZM8 20.5C7.2 20.5 6.5 19.8 6.5 19C6.5 18.2 7.2 17.5 8 17.5C8.8 17.5 9.5 18.2 9.5 19C9.5 19.8 8.8 20.5 8 20.5ZM13 16L3 16L3 3L13 3L13 16Z" fill="currentColor" opacity="1"/></g>
+</svg>

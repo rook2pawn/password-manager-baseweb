@@ -1,0 +1,9 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Media player (outlined)</title>
+  <g transform="matrix(
+          1 0
+          0 1
+          1 1
+        )"><path fill-rule="evenodd" clip-rule="evenodd" d="M0 0L0 22L22 22L22 0L0 0ZM19 3L19 13L3 13L3 3L19 3ZM3 19L3 16L19 16L19 19L3 19Z" fill="currentColor" opacity="1"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M9 4.5L9 11.5L14.5 8L9 4.5Z" fill="currentColor" opacity="1"/></g>
+</svg>

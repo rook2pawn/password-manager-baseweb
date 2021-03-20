@@ -1,0 +1,8 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Console (filled)</title>
+  <g transform="matrix(
+          1 0
+          0 1
+          1 1
+        )"><path fill-rule="nonzero" clip-rule="nonzero" d="M0 0L0 22L22 22L22 0L0 0ZM6.06 13.56L3.94 11.44L6.88 8.5L3.94 5.56L6.06 3.44L11.12 8.5L6.06 13.56Z" fill="currentColor" opacity="1"/></g>
+</svg>

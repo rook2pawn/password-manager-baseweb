@@ -1,0 +1,8 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Calendar (filled)</title>
+  <g transform="matrix(
+          1 0
+          0 1
+          1 1
+        )"><path fill-rule="evenodd" clip-rule="evenodd" d="M22 7L22 3L19 3L19 0L16 0L16 3L6 3L6 0L3 0L3 3L0 3L0 7L22 7ZM22 22L0 22L0 9L22 9L22 22ZM7 13L4 13L4 16L7 16L7 13Z" fill="currentColor" opacity="1"/></g>
+</svg>

@@ -1,9 +1,18 @@
 import * as React from "react";
 import { Card } from "baseui/card";
-import { Button } from "baseui/button";
+import { Button, KIND as ButtonKIND } from "baseui/button";
 import Plus from "baseui/icon/plus";
 import Check from "baseui/icon/check";
-import { Table, TableHeader, HeaderCell, Row, Cell } from "./styled-components";
+import Delete from "baseui/icon/delete";
+import {
+  Table,
+  TableHeader,
+  HeaderCell,
+  Row,
+  Cell,
+  EditWindow,
+} from "./child-components";
+import EditEntry from "../edit-entry";
 
 export default () => {
   const INITIALROWS = [
@@ -22,6 +31,9 @@ export default () => {
   const saveRowClick = () => {
     setEditing(false);
   };
+  const cancelRowClick = () => {
+    setEditing(false);
+  };
   return (
     <Card>
       <Table>
@@ -32,13 +44,55 @@ export default () => {
         >
           Add a row
         </Button>
-        <Button
-          disabled={!editing}
-          startEnhancer={() => <Check size={24} />}
-          onClick={saveRowClick}
+        <div
+          style={{
+            display: "flex",
+            flexDirection: "row",
+            justifyContent: "space-between",
+            paddingTop: "5px",
+          }}
         >
-          Save row
-        </Button>
+          <Button
+            kind={ButtonKIND.secondary}
+            overrides={{
+              BaseButton: {
+                style: ({ $theme }) => ({
+                  width: "45%",
+                  boxSizing: "border-box",
+                  borderWidth: "1px",
+                  borderColor: "black",
+                }),
+              },
+            }}
+            disabled={!editing}
+            startEnhancer={() => <Delete size={24} />}
+            onClick={cancelRowClick}
+          >
+            Cancel
+          </Button>
+          <Button
+            overrides={{
+              BaseButton: {
+                style: ({ $theme }) => ({
+                  width: "45%",
+                  boxSizing: "border-box",
+                  borderWidth: "1px",
+                  borderColor: "black",
+                }),
+              },
+            }}
+            disabled={!editing}
+            startEnhancer={() => <Check size={24} />}
+            onClick={saveRowClick}
+          >
+            Save row
+          </Button>
+        </div>
+        {editing && (
+          <div style={{ width: "50%" }}>
+            <EditEntry />
+          </div>
+        )}
         <TableHeader>
           <HeaderCell>Title</HeaderCell>
           <HeaderCell>username</HeaderCell>
@@ -46,14 +100,19 @@ export default () => {
         </TableHeader>
         {rows.map((row, idx) => {
           const { title, username, url } = row;
-          const style = editing && idx === 0 ? { background: "#ccc" } : {};
+          const style =
+            editing && idx === 0
+              ? { background: "#ccc", cursor: "pointer" }
+              : editing
+              ? { cursor: "not-allowed", filter: "blur(2px)" }
+              : { cursor: "pointer" };
           return (
             <Row key={`item_${idx}`} style={{ ...style }}>
               <Cell>{title}</Cell>
               <Cell>{username}</Cell>
               <Cell>
                 <a href={url} target="_blank">
-                  {url}
+                  The {url}
                 </a>
               </Cell>
             </Row>

@@ -1,0 +1,8 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Player next (filled)</title>
+  <g transform="matrix(
+          1 0
+          0 1
+          4 2
+        )"><path fill-rule="nonzero" clip-rule="nonzero" d="M16 0L16 20L13 20L13 11.8L0 19.9L0 0.0999756L13 8.09998L13 0L16 0Z" fill="currentColor" opacity="1"/></g>
+</svg>

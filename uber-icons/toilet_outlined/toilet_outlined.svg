@@ -1,0 +1,8 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Toilet (outlined)</title>
+  <g transform="matrix(
+          1 0
+          0 1
+          4 1
+        )"><path fill-rule="nonzero" clip-rule="nonzero" d="M9 8L9 0L0 0L0 22L9 22L9 18L9.5 18C13.58 18 16.94 14.95 17.43 11L19 11L19 8L9 8ZM3 3L6 3L6 8L3 8L3 3ZM6 19L3 19L3 18L6 18L6 19ZM9.5 15L3 15L3 11L14.4 11C13.94 13.28 11.91 15 9.5 15Z" fill="currentColor" opacity="1"/></g>
+</svg>

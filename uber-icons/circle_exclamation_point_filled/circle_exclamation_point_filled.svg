@@ -1,0 +1,8 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Circle exclamation point (filled)</title>
+  <g transform="matrix(
+          1 0
+          0 1
+          1 1
+        )"><path fill-rule="nonzero" clip-rule="nonzero" d="M11 22C4.9 22 0 17.1 0 11C0 4.9 4.9 0 11 0C17.1 0 22 4.9 22 11C22 17.1 17.1 22 11 22ZM12.5 4L9.5 4L9.5 12L12.5 12L12.5 4ZM11 14C9.9 14 9 14.9 9 16C9 17.1 9.9 18 11 18C12.1 18 13 17.1 13 16C13 14.9 12.1 14 11 14Z" fill="currentColor" opacity="1"/></g>
+</svg>

@@ -1,0 +1,8 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Camera (filled)</title>
+  <g transform="matrix(
+          1 0
+          0 1
+          1 1
+        )"><path fill-rule="nonzero" clip-rule="nonzero" d="M17 3L15.5 0L6.5 0L5 3L0 3L0 20L22 20L22 3L17 3ZM7 11C7 8.8 8.8 7 11 7C13.2 7 15 8.8 15 11C15 13.2 13.2 15 11 15C8.8 15 7 13.2 7 11Z" fill="currentColor" opacity="1"/></g>
+</svg>

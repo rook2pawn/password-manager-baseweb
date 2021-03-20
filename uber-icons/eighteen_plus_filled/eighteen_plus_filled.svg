@@ -1,0 +1,16 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Eighteen plus (filled)</title>
+  <g transform="matrix(
+          1 0
+          0 1
+          15 0
+        )"><path fill-rule="nonzero" clip-rule="nonzero" d="M9 3L6 3L6 0L3 0L3 3L0 3L0 6L3 6L3 9L6 9L6 6L9 6L9 3Z" fill="currentColor" opacity="1"/></g>,<g transform="matrix(
+          1 0
+          0 1
+          9 7.5
+        )"><path fill-rule="nonzero" clip-rule="nonzero" d="M8.5 4C8.5 1.79 6.71 0 4.5 0C2.29 0 0.5 1.79 0.5 4C0.5 4.87 0.78 5.66001 1.25 6.32001C0.48 7.08001 0 8.11 0 9.25C0 11.59 2.02 13.5 4.5 13.5C6.98 13.5 9 11.59 9 9.25C9 8.11 8.52 7.08001 7.75 6.32001C8.22 5.66001 8.5 4.87 8.5 4ZM4.5 2.96997C5.07 2.96997 5.53 3.43 5.53 4C5.53 4.57 5.07 5.03003 4.5 5.03003C3.93 5.03003 3.47 4.57 3.47 4C3.47 3.43 3.93 2.96997 4.5 2.96997ZM4.5 10.5C3.67 10.5 3 9.94 3 9.25C3 8.56 3.67 8 4.5 8C5.33 8 6 8.56 6 9.25C6 9.94 5.33 10.5 4.5 10.5Z" fill="currentColor" opacity="1"/></g>,<g transform="matrix(
+          1 0
+          0 1
+          1 8
+        )"><path fill-rule="nonzero" clip-rule="nonzero" d="M5 0L0.5 0L0.5 3L2 3L2 10L0 10L0 13L7 13L7 10L5 10L5 0Z" fill="currentColor" opacity="1"/></g>
+</svg>

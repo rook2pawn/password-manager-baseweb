@@ -1,0 +1,8 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Gift box (outlined)</title>
+  <g transform="matrix(
+          1 0
+          0 1
+          2 0
+        )"><path fill-rule="nonzero" clip-rule="nonzero" d="M16.49 5C16.81 4.49 17 3.89 17 3.25C17 1.46 15.54 0 13.75 0C12.91 0 12.14 0.32 11.56 0.85L10 2.27L8.44 0.85C7.86 0.32 7.09 0 6.25 0C4.46 0 3 1.46 3 3.25C3 3.89 3.19 4.49 3.51 5L0 5L0 22L20 22L20 5L16.49 5ZM17 8L17 12L11.5 12L11.5 8L17 8ZM8.5 8L8.5 12L3 12L3 8L8.5 8ZM3 15L8.5 15L8.5 19L3 19L3 15ZM11.5 19L11.5 15L17 15L17 19L11.5 19Z" fill="currentColor" opacity="1"/></g>
+</svg>

@@ -1,0 +1,12 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Shield check (outlined)</title>
+  <g transform="matrix(
+          1 0
+          0 1
+          2 1
+        )"><path fill-rule="nonzero" clip-rule="nonzero" d="M10 0C4.68 0 0 2.04 0 2.04L0 13.94C0 18.78 5.57 21.09 10 23C14.4 21.11 20 18.8 20 13.94L20 2.04C20 2.04 15.5 0 10 0ZM17 13.94C17 16.33 13.91 18.01 10 19.73C5.97 17.96 3 16.34 3 13.94L3 4.15C4.65 3.64 7.26 3 10 3C12.83 3 15.39 3.63 17 4.14L17 13.94Z" fill="currentColor" opacity="1"/></g>,<g transform="matrix(
+          1 0
+          0 1
+          6.93994140625 7.43994140625
+        )"><path fill-rule="nonzero" clip-rule="nonzero" d="M2.12 2.5L0 4.62L4.06 8.68L10.62 2.12L8.5 0L4.06 4.44L2.12 2.5Z" fill="currentColor" opacity="1"/></g>
+</svg>

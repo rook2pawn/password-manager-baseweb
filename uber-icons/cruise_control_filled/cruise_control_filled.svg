@@ -1,0 +1,9 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Cruise control (filled)</title>
+  <g transform="matrix(
+          1 0
+          0 1
+          1 0
+        )"><path fill-rule="nonzero" clip-rule="nonzero" d="M10 3C4.5 3 0 7.5 0 13C0 18.5 4.5 23 10 23C15.5 23 20 18.5 20 13C20 7.5 15.5 3 10 3ZM5 18C3.7 16.7 3 15 3 13C3 9.1 6.1 6 10 6C10.7 6 11.3 6.09999 11.9 6.29999L9.6 8.60001C7.3 8.80001 5.4 10.7 5.4 13.1C5.4 14.3 5.9 15.5 6.7 16.3L5 18ZM12 13C12 14.1 11.1 15 10 15C8.9 15 8 14.1 8 13C8 11.9 8.9 11 10 11L13.8 7.20001C14.6 7.70001 15.3 8.40001 15.8 9.20001L12 13Z" fill="currentColor" opacity="1"/>
+<path fill-rule="nonzero" clip-rule="nonzero" d="M18 0L18 5L23 5L18 0Z" fill="currentColor" opacity="1"/></g>
+</svg>

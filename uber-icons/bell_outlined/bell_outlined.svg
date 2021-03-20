@@ -1,0 +1,8 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Bell (outlined)</title>
+  <g transform="matrix(
+          1 0
+          0 1
+          2 0
+        )"><path fill-rule="nonzero" clip-rule="nonzero" d="M19 17L19 11C19 6.5 15.8 2.90001 11.5 2.10001L11.5 0L8.5 0L8.5 2.10001C4.2 2.80001 1 6.5 1 11L1 17L0 17L0 20L6 20L8.30005 22.3C8.80005 22.8 9.4 23 10 23C10.6 23 11.3 22.7 11.7 22.3L14 20L20 20L20 17L19 17ZM4 11C4 7.7 6.7 5 10 5C13.3 5 16 7.7 16 11L16 17L4 17L4 11Z" fill="currentColor" opacity="1"/></g>
+</svg>

@@ -1,0 +1,16 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Satellite (filled)</title>
+  <g transform="matrix(
+          1 0
+          0 1
+          9.510009765625 1
+        )"><path fill-rule="nonzero" clip-rule="nonzero" d="M1.49 0C0.99 0 0.49 0.03 0 0.09L0.349999 2.88C0.719999 2.82 1.1 2.8 1.49 2.8C6.56 2.8 10.69 6.93 10.69 12C10.69 12.39 10.67 12.77 10.61 13.14L13.4 13.49C13.46 13 13.49 12.5 13.49 12C13.49 5.37 8.12 0 1.49 0Z" fill="currentColor" opacity="1"/></g>,<g transform="matrix(
+          1 0
+          0 1
+          10.1298828125 6
+        )"><path fill-rule="nonzero" clip-rule="nonzero" d="M7.81 7.87C7.85 7.59 7.87 7.3 7.87 7C7.87 3.13 4.74 0 0.87 0C0.57 0 0.28 0.0199999 0 0.0599999L0.349999 2.84C0.519999 2.81 0.69 2.8 0.87 2.8C3.19 2.8 5.07 4.68 5.07 7C5.07 7.18 5.06 7.35 5.03 7.52L7.81 7.87Z" fill="currentColor" opacity="1"/></g>,<g transform="matrix(
+          1 0
+          0 1
+          0.99755859375 5.929931640625
+        )"><path fill-rule="nonzero" clip-rule="nonzero" d="M12.0025 7.07C12.0025 5.97 11.1025 5.07 10.0025 5.07C9.4525 5.07 8.9525 5.29 8.5925 5.66L2.9325 0C-0.9775 3.91 -0.9775 10.24 2.9325 14.14C6.8425 18.04 13.1725 18.05 17.0725 14.14L11.4125 8.48C11.7825 8.12 12.0025 7.62 12.0025 7.07Z" fill="currentColor" opacity="1"/></g>
+</svg>

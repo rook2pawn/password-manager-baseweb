@@ -1,0 +1,10 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Delivery bag alert (filled)</title>
+  <g transform="matrix(
+          1 0
+          0 1
+          1 1
+        )"><path fill-rule="evenodd" clip-rule="evenodd" d="M13.3986 21.9978C11.9232 20.6282 11 18.6719 11 16.5C11 12.3579 14.3579 9 18.5 9C19.7641 9 20.9551 9.31273 22 9.86505L22 6L18 6L18 0L4 0L4 6L0 6L0 16C0 19.3 2.7 22 6 22L13.3999 22L13.3986 21.9978ZM7 3L7 6L15 6L15 3L7 3Z" fill="currentColor" opacity="1"/>
+<path fill-rule="nonzero" clip-rule="nonzero" d="M20 12L20 18L17 18L17 12L20 12Z" fill="currentColor" opacity="1"/>
+<path fill-rule="nonzero" clip-rule="nonzero" d="M18.5 23C19.3284 23 20 22.3284 20 21.5C20 20.6716 19.3284 20 18.5 20C17.6716 20 17 20.6716 17 21.5C17 22.3284 17.6716 23 18.5 23Z" fill="currentColor" opacity="1"/></g>
+</svg>

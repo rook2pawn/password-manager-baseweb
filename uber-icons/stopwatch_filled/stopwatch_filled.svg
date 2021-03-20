@@ -1,0 +1,8 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Stopwatch (filled)</title>
+  <g transform="matrix(
+          1 0
+          0 1
+          2.5 1
+        )"><path fill-rule="evenodd" clip-rule="evenodd" d="M6.5 0L12.5 0L12.5 3L9.5 3L6.5 3L6.5 0ZM9.5 3C4.3 3 0 7.2 0 12.5C0 17.8 4.2 22 9.5 22C14.8 22 19 17.8 19 12.5C19 10.3 18.3 8.19998 17 6.59998L9.6001 14L7.5 11.9L14.8 4.59998C13.3 3.59998 11.5 3 9.5 3Z" fill="currentColor" opacity="1"/></g>
+</svg>

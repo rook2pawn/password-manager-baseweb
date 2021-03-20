@@ -1,0 +1,8 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Player pause (filled)</title>
+  <g transform="matrix(
+          1 0
+          0 1
+          2 3
+        )"><path fill-rule="evenodd" clip-rule="evenodd" d="M0 0L7 0L7 18L0 18L0 0ZM13 0L20 0L20 18L13 18L13 0Z" fill="currentColor" opacity="1"/></g>
+</svg>

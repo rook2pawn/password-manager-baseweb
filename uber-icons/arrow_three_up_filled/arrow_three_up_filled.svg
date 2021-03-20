@@ -1,0 +1,8 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Arrow three up (filled)</title>
+  <g transform="matrix(
+          1 0
+          0 1
+          1 0.300048828125
+        )"><path fill-rule="evenodd" clip-rule="evenodd" d="M16 3.60004L11 0L6 3.60004L6 7.10004L9.5 4.5L9.5 21.7L12.5 21.7L12.5 4.5L16 7.10004L16 3.60004ZM0 10.9L0 14.4L2.5 12.5L2.5 21.7L5.5 21.7L5.5 12.5L8 14.3L8 10.9L4 8L0 10.9ZM18 8L22 10.9L22 14.3L19.5 12.5L19.5 21.7L16.5 21.7L16.5 12.5L14 14.4L14 10.9L18 8Z" fill="currentColor" opacity="1"/></g>
+</svg>

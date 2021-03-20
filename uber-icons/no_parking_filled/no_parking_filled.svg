@@ -1,0 +1,16 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>No parking (filled)</title>
+  <g transform="matrix(
+          1 0
+          0 1
+          5.2998046875 1
+        )"><path fill-rule="nonzero" clip-rule="nonzero" d="M2.8 5L8.7 5C10.9 5 12.7 6.8 12.7 9L12.7 10C12.7 11.3 12 12.5 11 13.2L15.4 17.6C16.8 15.8 17.6 13.5 17.6 11C17.6 4.9 12.7 0 6.6 0C4.1 0 1.8 0.800012 0 2.20001L2.8 5Z" fill="currentColor" opacity="1"/></g>,<g transform="matrix(
+          1 0
+          0 1
+          1 5.300048828125
+        )"><path fill-rule="nonzero" clip-rule="nonzero" d="M11.9 9.70001L10 9.70001L10 12.7L7 12.7L7 4.80002L2.2 0C0.8 1.9 0 4.20001 0 6.70001C0 12.8 4.9 17.7 11 17.7C13.5 17.7 15.8 16.9 17.6 15.5L11.9 9.70001Z" fill="currentColor" opacity="1"/></g>,<g transform="matrix(
+          1 0
+          0 1
+          11 9
+        )"><path fill-rule="nonzero" clip-rule="nonzero" d="M0 0L0 0.5L2.5 3L3 3C3.6 3 4 2.6 4 2L4 1C4 0.4 3.6 0 3 0L0 0Z" fill="currentColor" opacity="1"/></g>
+</svg>

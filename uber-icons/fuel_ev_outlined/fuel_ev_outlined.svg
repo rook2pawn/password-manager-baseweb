@@ -1,0 +1,8 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Fuel ev (outlined)</title>
+  <g transform="matrix(
+          1 0
+          0 1
+          1 1
+        )"><path fill-rule="evenodd" clip-rule="evenodd" d="M17 4.19995L17 0L23 6L23 6.09998L23 9C23 10.1 22.1 11 21 11L21 16C21 18.8 18.8 21 16 21C15.3 21 14.6 20.9 14 20.6L14 22L0 22L0 0L14 0L14 16C14 17.1 14.9 18 16 18C17.1 18 18 17.1 18 16L18 5.19995L17 4.19995ZM3 3L3 19L11 19L11 16L11 3L3 3ZM7 6L8 6L8 9L10.5 9L7 16L6 16L6 13L3.5 13L7 6Z" fill="currentColor" opacity="1"/></g>
+</svg>

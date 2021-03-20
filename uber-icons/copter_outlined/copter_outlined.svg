@@ -1,0 +1,8 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Copter (outlined)</title>
+  <g transform="matrix(
+          1 0
+          0 1
+          0 1
+        )"><path fill-rule="nonzero" clip-rule="nonzero" d="M24 17L24 13C24 8.58 20.42 5 16 5L15 5L15 3L22 3L22 0L5 0L5 3L12 3L12 5L10 5L7 5L4.5 5L2.5 3L0 3L0 8L7 8L7 11C7 13.97 9.16 16.43 12 16.91L12 19L9 19L9 22L24 22L24 19L21 19L21 17L24 17ZM10 11L10 8L16 8C18.76 8 21 10.24 21 13L21 14L13 14C11.35 14 10 12.65 10 11ZM18 19L15 19L15 17L18 17L18 19Z" fill="currentColor" opacity="1"/></g>
+</svg>

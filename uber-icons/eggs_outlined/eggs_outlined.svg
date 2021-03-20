@@ -1,0 +1,8 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Eggs (outlined)</title>
+  <g transform="matrix(
+          1 0
+          0 1
+          4 2
+        )"><path fill-rule="nonzero" clip-rule="nonzero" d="M8 3C10.58 3 13 8.61 13 12C13 14.76 10.76 17 8 17C5.24 17 3 14.76 3 12C3 8.61 5.42 3 8 3ZM8 0C3 0 0 7.58 0 12C0 16.42 3.58 20 8 20C12.42 20 16 16.42 16 12C16 7.58 13 0 8 0Z" fill="currentColor" opacity="1"/></g>
+</svg>

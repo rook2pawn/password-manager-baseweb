@@ -1,0 +1,8 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Currency eur (outlined)</title>
+  <g transform="matrix(
+          1 0
+          0 1
+          0 2
+        )"><path fill-rule="nonzero" clip-rule="nonzero" d="M8.26 14L15 14L15 11L7.08 11C7.03 10.67 7 10.34 7 10C7 9.66 7.03 9.33 7.08 9L17 9L17 6L8.26 6C9.53 4.19 11.63 3 14 3C15.68 3 17.22 3.59 18.42 4.58L20.55 2.45C18.8 0.92 16.51 0 14 0C9.91 0 6.39 2.47 4.84 6L0 6L0 9L4.05 9C4.02 9.33 4 9.66 4 10C4 10.34 4.02 10.67 4.05 11L1 11L1 14L4.84 14C6.39 17.53 9.91 20 14 20C15.82 20 17.53 19.51 19 18.66L19 14.89C17.73 16.19 15.96 17 14 17C11.63 17 9.53 15.81 8.26 14Z" fill="currentColor" opacity="1"/></g>
+</svg>

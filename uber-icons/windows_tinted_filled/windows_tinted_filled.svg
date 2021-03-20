@@ -1,0 +1,9 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Windows tinted (filled)</title>
+  <g transform="matrix(
+          1 0
+          0 1
+          1 1
+        )"><path fill-rule="nonzero" clip-rule="nonzero" d="M9.5 0L0 9.5L0 22L22 22L22 0L9.5 0ZM19 5L17 5L17 8L19 8L19 10L17 10L17 8L14 8L14 10L11 10L11 8L8 8L8 10L3.70001 10L5.70001 8L8 8L8 5.7L8.70001 5L11 5L11 3L14 3L14 5L17 5L17 3L19 3L19 5Z" fill="currentColor" opacity="1"/>
+<path fill-rule="nonzero" clip-rule="nonzero" d="M14 5L11 5L11 8L14 8L14 5Z" fill="currentColor" opacity="1"/></g>
+</svg>

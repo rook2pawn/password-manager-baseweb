@@ -1,0 +1,8 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Report (outlined)</title>
+  <g transform="matrix(
+          1 0
+          0 1
+          1 2
+        )"><path fill-rule="evenodd" clip-rule="evenodd" d="M17 0L5 0L0 10L5 20L17 20L22 10L17 0ZM15.1001 17L6.7998 17L3.2998 10L6.7998 3L15.1001 3L18.6001 10L15.1001 17ZM12.5 4L9.5 4L9.5 10L12.5 10L12.5 4ZM13 14C13 15.1046 12.1046 16 11 16C9.89543 16 9 15.1046 9 14C9 12.8954 9.89543 12 11 12C12.1046 12 13 12.8954 13 14Z" fill="currentColor" opacity="1"/></g>
+</svg>

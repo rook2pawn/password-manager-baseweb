@@ -1,0 +1,8 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Power (outlined)</title>
+  <g transform="matrix(
+          1 0
+          0 1
+          2 1
+        )"><path fill-rule="evenodd" clip-rule="evenodd" d="M8.5 0L11.5 0L11.5 9L8.5 9L8.5 0ZM13.7002 6L15.2998 3.5C18.1998 5.4 20 8.5 20 12C20 17.5 15.5 22 10 22C4.5 22 0 17.5 0 12C0 8.5 1.8002 5.3 4.7002 3.5L6.2998 6C4.1998 7.3 3 9.49999 3 11.9C3 15.8 6.1 18.9 10 18.9C13.9 18.9 17 15.8 17 11.9C17 9.49999 15.8002 7.3 13.7002 6Z" fill="currentColor" opacity="1"/></g>
+</svg>

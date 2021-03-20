@@ -1,0 +1,8 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Coin star (filled)</title>
+  <g transform="matrix(
+          1 0
+          0 1
+          1 1
+        )"><path fill-rule="nonzero" clip-rule="nonzero" d="M11 0C4.9 0 0 4.9 0 11C0 17.1 4.9 22 11 22C17.1 22 22 17.1 22 11C22 4.9 17.1 0 11 0ZM15.7 16.7L11 14.3L6.3 16.7L7.5 11.9L4.1 8.6L8.8 8.3L11 4.1L13.2 8.3L17.9 8.6L14.5 11.9L15.7 16.7Z" fill="currentColor" opacity="1"/></g>
+</svg>

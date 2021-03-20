@@ -1,0 +1,9 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Chevron left right (filled)</title>
+  <g transform="matrix(
+          1 0
+          0 1
+          1.1999506950378418 4
+        )"><path fill-rule="nonzero" clip-rule="nonzero" d="M9.20001 0L5.5 0L0 8L5.5 16L9.20001 16L3.59998 8L9.20001 0Z" fill="currentColor" opacity="1"/>
+<path fill-rule="nonzero" clip-rule="nonzero" d="M16.1 0L12.4 0L18.0001 8L12.4 16L16.1 16L21.6 8L16.1 0Z" fill="currentColor" opacity="1"/></g>
+</svg>

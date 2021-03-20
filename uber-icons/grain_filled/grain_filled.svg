@@ -1,0 +1,12 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Grain (filled)</title>
+  <g transform="matrix(
+          1 0
+          0 1
+          1.0498046875 0.9000244140625
+        )"><path fill-rule="nonzero" clip-rule="nonzero" d="M8.45023 11.6L10.4502 9.59998C11.9502 8.09998 12.3502 5.79999 11.3502 3.79999L9.45023 0L7.45023 2C5.95023 3.5 5.55023 5.79999 6.55023 7.79999L8.45023 11.6Z" fill="currentColor" opacity="1"/>
+<path fill-rule="nonzero" clip-rule="nonzero" d="M12.4502 11.6L10.4502 13.6L14.2502 15.5001C16.1502 16.5001 18.4502 16.1 20.0502 14.6L22.0502 12.6L18.2502 10.7C16.2502 9.7 13.9502 10.1 12.4502 11.6Z" fill="currentColor" opacity="1"/>
+<path fill-rule="nonzero" clip-rule="nonzero" d="M5.35022 9.89996L3.45023 6.09998L1.45023 8.09998C-0.0497733 9.59998 -0.449767 11.9 0.550233 13.9L2.45023 17.7L4.45023 15.7C5.95023 14.1 6.35022 11.8 5.35022 9.89996Z" fill="currentColor" opacity="1"/>
+<path fill-rule="nonzero" clip-rule="nonzero" d="M6.4502 17.6L4.4502 19.6L8.25018 21.5001C10.1502 22.5001 12.4502 22.1 14.0502 20.6L16.0502 18.6L12.2502 16.7C10.2502 15.7 7.9502 16.1 6.4502 17.6Z" fill="currentColor" opacity="1"/>
+<path fill-rule="nonzero" clip-rule="nonzero" d="M19.9502 0.0999756C16.6502 0.0999756 13.9502 2.79998 13.9502 6.09998L13.9502 8.09998L15.9502 8.09998C19.2502 8.09998 21.9502 5.39998 21.9502 2.09998L21.9502 0.0999756L19.9502 0.0999756Z" fill="currentColor" opacity="1"/></g>
+</svg>

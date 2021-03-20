@@ -1,0 +1,8 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Mosque (filled)</title>
+  <g transform="matrix(
+          1 0
+          0 1
+          2 0.97705078125
+        )"><path fill-rule="evenodd" clip-rule="evenodd" d="M13.0231 4.03052L17.0536 -4.06411e-06L21.0841 4.03047L17.0536 8.061L13.0231 4.03052ZM10 0.0229492C8.8 1.42295 8 3.22296 8 5.22296C8 9.52296 11.5 13.0229 15.8 13.0229C17.8 13.0229 19.6 12.3229 21 11.0229C20.7 16.5229 16.1 21.0229 10.5 21.0229C4.7 21.0229 0 16.3229 0 10.5229C0 4.82295 4.4 0.222949 10 0.0229492Z" fill="currentColor" opacity="1"/></g>
+</svg>

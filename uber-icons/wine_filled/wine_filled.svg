@@ -1,0 +1,8 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Wine (filled)</title>
+  <g transform="matrix(
+          1 0
+          0 1
+          1 1
+        )"><path fill-rule="evenodd" clip-rule="evenodd" d="M19 3L19 7.40002C20.8 8.20002 22 10 22 12L22 22L12 22L12 12C12 9.9 13.2 8.20002 15 7.40002L15 3L14 3L14 0L20 0L20 3L19 3ZM3.5 15.7C1.5 15.1 0 13.2 0 11L0 6L10 6L10 11C10 13.2 8.5 15.1 6.5 15.7L6.5 19L9 19L9 22L1 22L1 19L3.5 19L3.5 15.7Z" fill="currentColor" opacity="1"/></g>
+</svg>

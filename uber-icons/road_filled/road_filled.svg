@@ -1,0 +1,8 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Road (filled)</title>
+  <g transform="matrix(
+          1 0
+          0 1
+          1 1
+        )"><path fill-rule="nonzero" clip-rule="nonzero" d="M22 22L16.5 0L12.5 0L12.5 5L9.5 5L9.5 0L5.5 0L0 22L9.5 22L9.5 17L12.5 17L12.5 22L22 22ZM9.5 14L9.5 8L12.5 8L12.5 14L9.5 14Z" fill="currentColor" opacity="1"/></g>
+</svg>

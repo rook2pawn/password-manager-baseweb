@@ -1,0 +1,8 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Shellfish (outlined)</title>
+  <g transform="matrix(
+          1 0
+          0 1
+          1 2
+        )"><path fill-rule="nonzero" clip-rule="nonzero" d="M11 0C4.92 0 0 4.42 0 10.5L5 15.5L5 20L17 20L17 15.5L22 10.5C22 4.42 17.08 0 11 0ZM14 14.26L14 17L8 17L8 14.26L3.09 9.35001C3.65 5.66001 6.86 3.00999 11 3.00999C15.14 3.00999 18.35 5.67001 18.91 9.35001L14 14.26Z" fill="currentColor" opacity="1"/></g>
+</svg>

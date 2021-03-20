@@ -1,0 +1,12 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Microphone off (filled)</title>
+  <g transform="matrix(
+          1 0
+          0 1
+          6 1
+        )"><path fill-rule="nonzero" clip-rule="nonzero" d="M9.9 0L7 0C3.1 0 0 3.1 0 7L0 9C0 9.3 -9.68575e-08 9.59999 0.0999999 9.79999L9.9 0Z" fill="currentColor" opacity="1"/></g>,<g transform="matrix(
+          1 0
+          0 1
+          3 0.5
+        )"><path fill-rule="nonzero" clip-rule="nonzero" d="M19.1 2.10001L17 0L0 17L2.1 19.1L5.6 15.6C6.5 16.1 7.5 16.4 8.6 16.5L8.6 19.5L5 19.5L5 22.5L15 22.5L15 19.5L11.5 19.5L11.5 16C14.1 15 16 12.5 16 9.5L16 5.10001L19.1 2.10001Z" fill="currentColor" opacity="1"/></g>
+</svg>

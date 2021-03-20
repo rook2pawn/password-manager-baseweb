@@ -1,0 +1,8 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Weather rain (filled)</title>
+  <g transform="matrix(
+          1 0
+          0 1
+          1 2
+        )"><path fill-rule="evenodd" clip-rule="evenodd" d="M8.2002 5.20001C9.0002 2.20001 11.8 0 15 0C18.9 0 22 3.1 22 7L22 11L0 11L0 9C0 6.2 2.2 4 5 4C6.2 4 7.3002 4.50001 8.2002 5.20001ZM7.1001 16L6 13L3 13L4.1001 16L7.1001 16ZM4.8999 18L6.1001 21L9.1001 21L7.8999 18L4.8999 18ZM18.5 13L19.6001 16L16.6001 16L15.5 13L18.5 13ZM17.3999 18L18.6001 21L21.6001 21L20.3999 18L17.3999 18ZM12.2002 13L13.3999 16L10.3999 16L9.2002 13L12.2002 13ZM11.2002 18L12.3999 21L15.3999 21L14.2002 18L11.2002 18Z" fill="currentColor" opacity="1"/></g>
+</svg>

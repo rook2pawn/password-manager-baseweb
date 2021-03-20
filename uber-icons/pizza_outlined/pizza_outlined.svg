@@ -1,0 +1,8 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Pizza (outlined)</title>
+  <g transform="matrix(
+          1 0
+          0 1
+          1.6651947498321533 0
+        )"><path fill-rule="nonzero" clip-rule="nonzero" d="M7.30005 0L0 22.3L22.3 15C20 7.9 14.4 2.3 7.30005 0ZM18.3 13.1L15.9 13.9C14.2 10.7 11.6 8.09999 8.40002 6.39999L9.19995 4C13.1 6 16.3 9.19998 18.3 13.1ZM7.40002 9.29999C9.70002 10.6 11.7 12.6 13 14.9L4.69995 17.6L7.40002 9.29999Z" fill="currentColor" opacity="1"/></g>
+</svg>

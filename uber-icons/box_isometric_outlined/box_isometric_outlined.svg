@@ -1,0 +1,8 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Box isometric (outlined)</title>
+  <g transform="matrix(
+          1 0
+          0 1
+          1 0.5
+        )"><path fill-rule="nonzero" clip-rule="nonzero" d="M11 0L0 5.5L0 17.5L11 23L22 17.5L22 5.5L11 0ZM17.47 6.59L11 9.82L4.53 6.59L11 3.35L17.47 6.59ZM3 9.18L9.5 12.43L9.5 18.9L3 15.65L3 9.18ZM12.5 18.9L12.5 12.43L19 9.18L19 15.65L12.5 18.9Z" fill="currentColor" opacity="1"/></g>
+</svg>

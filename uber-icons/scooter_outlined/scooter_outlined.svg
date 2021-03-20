@@ -1,0 +1,16 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Scooter (outlined)</title>
+  <g transform="matrix(
+          -1 0
+          0 1
+          20.10009765625 2
+        )"><path fill-rule="nonzero" clip-rule="nonzero" d="M12 17L5 17L0 12L3 0L8.1 0L8.1 3L5.3 3L3.3 11L6.3 14L10 14C11.3 11.6 13.8 10 16.6 10L17.1 10L17.1 13L16.6 13C14.7 13 13 14.2 12.4 16L12 17Z" fill="currentColor" opacity="1"/></g>,<g transform="matrix(
+          -1 0
+          0 1
+          6 17
+        )"><path fill-rule="nonzero" clip-rule="nonzero" d="M2.5 5C3.88071 5 5 3.88071 5 2.5C5 1.11929 3.88071 0 2.5 0C1.11929 0 0 1.11929 0 2.5C0 3.88071 1.11929 5 2.5 5Z" fill="currentColor" opacity="1"/></g>,<g transform="matrix(
+          -1 0
+          0 1
+          23 17
+        )"><path fill-rule="nonzero" clip-rule="nonzero" d="M2.5 5C3.88071 5 5 3.88071 5 2.5C5 1.11929 3.88071 0 2.5 0C1.11929 0 0 1.11929 0 2.5C0 3.88071 1.11929 5 2.5 5Z" fill="currentColor" opacity="1"/></g>
+</svg>

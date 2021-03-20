@@ -1,0 +1,8 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Star (outlined)</title>
+  <g transform="matrix(
+          1 0
+          0 1
+          1 1
+        )"><path fill-rule="nonzero" clip-rule="nonzero" d="M22.9167 7.5L15.1042 7L11.4583 0L7.8125 7L0 7.5L5.72917 13L3.64583 21L11.4583 17L19.2708 21L17.1875 13L22.9167 7.5ZM14.0625 12.2L14.9999 15.8L11.4583 14L7.91677 15.8L8.85417 12.2L6.35427 9.79999L9.58328 9.59998L11.4583 6L13.3334 9.59998L16.5624 9.79999L14.0625 12.2Z" fill="currentColor" opacity="1"/></g>
+</svg>

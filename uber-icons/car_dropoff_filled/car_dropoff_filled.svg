@@ -1,0 +1,9 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Car dropoff (filled)</title>
+  <g transform="matrix(
+          1 0
+          0 1
+          0 0
+        )"><path fill-rule="nonzero" clip-rule="nonzero" d="M20.7002 9L17.2002 9L19.3999 6L15 6L15 3L19.3999 3L17.2002 0L20.7002 0L24 4.5L20.7002 9Z" fill="currentColor" opacity="1"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M6.2002 7L4.8999 11L20.3003 11L21 13L21 22L17 22L17 20L5 20L5 22L1 22L1 13L0 13L0 10L2 10L3.5 5.40002C3.7998 4.5 4.5 4 5.3999 4L13 4L13 7L6.2002 7ZM4 17L8 17L8 15L4 15L4 17ZM14 17L18 17L18 15L14 15L14 17Z" fill="currentColor" opacity="1"/></g>
+</svg>

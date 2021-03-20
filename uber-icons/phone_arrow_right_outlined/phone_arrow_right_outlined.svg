@@ -1,0 +1,12 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Phone arrow right (outlined)</title>
+  <g transform="matrix(
+          1 0
+          0 1
+          13 2
+        )"><path fill-rule="nonzero" clip-rule="nonzero" d="M1.6001 10L5.1001 10L8.69995 5L5.1001 0L1.6001 0L4.19995 3.5L0 3.5L0 6.5L4.19995 6.5L1.6001 10Z" fill="currentColor" opacity="1"/></g>,<g transform="matrix(
+          1 0
+          0 1
+          -0.10009765625 1.9000244140625
+        )"><path fill-rule="nonzero" clip-rule="nonzero" d="M14.7002 11.3L10.5 15.8C8.9 14.7 7.50005 13.2 6.30005 11.6L10.8 7.39999L8.1001 0L0 0L0 1.5C0 12.8 9.2 22 20.5 22L22 22L22 13.9L14.7002 11.3ZM4.80005 9.10001C3.90005 7.30001 3.4002 5.30001 3.2002 3.10001L6.1001 3.10001L7.40015 6.70001L4.80005 9.10001ZM19.1001 19C17.0001 18.8 15.0001 18.3 13.1001 17.4L15.5 14.8L19.1001 16.1L19.1001 19Z" fill="currentColor" opacity="1"/></g>
+</svg>

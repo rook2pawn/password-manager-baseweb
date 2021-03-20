@@ -1,0 +1,8 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Arrow roundabout right slight (outlined)</title>
+  <g transform="matrix(
+          1 0
+          0 1
+          4 1
+        )"><path fill-rule="nonzero" clip-rule="nonzero" d="M0 11.5C0 7.92 2.92 5 6.5 5C7.75 5 8.91 5.36 9.91 5.97L13.05 2.83L8.88 3L11.88 0L18 0L18 6.12L15 9.12L15.16 4.96001L12.02 8.10001C12.63 9.09001 12.99 10.26 12.99 11.51C12.99 14.58 10.85 17.15 7.99 17.83L7.99 22L5 22L5 17.82C2.14 17.14 0 14.57 0 11.5ZM6.5 15C8.43 15 10 13.43 10 11.5C10 9.57 8.43 8 6.5 8C4.57 8 3 9.57 3 11.5C3 13.43 4.57 15 6.5 15Z" fill="currentColor" opacity="1"/></g>
+</svg>

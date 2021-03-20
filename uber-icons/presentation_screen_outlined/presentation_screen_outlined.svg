@@ -1,0 +1,8 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Presentation screen (outlined)</title>
+  <g transform="matrix(
+          1 0
+          0 1
+          1 1
+        )"><path fill-rule="nonzero" clip-rule="nonzero" d="M22 0L0 0L0 3L1 3L1 16L9.5 16L9.5 19L5 19L5 22L17 22L17 19L12.5 19L12.5 16L21 16L21 3L22 3L22 0ZM18 13L4 13L4 3L18 3L18 13Z" fill="currentColor" opacity="1"/></g>
+</svg>

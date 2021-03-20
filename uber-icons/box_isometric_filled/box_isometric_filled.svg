@@ -1,0 +1,16 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Box isometric (filled)</title>
+  <g transform="matrix(
+          1 0
+          0 1
+          1 8.1201171875
+        )"><path fill-rule="nonzero" clip-rule="nonzero" d="M0 9.88L10 14.88L10 5L0 0L0 9.88Z" fill="currentColor" opacity="1"/></g>,<g transform="matrix(
+          1 0
+          0 1
+          2.1201171875 1.5
+        )"><path fill-rule="nonzero" clip-rule="nonzero" d="M9.88 0L0 4.94L9.88 9.88L19.76 4.94L9.88 0Z" fill="currentColor" opacity="1"/></g>,<g transform="matrix(
+          1 0
+          0 1
+          13 8.1201171875
+        )"><path fill-rule="nonzero" clip-rule="nonzero" d="M0 5L0 14.88L10 9.88L10 0L0 5Z" fill="currentColor" opacity="1"/></g>
+</svg>

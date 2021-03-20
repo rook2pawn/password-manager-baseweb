@@ -1,0 +1,8 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Person walk (filled)</title>
+  <g transform="matrix(
+          1 0
+          0 1
+          5 1
+        )"><path fill-rule="evenodd" clip-rule="evenodd" d="M7.5 5C8.88071 5 10 3.88071 10 2.5C10 1.11929 8.88071 0 7.5 0C6.11929 0 5 1.11929 5 2.5C5 3.88071 6.11929 5 7.5 5ZM0.399902 22L3.8999 22L6 18.7L4.2002 15.9L0.399902 22ZM14 22L9 14.1L9 10L13.5 14.5L15.2998 12.7L9.6001 7L4.1001 7C1.9001 7 0 8.79998 0 11.1L0 14L3 14L3 11.1C3 10.5 3.5001 10 4.1001 10L5 10L5 13.4L10.3999 22L14 22Z" fill="currentColor" opacity="1"/></g>
+</svg>

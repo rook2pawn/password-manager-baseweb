@@ -1,0 +1,8 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Fuel pump (outlined)</title>
+  <g transform="matrix(
+          1 0
+          0 1
+          1 1
+        )"><path fill-rule="nonzero" clip-rule="nonzero" d="M16 0.0999756L16 3.19995C17.2 3.49995 18.1001 4.30002 18.6001 5.40002L17 7L17 12L19 12L19 15.5C19 16.9 17.9 18 16.5 18C15.1 18 14 16.9 14 15.5L14 0L0 0L0 22L14 22L14 20.4C14.8 20.8 15.6 21 16.5 21C19.5 21 22 18.5 22 15.5L22 7C22 3.5 19.4 0.599976 16 0.0999756ZM11 3L11 9L3 9L3 3L11 3ZM11 19L3 19L3 12L11 12L11 15.5L11 19Z" fill="currentColor" opacity="1"/></g>
+</svg>

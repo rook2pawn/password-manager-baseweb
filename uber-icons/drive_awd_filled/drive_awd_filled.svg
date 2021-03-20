@@ -1,0 +1,10 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Drive awd (filled)</title>
+  <g transform="matrix(
+          1 0
+          0 1
+          0 1
+        )"><path fill-rule="nonzero" clip-rule="nonzero" d="M18.5 12L13 12L13 22L18.5 22C21 22 23 20 23 17.5L23 16.5C23 14 21 12 18.5 12ZM20 17.5C20 18.3 19.3 19 18.5 19L16 19L16 15L18.5 15C19.3 15 20 15.7 20 16.5L20 17.5Z" fill="currentColor" opacity="1"/>
+<path fill-rule="nonzero" clip-rule="nonzero" d="M15.8 10L17.5 7L19.2 10L21 10L23.5 0L20.5 0L19.3 4.3L17.5 1.60001L15.7 4.3L14.5 0L11.5 0L14 10L15.8 10Z" fill="currentColor" opacity="1"/>
+<path fill-rule="nonzero" clip-rule="nonzero" d="M3.7 0L0 21.8L0 22L3 22L4 16L7 16L8 22L11 22L7.3 0L3.7 0ZM4.6 13L5.5 7.5L6.4 13L4.6 13Z" fill="currentColor" opacity="1"/></g>
+</svg>

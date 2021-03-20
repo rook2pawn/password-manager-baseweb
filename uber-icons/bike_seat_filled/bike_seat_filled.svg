@@ -1,0 +1,8 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Bike seat (filled)</title>
+  <g transform="matrix(
+          1 0
+          0 1
+          1 4
+        )"><path fill-rule="nonzero" clip-rule="nonzero" d="M18.5 0L5.5 0C2.46 0 0 2.46 0 5.5C0 8.54 2.46 11 5.5 11L11.08 11L14.08 17L17.43 17L13.11 8.38L15 7L18.5 7C20.43 7 22 5.43 22 3.5C22 1.57 20.43 0 18.5 0Z" fill="currentColor" opacity="1"/></g>
+</svg>

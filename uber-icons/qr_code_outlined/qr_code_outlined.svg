@@ -1,0 +1,8 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Qr code (outlined)</title>
+  <g transform="matrix(
+          1 0
+          0 1
+          1 1
+        )"><path fill-rule="evenodd" clip-rule="evenodd" d="M0 22L0 0L22 0L22 22L0 22ZM3 3L3 19L19 19L19 3L3 3ZM11 8L11 5L5 5L5 11L8 11L8 14L5 14L5 17L8 17L8 14L11 14L11 17L17 17L17 11L14 11L14 8L17 8L17 5L14 5L14 8L11 8ZM11 11L11 14L14 14L14 11L11 11ZM11 11L11 8L8 8L8 11L11 11Z" fill="currentColor" opacity="1"/></g>
+</svg>

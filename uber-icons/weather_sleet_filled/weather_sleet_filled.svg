@@ -1,0 +1,8 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Weather sleet (filled)</title>
+  <g transform="matrix(
+          1 0
+          0 1
+          1 2
+        )"><path fill-rule="nonzero" clip-rule="nonzero" d="M22 7C22 3.1 18.9 0 15 0C11.8 0 9.0002 2.20001 8.2002 5.20001C7.3002 4.50001 6.2 4 5 4C2.2 4 0 6.2 0 9L0 11L3.7002 11L7.6001 21L10.6001 21L6.7002 11L9.2002 11L13.1001 21L16.1001 21L12.2002 11L14.7002 11L18.6001 21L21.6001 21L17.7002 11L22 11L22 7Z" fill="currentColor" opacity="1"/></g>
+</svg>

@@ -1,0 +1,1 @@
+export { default as PaperAirplaneOutlined } from './PaperAirplaneOutlined'

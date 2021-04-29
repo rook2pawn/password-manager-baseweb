@@ -1,0 +1,1 @@
+export { default as PhoneOutlined } from './PhoneOutlined'

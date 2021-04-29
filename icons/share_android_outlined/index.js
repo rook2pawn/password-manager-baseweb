@@ -1,0 +1,1 @@
+export { default as ShareAndroidOutlined } from './ShareAndroidOutlined'

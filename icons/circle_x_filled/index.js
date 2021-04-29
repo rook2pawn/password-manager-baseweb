@@ -1,0 +1,1 @@
+export { default as CircleXFilled } from './CircleXFilled'

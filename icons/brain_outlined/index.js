@@ -1,0 +1,1 @@
+export { default as BrainOutlined } from './BrainOutlined'

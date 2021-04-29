@@ -1,0 +1,1 @@
+export { default as FaceVeryHappyFilled } from './FaceVeryHappyFilled'

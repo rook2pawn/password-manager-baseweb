@@ -1,0 +1,1 @@
+export { default as FerryFilled } from './FerryFilled'

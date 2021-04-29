@@ -1,0 +1,1 @@
+export { default as ChartFlameOutlined } from './ChartFlameOutlined'

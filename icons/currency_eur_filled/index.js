@@ -1,0 +1,1 @@
+export { default as CurrencyEurFilled } from './CurrencyEurFilled'

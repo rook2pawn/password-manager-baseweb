@@ -1,0 +1,1 @@
+export { default as DeskChairFilled } from './DeskChairFilled'

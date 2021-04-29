@@ -1,0 +1,1 @@
+export { default as WeatherSnowFilled } from './WeatherSnowFilled'

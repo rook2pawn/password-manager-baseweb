@@ -1,0 +1,1 @@
+export { default as MosqueOutlined } from './MosqueOutlined'

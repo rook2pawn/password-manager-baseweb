@@ -1,0 +1,1 @@
+export { default as CompostOutlined } from './CompostOutlined'

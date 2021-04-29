@@ -1,0 +1,1 @@
+export { default as BellFilled } from './BellFilled'

@@ -1,0 +1,1 @@
+export { default as ArrowRightDownOutlined } from './ArrowRightDownOutlined'

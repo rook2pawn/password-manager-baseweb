@@ -1,0 +1,1 @@
+export { default as WineFilled } from './WineFilled'

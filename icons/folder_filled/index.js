@@ -1,0 +1,1 @@
+export { default as FolderFilled } from './FolderFilled'

@@ -1,0 +1,1 @@
+export { default as LocationPinFilled } from './LocationPinFilled'

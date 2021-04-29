@@ -1,0 +1,1 @@
+export { default as LayersOutlined } from './LayersOutlined'

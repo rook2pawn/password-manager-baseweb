@@ -1,0 +1,1 @@
+export { default as ConfluenceOutlined } from './ConfluenceOutlined'

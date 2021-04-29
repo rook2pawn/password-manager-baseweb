@@ -1,0 +1,1 @@
+export { default as DumbbellFilled } from './DumbbellFilled'

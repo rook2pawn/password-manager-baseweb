@@ -1,0 +1,1 @@
+export { default as BeaconFilled } from './BeaconFilled'

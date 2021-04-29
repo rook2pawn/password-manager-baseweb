@@ -1,0 +1,1 @@
+export { default as TireFlatFilled } from './TireFlatFilled'

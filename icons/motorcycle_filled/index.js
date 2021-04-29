@@ -1,0 +1,1 @@
+export { default as MotorcycleFilled } from './MotorcycleFilled'

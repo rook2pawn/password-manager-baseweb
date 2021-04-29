@@ -1,0 +1,1 @@
+export { default as DiamondHalfOutlined } from './DiamondHalfOutlined'

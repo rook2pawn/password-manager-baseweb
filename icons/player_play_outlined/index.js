@@ -1,0 +1,1 @@
+export { default as PlayerPlayOutlined } from './PlayerPlayOutlined'

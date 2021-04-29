@@ -1,0 +1,1 @@
+export { default as TramFilled } from './TramFilled'

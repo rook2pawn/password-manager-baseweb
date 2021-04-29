@@ -1,0 +1,1 @@
+export { default as FaceVerySadOutlined } from './FaceVerySadOutlined'

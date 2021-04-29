@@ -1,0 +1,1 @@
+export { default as PersonUnaccompaniedMinorOutlined } from './PersonUnaccompaniedMinorOutlined'

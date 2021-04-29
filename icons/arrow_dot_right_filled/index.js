@@ -1,0 +1,1 @@
+export { default as ArrowDotRightFilled } from './ArrowDotRightFilled'

@@ -1,0 +1,1 @@
+export { default as AndroidOutlined } from './AndroidOutlined'

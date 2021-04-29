@@ -1,0 +1,1 @@
+export { default as CircleChevronRightOutlined } from './CircleChevronRightOutlined'

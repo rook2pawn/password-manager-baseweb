@@ -1,0 +1,1 @@
+export { default as ScanQrCodeFilled } from './ScanQrCodeFilled'

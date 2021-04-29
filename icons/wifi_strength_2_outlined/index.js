@@ -1,0 +1,1 @@
+export { default as WifiStrength2Outlined } from './WifiStrength2Outlined'

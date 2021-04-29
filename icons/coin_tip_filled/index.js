@@ -1,0 +1,1 @@
+export { default as CoinTipFilled } from './CoinTipFilled'

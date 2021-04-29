@@ -1,0 +1,1 @@
+export { default as ArrowThreeUpFilled } from './ArrowThreeUpFilled'

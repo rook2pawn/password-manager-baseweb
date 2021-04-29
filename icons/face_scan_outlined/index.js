@@ -1,0 +1,1 @@
+export { default as FaceScanOutlined } from './FaceScanOutlined'

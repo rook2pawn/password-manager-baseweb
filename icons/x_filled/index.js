@@ -1,0 +1,1 @@
+export { default as XFilled } from './XFilled'

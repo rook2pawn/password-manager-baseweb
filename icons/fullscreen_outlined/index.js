@@ -1,0 +1,1 @@
+export { default as FullscreenOutlined } from './FullscreenOutlined'

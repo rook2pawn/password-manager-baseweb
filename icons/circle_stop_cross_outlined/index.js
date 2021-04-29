@@ -1,0 +1,1 @@
+export { default as CircleStopCrossOutlined } from './CircleStopCrossOutlined'

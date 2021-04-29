@@ -1,0 +1,1 @@
+export { default as HandStopOutlined } from './HandStopOutlined'

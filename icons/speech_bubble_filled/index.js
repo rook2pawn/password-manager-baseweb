@@ -1,0 +1,1 @@
+export { default as SpeechBubbleFilled } from './SpeechBubbleFilled'

@@ -1,0 +1,1 @@
+export { default as CameraFlipOutlined } from './CameraFlipOutlined'

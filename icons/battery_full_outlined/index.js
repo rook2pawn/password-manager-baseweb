@@ -1,0 +1,1 @@
+export { default as BatteryFullOutlined } from './BatteryFullOutlined'

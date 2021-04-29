@@ -1,0 +1,1 @@
+export { default as ReportOutlined } from './ReportOutlined'

@@ -1,0 +1,1 @@
+export { default as ArrowRightExitFilled } from './ArrowRightExitFilled'

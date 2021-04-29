@@ -1,0 +1,1 @@
+export { default as StethoscopeFilled } from './StethoscopeFilled'

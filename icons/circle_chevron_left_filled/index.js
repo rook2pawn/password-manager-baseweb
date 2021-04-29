@@ -1,0 +1,1 @@
+export { default as CircleChevronLeftFilled } from './CircleChevronLeftFilled'

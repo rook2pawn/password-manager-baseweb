@@ -1,0 +1,1 @@
+export { default as ScissorsFilled } from './ScissorsFilled'

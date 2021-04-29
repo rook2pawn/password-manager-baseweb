@@ -1,0 +1,1 @@
+export { default as TrophyOutlined } from './TrophyOutlined'

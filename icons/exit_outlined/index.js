@@ -1,0 +1,1 @@
+export { default as ExitOutlined } from './ExitOutlined'

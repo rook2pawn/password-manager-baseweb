@@ -1,0 +1,1 @@
+export { default as StaircaseUpFilled } from './StaircaseUpFilled'

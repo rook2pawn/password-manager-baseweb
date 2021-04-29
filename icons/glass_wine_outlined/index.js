@@ -1,0 +1,1 @@
+export { default as GlassWineOutlined } from './GlassWineOutlined'

@@ -1,0 +1,1 @@
+export { default as HeadsetOutlined } from './HeadsetOutlined'

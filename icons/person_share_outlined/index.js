@@ -1,0 +1,1 @@
+export { default as PersonShareOutlined } from './PersonShareOutlined'

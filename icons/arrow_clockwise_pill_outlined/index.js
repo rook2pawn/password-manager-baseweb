@@ -1,0 +1,1 @@
+export { default as ArrowClockwisePillOutlined } from './ArrowClockwisePillOutlined'

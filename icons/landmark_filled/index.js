@@ -1,0 +1,1 @@
+export { default as LandmarkFilled } from './LandmarkFilled'

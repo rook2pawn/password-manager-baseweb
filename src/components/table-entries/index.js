@@ -37,62 +37,6 @@ export default () => {
   return (
     <Card>
       <Table>
-        <Button
-          disabled={editing}
-          startEnhancer={() => <Plus size={24} />}
-          onClick={addRowClick}
-        >
-          Add a row
-        </Button>
-        <div
-          style={{
-            display: "flex",
-            flexDirection: "row",
-            justifyContent: "space-between",
-            paddingTop: "5px",
-          }}
-        >
-          <Button
-            kind={ButtonKIND.secondary}
-            overrides={{
-              BaseButton: {
-                style: ({ $theme }) => ({
-                  width: "45%",
-                  boxSizing: "border-box",
-                  borderWidth: "1px",
-                  borderColor: "black",
-                }),
-              },
-            }}
-            disabled={!editing}
-            startEnhancer={() => <Delete size={24} />}
-            onClick={cancelRowClick}
-          >
-            Cancel
-          </Button>
-          <Button
-            overrides={{
-              BaseButton: {
-                style: ({ $theme }) => ({
-                  width: "45%",
-                  boxSizing: "border-box",
-                  borderWidth: "1px",
-                  borderColor: "black",
-                }),
-              },
-            }}
-            disabled={!editing}
-            startEnhancer={() => <Check size={24} />}
-            onClick={saveRowClick}
-          >
-            Save row
-          </Button>
-        </div>
-        {editing && (
-          <div style={{ width: "50%" }}>
-            <EditEntry />
-          </div>
-        )}
         <TableHeader>
           <HeaderCell>Title</HeaderCell>
           <HeaderCell>username</HeaderCell>

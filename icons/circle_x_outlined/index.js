@@ -1,0 +1,1 @@
+export { default as CircleXOutlined } from './CircleXOutlined'

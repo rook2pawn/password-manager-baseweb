@@ -1,0 +1,1 @@
+export { default as WalletOutlined } from './WalletOutlined'

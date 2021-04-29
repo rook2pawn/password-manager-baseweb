@@ -1,0 +1,1 @@
+export { default as CupCoffeeOutlined } from './CupCoffeeOutlined'

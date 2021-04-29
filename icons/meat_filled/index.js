@@ -1,0 +1,1 @@
+export { default as MeatFilled } from './MeatFilled'

@@ -1,0 +1,1 @@
+export { default as CarClockOutlined } from './CarClockOutlined'

@@ -1,0 +1,1 @@
+export { default as PowerOutlined } from './PowerOutlined'

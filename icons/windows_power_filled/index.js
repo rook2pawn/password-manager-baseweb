@@ -1,0 +1,1 @@
+export { default as WindowsPowerFilled } from './WindowsPowerFilled'

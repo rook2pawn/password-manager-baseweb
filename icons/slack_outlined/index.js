@@ -1,0 +1,1 @@
+export { default as SlackOutlined } from './SlackOutlined'

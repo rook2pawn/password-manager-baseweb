@@ -1,0 +1,1 @@
+export { default as VeganOutlined } from './VeganOutlined'

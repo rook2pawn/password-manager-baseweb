@@ -1,0 +1,1 @@
+export { default as ArrowRoundaboutStraightOutlined } from './ArrowRoundaboutStraightOutlined'

@@ -1,0 +1,1 @@
+export { default as AccessibilityOutlined } from './AccessibilityOutlined'

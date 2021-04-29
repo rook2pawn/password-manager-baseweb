@@ -1,0 +1,1 @@
+export { default as YoutubeOutlined } from './YoutubeOutlined'

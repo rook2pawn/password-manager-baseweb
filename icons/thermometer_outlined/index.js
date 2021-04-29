@@ -1,0 +1,1 @@
+export { default as ThermometerOutlined } from './ThermometerOutlined'

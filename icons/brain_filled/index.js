@@ -1,0 +1,1 @@
+export { default as BrainFilled } from './BrainFilled'

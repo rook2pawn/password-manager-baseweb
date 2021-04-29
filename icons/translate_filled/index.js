@@ -1,0 +1,1 @@
+export { default as TranslateFilled } from './TranslateFilled'

@@ -1,0 +1,1 @@
+export { default as PersonBagOutlined } from './PersonBagOutlined'

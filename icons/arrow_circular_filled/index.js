@@ -1,0 +1,1 @@
+export { default as ArrowCircularFilled } from './ArrowCircularFilled'

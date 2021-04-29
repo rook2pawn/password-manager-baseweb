@@ -1,0 +1,1 @@
+export { default as CarCurbOutlined } from './CarCurbOutlined'

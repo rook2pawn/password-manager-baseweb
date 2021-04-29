@@ -1,0 +1,1 @@
+export { default as FolderOutlined } from './FolderOutlined'

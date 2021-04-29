@@ -1,0 +1,1 @@
+export { default as TextBoldFilled } from './TextBoldFilled'

@@ -1,0 +1,1 @@
+export { default as ConcertHallFilled } from './ConcertHallFilled'

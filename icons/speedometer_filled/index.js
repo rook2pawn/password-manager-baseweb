@@ -1,0 +1,1 @@
+export { default as SpeedometerFilled } from './SpeedometerFilled'

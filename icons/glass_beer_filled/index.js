@@ -1,0 +1,1 @@
+export { default as GlassBeerFilled } from './GlassBeerFilled'

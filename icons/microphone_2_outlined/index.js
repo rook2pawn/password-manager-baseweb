@@ -1,0 +1,1 @@
+export { default as Microphone2Outlined } from './Microphone2Outlined'

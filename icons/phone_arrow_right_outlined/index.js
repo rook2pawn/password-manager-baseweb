@@ -1,0 +1,1 @@
+export { default as PhoneArrowRightOutlined } from './PhoneArrowRightOutlined'

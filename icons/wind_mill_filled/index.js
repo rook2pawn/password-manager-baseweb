@@ -1,0 +1,1 @@
+export { default as WindMillFilled } from './WindMillFilled'

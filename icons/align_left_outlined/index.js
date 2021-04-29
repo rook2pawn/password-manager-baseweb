@@ -1,0 +1,1 @@
+export { default as AlignLeftOutlined } from './AlignLeftOutlined'

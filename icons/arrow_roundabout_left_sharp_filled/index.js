@@ -1,0 +1,1 @@
+export { default as ArrowRoundaboutLeftSharpFilled } from './ArrowRoundaboutLeftSharpFilled'

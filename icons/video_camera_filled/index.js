@@ -1,0 +1,1 @@
+export { default as VideoCameraFilled } from './VideoCameraFilled'

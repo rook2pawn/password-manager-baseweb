@@ -1,0 +1,1 @@
+export { default as BikeCheckFilled } from './BikeCheckFilled'

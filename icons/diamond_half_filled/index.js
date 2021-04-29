@@ -1,0 +1,1 @@
+export { default as DiamondHalfFilled } from './DiamondHalfFilled'

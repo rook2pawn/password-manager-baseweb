@@ -1,0 +1,1 @@
+export { default as StairsOutlined } from './StairsOutlined'

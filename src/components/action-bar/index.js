@@ -1,25 +1,16 @@
 import * as React from "react";
 import { AppNavBar, setItemActive } from "baseui/app-nav-bar";
-import { ChevronDown, Delete, Overflow, Upload } from "baseui/icon";
-// import { ReactComponent as Gear } from "../../../uber-icons/gear_filled/gear_filled.svg";
+import { ChevronDown, Delete, Overflow, Upload, Menu } from "baseui/icon";
 
 export default () => {
   const [mainItems, setMainItems] = React.useState([
-    { icon: Upload, label: "Main A" },
-    {
-      active: true,
-      icon: ChevronDown,
-      label: "Main B",
-      navExitIcon: Delete,
-      children: [
-        { icon: Upload, label: "Secondary A" },
-        { icon: Upload, label: "Secondary B" },
-      ],
-    },
+    { icon: Upload, label: "View", active: true },
+    { icon: Upload, label: "Add" },
+    { icon: Menu, label: "Configure" },
   ]);
   return (
     <AppNavBar
-      title="Title"
+      title="Password Manager"
       mainItems={mainItems}
       onMainItemSelect={(item) => {
         setMainItems((prev) => setItemActive(prev, item));

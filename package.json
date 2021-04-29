@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "private": true,
   "dependencies": {
-    "baseui": "^9.111.2",
+    "baseui": "^9.113.0",
     "fusion-cli": "^2.6.0",
     "fusion-core": "^2.0.9",
     "fusion-plugin-react-helmet-async": "^2.1.5",
@@ -16,6 +16,7 @@
     "prop-types": "^15.7.2",
     "react": "^16.10.2",
     "react-dom": "^16.10.2",
+    "storybook": "^6.2.9",
     "styletron-engine-atomic": "^1.4.7",
     "styletron-react": "^6.0.1",
     "zxcvbn": "^4.4.2"
@@ -26,10 +27,20 @@
     "test": "fusion test",
     "build": "fusion build",
     "build-production": "fusion build --production",
-    "start": "fusion start"
+    "start": "fusion start",
+    "storybook": "start-storybook -p 6006",
+    "build-storybook": "build-storybook"
   },
   "devDependencies": {
+    "@babel/core": "^7.13.16",
+    "@storybook/addon-actions": "^6.2.9",
+    "@storybook/addon-essentials": "^6.2.9",
+    "@storybook/addon-links": "^6.2.9",
+    "@storybook/react": "^6.2.9",
+    "@svgr/cli": "^5.5.0",
+    "@svgr/webpack": "^5.5.0",
     "babel-eslint": "^10.0.3",
+    "babel-loader": "^8.2.2",
     "enzyme": "^3.10.0",
     "enzyme-adapter-react-16": "^1.15.1",
     "eslint": "^6.5.1",

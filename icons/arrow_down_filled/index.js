@@ -1,0 +1,1 @@
+export { default as ArrowDownFilled } from './ArrowDownFilled'

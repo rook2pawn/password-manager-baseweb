@@ -1,0 +1,1 @@
+export { default as CurrencyUberMoneyOutlined } from './CurrencyUberMoneyOutlined'

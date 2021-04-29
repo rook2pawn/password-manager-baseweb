@@ -1,0 +1,1 @@
+export { default as MusicNoteOutlined } from './MusicNoteOutlined'

@@ -1,0 +1,1 @@
+export { default as TrailerOutlined } from './TrailerOutlined'

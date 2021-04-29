@@ -1,0 +1,1 @@
+export { default as TollgateOutlined } from './TollgateOutlined'

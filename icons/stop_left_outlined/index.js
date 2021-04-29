@@ -1,0 +1,1 @@
+export { default as StopLeftOutlined } from './StopLeftOutlined'

@@ -1,0 +1,1 @@
+export { default as UmbrellaOutlined } from './UmbrellaOutlined'

@@ -1,0 +1,1 @@
+export { default as DesktopFilled } from './DesktopFilled'

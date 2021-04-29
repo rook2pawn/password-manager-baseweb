@@ -1,0 +1,1 @@
+export { default as ContactsFilled } from './ContactsFilled'

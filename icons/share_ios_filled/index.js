@@ -1,0 +1,1 @@
+export { default as ShareIosFilled } from './ShareIosFilled'

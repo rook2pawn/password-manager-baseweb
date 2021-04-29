@@ -1,0 +1,1 @@
+export { default as BoxHeartFilled } from './BoxHeartFilled'

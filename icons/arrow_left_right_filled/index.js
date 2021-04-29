@@ -1,0 +1,1 @@
+export { default as ArrowLeftRightFilled } from './ArrowLeftRightFilled'

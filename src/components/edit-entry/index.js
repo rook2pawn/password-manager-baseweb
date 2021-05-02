@@ -3,6 +3,7 @@ import { FormControl } from "baseui/form-control";
 import { Input } from "baseui/input";
 import { Slider } from "baseui/slider";
 import { Card, StyledBody, StyledAction } from "baseui/card";
+import { Button } from "baseui/button";
 
 import { Checkbox } from "baseui/checkbox";
 import { ProgressBar } from "baseui/progress-bar";
@@ -12,6 +13,15 @@ import zxcvbn from "zxcvbn";
 
 const MAXLENGTH = 64;
 const MINLENGTH = 4;
+
+const ButtonOverrides = {
+  BaseButton: {
+    style: {
+      marginTop: "5px",
+      width: "100%",
+    },
+  },
+};
 
 export default () => {
   const [username, setUsername] = useState("");
@@ -109,11 +119,20 @@ export default () => {
                 onChange={(e) => {
                   setNewPassword(e.target.value);
                 }}
-                type="password"
                 clearable
                 clearOnEscape
               />
             </FormControl>
+            <Button overrides={ButtonOverrides}>Copy to clipboard</Button>
+            <Button
+              onClick={(e) => {
+                setPassword(temporaryPassword);
+              }}
+              overrides={ButtonOverrides}
+            >
+              Use this password
+            </Button>
+
             <div>
               <ProgressBar value={strength} successValue={4} />
               <span

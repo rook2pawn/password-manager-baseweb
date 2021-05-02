@@ -50,7 +50,11 @@ export default () => {
     4: "Strongest",
   };
   return (
-    <Card>
+    <Card
+      overrides={{
+        Root: { style: { padding: 0, width: "100%", boxSizing: "border-box" } },
+      }}
+    >
       <fieldset>
         <legend>Edit entry</legend>
         <FormControl label={() => "Title"} caption={() => "Title of entry"}>

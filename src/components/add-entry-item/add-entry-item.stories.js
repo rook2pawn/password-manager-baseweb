@@ -1,14 +1,14 @@
 import React from "react";
 
-import AddEntryUI from "./index";
+import AddEntryItem from "./index";
 import ProviderWrapper from "../provider-wrapper";
 
 export const AddEntry = () => (
   <ProviderWrapper>
-    <AddEntryUI />
+    <AddEntryItem />
   </ProviderWrapper>
 );
 
 export default {
-  title: "Components/AddEntryUI",
+  title: "Components/AddEntryItem",
 };

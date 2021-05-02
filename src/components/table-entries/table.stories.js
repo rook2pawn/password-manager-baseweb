@@ -1,14 +1,14 @@
 import React from "react";
 
-import AddEntryUI from "./index";
+import Table from "./index";
 import ProviderWrapper from "../provider-wrapper";
 
-export const AddEntry = () => (
+export const TableEntry = () => (
   <ProviderWrapper>
-    <AddEntryUI />
+    <Table />
   </ProviderWrapper>
 );
 
 export default {
-  title: "Components/AddEntryUI",
+  title: "Components/TableEntries",
 };

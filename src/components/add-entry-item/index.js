@@ -16,7 +16,6 @@ const AddEntryItem = ({ onCancelClick = noop, onSaveClick = noop }, ref) => {
   const itemRef = React.useRef();
   React.useImperativeHandle(ref, () => ({
     getEntry: () => {
-      console.log("AddEntryItem getEntry. Calling getEntry for entry");
       return itemRef.current.getEntry();
     },
   }));
@@ -43,7 +42,6 @@ const AddEntryItem = ({ onCancelClick = noop, onSaveClick = noop }, ref) => {
             BaseButton: {
               style: ({ $theme }) => ({
                 width: "50%",
-                padding: "5px",
               }),
             },
           }}
@@ -58,7 +56,6 @@ const AddEntryItem = ({ onCancelClick = noop, onSaveClick = noop }, ref) => {
             BaseButton: {
               style: ({ $theme }) => ({
                 width: "50%",
-                padding: "5px",
               }),
             },
           }}

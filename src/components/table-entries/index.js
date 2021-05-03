@@ -2,20 +2,23 @@ import * as React from "react";
 import { Table, TableHeader, HeaderCell } from "./child-components";
 
 import TableItem from "../table-item";
-export default ({ table = [] }) => {
-  const [rows, setRows] = React.useState(table);
-  const [editing, setEditing] = React.useState(false);
+const noop = () => Promise.resolve();
+export default ({ table = [], onRemove = noop }) => {
   const EntryFields = ["Title", "Username", "URL", "Last Updated"];
   return (
     <Table>
       <TableHeader>
-        {EntryFields.map((field) => (
-          <HeaderCell>{field}</HeaderCell>
+        {EntryFields.map((field, idx) => (
+          <HeaderCell key={idx}>{field}</HeaderCell>
         ))}
       </TableHeader>
       {table.map((item, idx) => {
         return (
           <TableItem
+            onRemove={() => {
+              onRemove({ item: table[idx], idx });
+            }}
+            key={idx}
             idx={idx}
             username={item.username}
             url={item.url}

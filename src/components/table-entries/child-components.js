@@ -5,7 +5,6 @@ export const Table = styled("div", {
   display: "flex",
   flexDirection: "column",
   fontSize: "14px",
-  padding: "5px",
 });
 export const TableHeader = styled("div", {
   display: "flex",

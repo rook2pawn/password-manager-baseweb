@@ -21,15 +21,10 @@ const AddEntryUI = ({ saveEntry = noop }, ref) => {
             }}
             onSaveClick={() => {
               return new Promise((resolve, reject) => {
-                setTimeout(() => {
-                  console.log("Going to call getEntry", itemRef);
-                  const x = itemRef.current.getEntry();
-                  console.log("Value:", x);
-                  saveEntry(x).then(() => {
-                    return resolve();
-                  });
-                  //return reject();
-                }, 1500);
+                const x = itemRef.current.getEntry();
+                saveEntry(x).then(() => {
+                  return resolve();
+                });
               })
                 .then(() => {
                   toaster.positive("Password save successful.");

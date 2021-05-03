@@ -1,14 +1,17 @@
 import * as React from "react";
 import { Row, Cell } from "./child-components";
 
+const noop = () => Promise.resolve();
+
 export default ({
   idx = 0,
   title = "Ebay",
   username = "foo@bar.com",
   url = "https://ebay.com",
+  onRemove = noop,
 }) => {
   return (
-    <Row key={`item_${idx}`}>
+    <Row key={`item_${idx}`} onClick={onRemove}>
       <Cell>{title}</Cell>
       <Cell>{username}</Cell>
       <Cell>

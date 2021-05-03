@@ -1,32 +1,24 @@
 import * as React from "react";
-import { Table, TableHeader, HeaderCell } from "./child-components";
+import { Row, Cell } from "./child-components";
 
-import TableItem from "../table-item";
-export default ({ table = [] }) => {
-  const [rows, setRows] = React.useState(table);
-  const [editing, setEditing] = React.useState(false);
-  const EntryFields = ["Title", "Username", "URL", "Last Updated"];
+export default ({
+  idx = 0,
+  title = "Ebay",
+  username = "foo@bar.com",
+  url = "https://ebay.com",
+}) => {
   return (
-    <Table>
-      <TableHeader>
-        {EntryFields.map((field) => (
-          <HeaderCell>{field}</HeaderCell>
-        ))}
-      </TableHeader>
-      {table.map((item, idx) => {
-        return (
-          <TableItem
-            idx={idx}
-            username={item.username}
-            url={item.url}
-            title={item.title}
-          />
-        );
-      })}
-    </Table>
+    <Row key={`item_${idx}`}>
+      <Cell>{title}</Cell>
+      <Cell>{username}</Cell>
+      <Cell>
+        <a href={url} target="_blank">
+          {url}
+        </a>
+      </Cell>
+    </Row>
   );
 };
-
 /*
         {rows.map((row, idx) => {
           const { title, username, url } = row;

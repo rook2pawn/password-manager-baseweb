@@ -10,6 +10,7 @@ import { ProgressBar } from "baseui/progress-bar";
 import { Accordion, Panel } from "baseui/accordion";
 import { generate as generatePassword } from "generate-password";
 import zxcvbn from "zxcvbn";
+import copy from "copy-to-clipboard";
 
 const MAXLENGTH = 64;
 const MINLENGTH = 4;
@@ -23,10 +24,34 @@ const ButtonOverrides = {
   },
 };
 
-export default () => {
-  const [username, setUsername] = useState("");
-  const [title, setTitle] = useState("");
-  const [url, setUrl] = useState("");
+const validateTitle = (title) => {
+  return title && title.length > 3;
+};
+const validateUsername = (username) => {
+  return username && username.length > 3;
+};
+const validatePassword = (password) => {
+  return password && password.length > 3;
+};
+const validateURL = (url) => {
+  return url && /https?:\/\//.test(url);
+};
+
+const EntryItem = ({ isNewEntry = true }, ref) => {
+  const [username, setUsername] = useState("rook2pawn");
+  const [validStates, setValidStates] = React.useState({
+    username: false,
+    isVisitedUsername: false,
+    url: false,
+    isVisitedUrl: false,
+    title: false,
+    isVisitedTitle: false,
+    password: false,
+    isVisitedPassword: false,
+  });
+  const [title, setTitle] = useState("sampleTitle");
+  const [url, setUrl] = useState("https://foo.com");
+
   const [length, setLength] = useState(~~(MAXLENGTH / 2));
   const [uppercase, setUppercase] = useState(true);
   const [numbers, setNumbers] = useState(true);
@@ -34,7 +59,18 @@ export default () => {
   const [copied, setCopied] = useState(false);
   const [strength, setStrength] = useState(null);
   const [temporaryPassword, setTemporaryPassword] = React.useState("");
-  const [password, setPassword] = React.useState("");
+  const [password, setPassword] = React.useState("adsfsfd");
+
+  React.useImperativeHandle(ref, () => ({
+    getEntry: () => {
+      return { title, url, password, username };
+    },
+  }));
+
+  const copyToClipboard = () => {
+    copy(temporaryPassword);
+    setCopied(true);
+  };
 
   const setNewPassword = (p) => {
     const newPassword =
@@ -66,13 +102,27 @@ export default () => {
       }}
     >
       <fieldset>
-        <legend>Edit entry</legend>
-        <FormControl label={() => "Title"} caption={() => "Title of entry"}>
+        <legend>{isNewEntry ? "Add new entry" : "Edit existing entry"}</legend>
+        <FormControl
+          error={
+            !validStates.title && validStates.isVisitedTitle
+              ? "Enter valid title"
+              : null
+          }
+          label={() => "Title"}
+          caption={() => "Title of entry"}
+        >
           <Input
             value={title}
             onChange={(e) => {
               setTitle(e.target.value);
+              setValidStates({
+                ...validStates,
+                title: validateTitle(e.target.value),
+                isVisitedTitle: e.target.value ? true : false,
+              });
             }}
+            placeholder={"Enter title"}
             type="text"
             clearable
             clearOnEscape
@@ -81,13 +131,24 @@ export default () => {
 
         <FormControl
           label={() => "Username"}
+          error={
+            !validStates.username && validStates.isVisitedUsername
+              ? "Enter valid username"
+              : null
+          }
           caption={() => "Username for this entry"}
         >
           <Input
             value={username}
             onChange={(e) => {
               setUsername(e.target.value);
+              setValidStates({
+                ...validStates,
+                username: validateUsername(e.target.value),
+                isVisitedUsername: e.target.value ? true : false,
+              });
             }}
+            placeholder={"Enter username"}
             type="text"
             clearable
             clearOnEscape
@@ -96,11 +157,22 @@ export default () => {
         <FormControl
           label={() => "Password"}
           caption={() => "Password for this entry"}
+          error={
+            !validStates.password && validStates.isVisitedPassword
+              ? "Enter valid password"
+              : null
+          }
         >
           <Input
             value={password}
+            placeholder={"Enter password"}
             onChange={(e) => {
               setPassword(e.target.value);
+              setValidStates({
+                ...validStates,
+                password: validatePassword(e.target.value),
+                isVisitedPassword: e.target.value ? true : false,
+              });
             }}
             type="password"
             clearable
@@ -123,7 +195,9 @@ export default () => {
                 clearOnEscape
               />
             </FormControl>
-            <Button overrides={ButtonOverrides}>Copy to clipboard</Button>
+            <Button onClick={copyToClipboard} overrides={ButtonOverrides}>
+              {!copied ? "Copy to clipboard" : "Copied!"}
+            </Button>
             <Button
               onClick={(e) => {
                 setPassword(temporaryPassword);
@@ -183,11 +257,25 @@ export default () => {
             </FormControl>
           </Panel>
         </Accordion>
-        <FormControl label={() => "URL"} caption={() => "URL of entry"}>
+        <FormControl
+          error={
+            !validStates.url && validStates.isVisitedUrl
+              ? "Enter valid URL"
+              : null
+          }
+          label={() => "URL"}
+          caption={() => "URL of entry"}
+        >
           <Input
+            placeholder={"Enter url link"}
             value={url}
             onChange={(e) => {
               setUrl(e.target.value);
+              setValidStates({
+                ...validStates,
+                url: validateURL(e.target.value),
+                isVisitedUrl: e.target.value ? true : false,
+              });
             }}
             type="text"
             clearable
@@ -198,3 +286,5 @@ export default () => {
     </Card>
   );
 };
+
+export default React.forwardRef(EntryItem);

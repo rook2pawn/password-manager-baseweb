@@ -1,19 +1,26 @@
 import * as React from "react";
-import { Card } from "baseui/card";
 import { Button, KIND as ButtonKIND } from "baseui/button";
-import Plus from "baseui/icon/plus";
 import Check from "baseui/icon/check";
 import Delete from "baseui/icon/delete";
-import EditEntry from "../edit-entry";
+import EntryItem from "../entry-item";
 
-const EntryItem = (props = {}) => {
+const noop = () => Promise.resolve();
+const AddEntryItem = ({ onCancelClick = noop, onSaveClick = noop }, ref) => {
   const [editing, setEditing] = React.useState(true);
-  const saveRowClick = () => {
-    setEditing(false);
+  const saveClick = () => {
+    return onSaveClick();
   };
-  const cancelRowClick = () => {
-    setEditing(false);
+  const cancelClick = () => {
+    return onCancelClick();
   };
+  const itemRef = React.useRef();
+  React.useImperativeHandle(ref, () => ({
+    getEntry: () => {
+      console.log("AddEntryItem getEntry. Calling getEntry for entry");
+      return itemRef.current.getEntry();
+    },
+  }));
+
   return (
     <div
       style={{
@@ -22,7 +29,7 @@ const EntryItem = (props = {}) => {
         width: "600px",
       }}
     >
-      {editing && <EditEntry />}
+      <EntryItem ref={itemRef} />
       <div
         style={{
           display: "flex",
@@ -42,7 +49,7 @@ const EntryItem = (props = {}) => {
           }}
           disabled={!editing}
           startEnhancer={() => <Delete size={24} />}
-          onClick={cancelRowClick}
+          onClick={cancelClick}
         >
           Cancel
         </Button>
@@ -57,7 +64,7 @@ const EntryItem = (props = {}) => {
           }}
           disabled={!editing}
           startEnhancer={() => <Check size={24} />}
-          onClick={saveRowClick}
+          onClick={saveClick}
         >
           Save row
         </Button>
@@ -66,4 +73,4 @@ const EntryItem = (props = {}) => {
   );
 };
 
-export default EntryItem;
+export default React.forwardRef(AddEntryItem);

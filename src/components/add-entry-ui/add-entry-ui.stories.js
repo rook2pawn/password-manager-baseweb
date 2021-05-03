@@ -3,9 +3,13 @@ import React from "react";
 import AddEntryUI from "./index";
 import ProviderWrapper from "../provider-wrapper";
 
+import { ToasterContainer } from "baseui/toast";
+
 export const AddEntry = () => (
   <ProviderWrapper>
-    <AddEntryUI />
+    <ToasterContainer autoHideDuration={5000}>
+      <AddEntryUI />
+    </ToasterContainer>
   </ProviderWrapper>
 );
 

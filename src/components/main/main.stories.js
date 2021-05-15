@@ -1,9 +1,14 @@
 import React from "react";
+import ProviderWrapper from "../provider-wrapper";
 
 import { Primary } from "./index";
 
 export const MainApp = () => {
-  return <Primary />;
+  return (
+    <ProviderWrapper>
+      <Primary />
+    </ProviderWrapper>
+  );
 };
 
 export default {

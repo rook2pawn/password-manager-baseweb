@@ -1,7 +1,11 @@
 import * as React from "react";
 import { Row, Cell } from "./child-components";
+import { Button, KIND } from "baseui/button";
 
+import Delete from "baseui/icon/delete";
+import DeleteAlt from "baseui/icon/delete-alt";
 const noop = () => Promise.resolve();
+import { useStyletron } from "baseui";
 
 export default ({
   idx = 0,
@@ -9,17 +13,29 @@ export default ({
   username = "foo@bar.com",
   url = "https://ebay.com",
   onRemove = noop,
+  onView = noop,
 }) => {
   return (
-    <Row key={`item_${idx}`} onClick={onRemove}>
-      <Cell>{title}</Cell>
-      <Cell>{username}</Cell>
-      <Cell>
-        <a href={url} target="_blank">
-          {url}
-        </a>
-      </Cell>
-    </Row>
+    <div
+      style={{
+        display: "flex",
+        justifyContent: "space-evenly",
+        alignItems: "center",
+      }}
+    >
+      <Row key={`item_${idx}`} onClick={onView}>
+        <Cell>{title}</Cell>
+        <Cell>{username}</Cell>
+        <Cell>
+          <a href={url} target="_blank">
+            {url}
+          </a>
+        </Cell>
+      </Row>
+      <Button kind={KIND.secondary} onClick={onRemove}>
+        <DeleteAlt />
+      </Button>
+    </div>
   );
 };
 /*

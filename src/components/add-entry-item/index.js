@@ -5,7 +5,10 @@ import Delete from "baseui/icon/delete";
 import EntryItem from "../entry-item";
 
 const noop = () => Promise.resolve();
-const AddEntryItem = ({ onCancelClick = noop, onSaveClick = noop }, ref) => {
+const AddEntryItem = (
+  { onCancelClick = noop, onSaveClick = noop, isNewEntry = true, $style = {} },
+  ref
+) => {
   const [editing, setEditing] = React.useState(true);
   const saveClick = () => {
     return onSaveClick();
@@ -25,10 +28,10 @@ const AddEntryItem = ({ onCancelClick = noop, onSaveClick = noop }, ref) => {
       style={{
         display: "flex",
         flexDirection: "column",
-        width: "600px",
+        ...$style,
       }}
     >
-      <EntryItem ref={itemRef} />
+      <EntryItem ref={itemRef} isNewEntry={isNewEntry} />
       <div
         style={{
           display: "flex",

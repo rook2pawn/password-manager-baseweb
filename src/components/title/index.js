@@ -33,7 +33,7 @@ const Title = () => {
         </g>
       </svg>
 
-      <Display3>Password Manager</Display3>
+      <Display3 style={{ marginLeft: "20px" }}>Password Manager</Display3>
     </div>
   );
 };

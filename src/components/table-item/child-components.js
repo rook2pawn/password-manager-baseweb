@@ -3,6 +3,9 @@ import { styled } from "fusion-plugin-styletron-react";
 
 export const Row = styled("div", {
   display: "flex",
+  width: "100%",
+  height: "40px",
+  alignItems: "center",
   borderRight: "thin solid #ccc",
   borderBottom: "thin solid #ccc",
   justifyContent: "space-evenly",

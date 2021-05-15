@@ -15,6 +15,7 @@ const AddEntryUI = ({ saveEntry = noop }, ref) => {
         placement={PLACEMENT.left}
         content={({ close }) => (
           <AddEntryItem
+            $style={{ width: "600px" }}
             ref={itemRef}
             onCancelClick={() => {
               close();
@@ -40,10 +41,7 @@ const AddEntryUI = ({ saveEntry = noop }, ref) => {
         <Button
           overrides={{
             BaseButton: {
-              style: ({ $theme }) => ({
-                width: "200px",
-                height: "50px",
-              }),
+              style: ({ $theme }) => ({}),
             },
           }}
           onClick={() => {}}

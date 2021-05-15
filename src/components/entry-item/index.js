@@ -98,7 +98,14 @@ const EntryItem = ({ isNewEntry = true }, ref) => {
   return (
     <Card
       overrides={{
-        Root: { style: { padding: 0, width: "100%", boxSizing: "border-box" } },
+        Root: {
+          style: {
+            padding: 0,
+            width: "100%",
+            boxSizing: "border-box",
+            border: "none",
+          },
+        },
       }}
     >
       <fieldset>

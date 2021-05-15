@@ -23,7 +23,22 @@ const storage = __BROWSER__
 export const Primary = () => {
   const [table, setTable] = React.useState(storage.getTable());
   const [isOpen, setIsOpen] = React.useState(false);
-  const itemRef = React.useRef();
+  const [activeEntry, setActiveEntry] = React.useState();
+
+  const saveEntry = (entry) => {
+    storage.addTableItem(entry);
+    setTable(storage.getTable());
+    return Promise.resolve();
+  };
+  const updateEntry = (entry) => {
+    storage.updateTableItem(entry);
+    setTable(storage.getTable());
+    return Promise.resolve();
+  };
+  const modalClose = () => {
+    setActiveEntry();
+    setIsOpen(false);
+  };
 
   return (
     <ToasterContainer placement={PLACEMENT.topRight} autoHideDuration={1500}>
@@ -54,41 +69,56 @@ export const Primary = () => {
             <TableEntries
               table={table}
               onView={({ idx, item }) => {
+                setActiveEntry(item);
                 setIsOpen(true);
               }}
               onRemove={({ idx, item }) => {
-                console.log("Going to storage.removeTableItem:", item);
                 storage.removeTableItem(item);
-                console.log("Done calling storage remove:", storage);
                 setTable([...table.slice(0, idx), ...table.slice(idx + 1)]);
                 toaster.positive("Removed password entry.");
               }}
             />
-            <Modal
-              onClose={() => setIsOpen(false)}
-              closeable
-              isOpen={isOpen}
-              animate
-              autoFocus
-              size={SIZE.default}
-              role={ROLE.dialog}
-              overrides={{
-                Dialog: {
-                  style: {
-                    width: "600px",
-                    border: "none",
+            {isOpen && (
+              <Modal
+                onClose={modalClose}
+                closeable={false}
+                isOpen={isOpen}
+                animate
+                autoFocus
+                size={SIZE.default}
+                role={ROLE.dialog}
+                overrides={{
+                  Dialog: {
+                    style: {
+                      width: "600px",
+                      boxSizing: "border-box",
+                    },
                   },
-                },
-              }}
-            >
-              <ModalBody style={{ flex: "1 1 0", border: "none" }}>
+                }}
+              >
                 <AddEntryItem
+                  onCancelClick={modalClose}
+                  onSaveClick={(entry) => {
+                    return new Promise((resolve, reject) => {
+                      updateEntry(entry).then(() => {
+                        return resolve();
+                      });
+                    })
+                      .then(() => {
+                        toaster.positive("Entry updated successful.");
+                        modalClose();
+                      })
+                      .catch((e) => {
+                        toaster.negative("Did not update.");
+                        modalClose();
+                      });
+                  }}
+                  entryData={activeEntry}
                   $style={{ width: "600px" }}
                   isNewEntry={false}
-                  ref={itemRef}
                 />
-              </ModalBody>
-            </Modal>
+              </Modal>
+            )}
           </div>
 
           <div
@@ -100,14 +130,7 @@ export const Primary = () => {
               paddingBottom: "20px",
             }}
           >
-            <AddEntryUI
-              saveEntry={(entry) => {
-                storage.addTableItem(entry);
-                setTable(storage.getTable());
-                return Promise.resolve();
-              }}
-            />
-            <div>Helo</div>
+            <AddEntryUI saveEntry={saveEntry} />
           </div>
         </div>
       </div>

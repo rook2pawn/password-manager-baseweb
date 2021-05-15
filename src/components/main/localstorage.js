@@ -23,6 +23,10 @@ const addTableItem = (value) => {
   storage.setItem(value.key, JSON.stringify(value));
   addTableKey(value.key);
 };
+const updateTableItem = (value) => {
+  const storage = window.localStorage;
+  storage.setItem(value.key, JSON.stringify(value));
+};
 const removeTableItem = (item) => {
   const storage = window.localStorage;
   const keys = getTableKeys();
@@ -49,3 +53,4 @@ const getTable = () => {
 exports.addTableItem = addTableItem;
 exports.getTable = getTable;
 exports.removeTableItem = removeTableItem;
+exports.updateTableItem = updateTableItem;

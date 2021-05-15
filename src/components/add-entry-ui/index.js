@@ -8,7 +8,6 @@ import { toaster } from "baseui/toast";
 const noop = () => Promise.resolve();
 
 const AddEntryUI = ({ saveEntry = noop }, ref) => {
-  const itemRef = React.useRef();
   return (
     <React.Fragment>
       <StatefulPopover
@@ -16,14 +15,12 @@ const AddEntryUI = ({ saveEntry = noop }, ref) => {
         content={({ close }) => (
           <AddEntryItem
             $style={{ width: "600px" }}
-            ref={itemRef}
             onCancelClick={() => {
               close();
             }}
-            onSaveClick={() => {
+            onSaveClick={(entry) => {
               return new Promise((resolve, reject) => {
-                const x = itemRef.current.getEntry();
-                saveEntry(x).then(() => {
+                saveEntry(entry).then(() => {
                   return resolve();
                 });
               })

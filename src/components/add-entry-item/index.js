@@ -5,35 +5,30 @@ import Delete from "baseui/icon/delete";
 import EntryItem from "../entry-item";
 
 const noop = () => Promise.resolve();
-const AddEntryItem = (
-  {
-    onCancelClick = noop,
-    onSaveClick = noop,
-    isNewEntry = true,
-    $style = {},
-    entryData,
-  },
-  ref
-) => {
+const AddEntryItem = ({
+  onCancelClick = noop,
+  onSaveClick = noop,
+  isNewEntry = true,
+  $style = {},
+  entryData,
+}) => {
   const [editing, setEditing] = React.useState(true);
+  const itemRef = React.useRef();
+
   const saveClick = () => {
-    return onSaveClick();
+    const entry = itemRef.current.getEntry();
+    return onSaveClick(entry);
   };
   const cancelClick = () => {
     return onCancelClick();
   };
-  const itemRef = React.useRef();
-  React.useImperativeHandle(ref, () => ({
-    getEntry: () => {
-      return itemRef.current.getEntry();
-    },
-  }));
 
   return (
     <div
       style={{
         display: "flex",
         flexDirection: "column",
+        width: "600px",
         ...$style,
       }}
     >
@@ -79,4 +74,4 @@ const AddEntryItem = (
   );
 };
 
-export default React.forwardRef(AddEntryItem);
+export default AddEntryItem;

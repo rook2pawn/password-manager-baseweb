@@ -1,13 +1,14 @@
-import React, { useState, useRef, useEffect } from "react";
+import React, { useState, useEffect } from "react";
 import { FormControl } from "baseui/form-control";
 import { Input } from "baseui/input";
 import { Slider } from "baseui/slider";
-import { Card, StyledBody, StyledAction } from "baseui/card";
+import { Card } from "baseui/card";
 import { Button } from "baseui/button";
 
 import { Checkbox } from "baseui/checkbox";
 import { ProgressBar } from "baseui/progress-bar";
 import { Accordion, Panel } from "baseui/accordion";
+
 import { generate as generatePassword } from "generate-password";
 import zxcvbn from "zxcvbn";
 import copy from "copy-to-clipboard";
@@ -41,6 +42,8 @@ const defaultEntryData = {
   username: "rook2pawn",
   title: "sampleTitle",
   url: "https://foo.com",
+  password: "",
+  key: "",
 };
 const EntryItem = (
   { isNewEntry = true, entryData = { ...defaultEntryData } },
@@ -67,11 +70,11 @@ const EntryItem = (
   const [copied, setCopied] = useState(false);
   const [strength, setStrength] = useState(null);
   const [temporaryPassword, setTemporaryPassword] = React.useState("");
-  const [password, setPassword] = React.useState("adsfsfd");
+  const [password, setPassword] = React.useState(entryData.password);
 
   React.useImperativeHandle(ref, () => ({
     getEntry: () => {
-      return { title, url, password, username };
+      return { title, url, password, username, key: entryData.key };
     },
   }));
 
@@ -111,13 +114,14 @@ const EntryItem = (
             padding: 0,
             width: "100%",
             boxSizing: "border-box",
-            border: "none",
           },
         },
       }}
     >
       <fieldset>
-        <legend>{isNewEntry ? "Add new entry" : "Edit existing entry"}</legend>
+        <legend>
+          {isNewEntry ? "Add new entry" : "View/Edit existing entry"}
+        </legend>
         <FormControl
           error={
             !validStates.title && validStates.isVisitedTitle

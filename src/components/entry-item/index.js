@@ -37,8 +37,16 @@ const validateURL = (url) => {
   return url && /https?:\/\//.test(url);
 };
 
-const EntryItem = ({ isNewEntry = true }, ref) => {
-  const [username, setUsername] = useState("rook2pawn");
+const defaultEntryData = {
+  username: "rook2pawn",
+  title: "sampleTitle",
+  url: "https://foo.com",
+};
+const EntryItem = (
+  { isNewEntry = true, entryData = { ...defaultEntryData } },
+  ref
+) => {
+  const [username, setUsername] = useState(entryData.username);
   const [validStates, setValidStates] = React.useState({
     username: false,
     isVisitedUsername: false,
@@ -49,8 +57,8 @@ const EntryItem = ({ isNewEntry = true }, ref) => {
     password: false,
     isVisitedPassword: false,
   });
-  const [title, setTitle] = useState("sampleTitle");
-  const [url, setUrl] = useState("https://foo.com");
+  const [title, setTitle] = useState(entryData.title);
+  const [url, setUrl] = useState(entryData.url);
 
   const [length, setLength] = useState(~~(MAXLENGTH / 2));
   const [uppercase, setUppercase] = useState(true);

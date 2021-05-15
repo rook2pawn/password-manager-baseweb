@@ -23,6 +23,7 @@ const storage = __BROWSER__
 export const Primary = () => {
   const [table, setTable] = React.useState(storage.getTable());
   const [isOpen, setIsOpen] = React.useState(false);
+  const itemRef = React.useRef();
 
   return (
     <ToasterContainer placement={PLACEMENT.topRight} autoHideDuration={1500}>
@@ -81,7 +82,11 @@ export const Primary = () => {
               }}
             >
               <ModalBody style={{ flex: "1 1 0", border: "none" }}>
-                <AddEntryItem isNewEntry={false} />
+                <AddEntryItem
+                  $style={{ width: "600px" }}
+                  isNewEntry={false}
+                  ref={itemRef}
+                />
               </ModalBody>
             </Modal>
           </div>

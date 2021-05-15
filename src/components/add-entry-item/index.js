@@ -6,7 +6,13 @@ import EntryItem from "../entry-item";
 
 const noop = () => Promise.resolve();
 const AddEntryItem = (
-  { onCancelClick = noop, onSaveClick = noop, isNewEntry = true, $style = {} },
+  {
+    onCancelClick = noop,
+    onSaveClick = noop,
+    isNewEntry = true,
+    $style = {},
+    entryData,
+  },
   ref
 ) => {
   const [editing, setEditing] = React.useState(true);
@@ -31,7 +37,7 @@ const AddEntryItem = (
         ...$style,
       }}
     >
-      <EntryItem ref={itemRef} isNewEntry={isNewEntry} />
+      <EntryItem ref={itemRef} isNewEntry={isNewEntry} entryData={entryData} />
       <div
         style={{
           display: "flex",

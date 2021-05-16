@@ -1,7 +1,7 @@
 import React from "react";
 
 import Title from "../title";
-import TableEntries from "../table-entries";
+import TableEntries from "../table/entries";
 import AddEntryItem from "../add-entry-item";
 import ViewEntryItem from "../view-entry-item";
 import Plus from "baseui/icon/plus";

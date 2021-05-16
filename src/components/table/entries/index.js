@@ -1,7 +1,7 @@
 import * as React from "react";
 import { Table, TableHeader, HeaderCell } from "./child-components";
 
-import TableItem from "../table-item";
+import TableItem from "../item";
 const noop = () => Promise.resolve();
 export default ({
   table = [],

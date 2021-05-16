@@ -1,4 +1,3 @@
-import * as React from "react";
 import { styled } from "fusion-plugin-styletron-react";
 
 export const Row = styled("div", {

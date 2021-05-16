@@ -2,10 +2,8 @@ import * as React from "react";
 import { Row, Cell } from "./child-components";
 import { Button, KIND } from "baseui/button";
 
-import Delete from "baseui/icon/delete";
 import DeleteAlt from "baseui/icon/delete-alt";
 const noop = () => Promise.resolve();
-import { useStyletron } from "baseui";
 import { assetUrl } from "fusion-core";
 
 export default ({
@@ -42,7 +40,7 @@ export default ({
         onClick={onEdit}
       >
         <img
-          src={assetUrl("../../../src/static/edit.png")}
+          src={assetUrl("../../../../src/static/edit.png")}
           width={16}
           height={16}
         />

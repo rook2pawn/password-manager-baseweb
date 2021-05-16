@@ -13,6 +13,7 @@ export default ({
   title = "Ebay",
   username = "foo@bar.com",
   url = "https://ebay.com",
+  lastUpdated,
   onRemove = noop,
   onView = noop,
   onEdit = noop,
@@ -33,6 +34,7 @@ export default ({
             {url}
           </a>
         </Cell>
+        <Cell>{lastUpdated ? new Date(lastUpdated).toString() : ""}</Cell>
       </Row>
       <Button
         style={{ marginLeft: "10px", width: "100px" }}

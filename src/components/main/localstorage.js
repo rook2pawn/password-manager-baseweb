@@ -20,11 +20,13 @@ const addTableKey = (key) => {
 const addTableItem = (value) => {
   const storage = window.localStorage;
   value.key = uuid.v4();
+  value.lastUpdated = new Date().getTime();
   storage.setItem(value.key, JSON.stringify(value));
   addTableKey(value.key);
 };
 const updateTableItem = (value) => {
   const storage = window.localStorage;
+  value.lastUpdated = new Date().getTime();
   storage.setItem(value.key, JSON.stringify(value));
 };
 const removeTableItem = (item) => {

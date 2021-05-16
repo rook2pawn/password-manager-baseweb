@@ -34,6 +34,7 @@ export default ({
             username={item.username}
             url={item.url}
             title={item.title}
+            lastUpdated={item.lastUpdated}
           />
         );
       })}

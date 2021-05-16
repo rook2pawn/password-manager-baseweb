@@ -2,18 +2,12 @@ import React from "react";
 
 import Title from "../title";
 import TableEntries from "../table-entries";
-import AddEntryUI from "../add-entry-ui";
 import AddEntryItem from "../add-entry-item";
 import ViewEntryItem from "../view-entry-item";
-import {
-  Modal,
-  ModalHeader,
-  ModalBody,
-  ModalFooter,
-  ModalButton,
-  SIZE,
-  ROLE,
-} from "baseui/modal";
+import Plus from "baseui/icon/plus";
+import { Button } from "baseui/button";
+
+import { Modal, SIZE, ROLE } from "baseui/modal";
 import { toaster, ToasterContainer, PLACEMENT } from "baseui/toast";
 
 console.log("__BROWSER__:", __BROWSER__, " _NODE_:", __NODE__);
@@ -24,7 +18,7 @@ const storage = __BROWSER__
 export const Primary = () => {
   const [table, setTable] = React.useState(storage.getTable());
   const [isOpen, setIsOpen] = React.useState(false);
-  const [mode, setMode] = React.useState("edit"); // edit/view
+  const [mode, setMode] = React.useState("edit"); // edit/view/add
   const [activeEntry, setActiveEntry] = React.useState();
 
   const saveEntry = (entry) => {
@@ -86,8 +80,16 @@ export const Primary = () => {
                 setIsOpen(true);
               }}
             />
-            <AddEntryUI saveEntry={saveEntry} />
-
+            <Button
+              onClick={() => {
+                setMode("add");
+                setIsOpen(true);
+                setActiveEntry();
+              }}
+              startEnhancer={() => <Plus size={24} />}
+            >
+              Add a new password entry
+            </Button>
             {isOpen && (
               <Modal
                 onClose={modalClose}
@@ -100,7 +102,7 @@ export const Primary = () => {
                 overrides={{
                   Dialog: {
                     style: {
-                      width: "600px",
+                      width: mode === "view" ? "500px" : "600px",
                       boxSizing: "border-box",
                     },
                   },
@@ -110,10 +112,18 @@ export const Primary = () => {
                   <AddEntryItem
                     onCancelClick={modalClose}
                     onSaveClick={(entry) => {
+                      console.log("ENTRY ON SAVE CLICK:", entry);
                       return new Promise((resolve, reject) => {
-                        updateEntry(entry).then(() => {
-                          return resolve();
-                        });
+                        if (mode === "edit") {
+                          updateEntry(entry).then(() => {
+                            return resolve();
+                          });
+                        }
+                        if (mode === "add") {
+                          saveEntry(entry).then(() => {
+                            return resolve();
+                          });
+                        }
                       })
                         .then(() => {
                           toaster.positive("Entry updated successful.");
@@ -148,7 +158,7 @@ export const Primary = () => {
                         });
                     }}
                     entryData={activeEntry}
-                    $style={{ width: "600px" }}
+                    $style={{ width: "500px" }}
                   />
                 )}
               </Modal>

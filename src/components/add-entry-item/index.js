@@ -32,43 +32,44 @@ const AddEntryItem = ({
       }}
     >
       <EntryItem mode={mode} ref={itemRef} entryData={entryData} />
-      {mode === "edit" && (
-        <div
-          style={{
-            display: "flex",
-            flexDirection: "row",
-            height: "50px",
-          }}
-        >
-          <Button
-            kind={ButtonKIND.secondary}
-            overrides={{
-              BaseButton: {
-                style: ({ $theme }) => ({
-                  width: "50%",
-                }),
-              },
+      {mode === "edit" ||
+        (mode === "add" && (
+          <div
+            style={{
+              display: "flex",
+              flexDirection: "row",
+              height: "50px",
             }}
-            startEnhancer={() => <Delete size={24} />}
-            onClick={cancelClick}
           >
-            Cancel
-          </Button>
-          <Button
-            overrides={{
-              BaseButton: {
-                style: ({ $theme }) => ({
-                  width: "50%",
-                }),
-              },
-            }}
-            startEnhancer={() => <Check size={24} />}
-            onClick={saveClick}
-          >
-            Save row
-          </Button>
-        </div>
-      )}
+            <Button
+              kind={ButtonKIND.secondary}
+              overrides={{
+                BaseButton: {
+                  style: ({ $theme }) => ({
+                    width: "50%",
+                  }),
+                },
+              }}
+              startEnhancer={() => <Delete size={24} />}
+              onClick={cancelClick}
+            >
+              Cancel
+            </Button>
+            <Button
+              overrides={{
+                BaseButton: {
+                  style: ({ $theme }) => ({
+                    width: "50%",
+                  }),
+                },
+              }}
+              startEnhancer={() => <Check size={24} />}
+              onClick={saveClick}
+            >
+              Save row
+            </Button>
+          </div>
+        ))}
     </div>
   );
 };

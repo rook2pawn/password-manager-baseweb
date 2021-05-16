@@ -31,7 +31,10 @@ const inputStyle = {
   paddingTop: "10px",
 };
 
-const ViewEntryItem = ({ entryData = { ...defaultEntryData } }) => {
+const ViewEntryItem = ({
+  entryData = { ...defaultEntryData },
+  $style = {},
+}) => {
   const { username, password, url } = entryData;
 
   const [action, setAction] = React.useState("");
@@ -45,6 +48,7 @@ const ViewEntryItem = ({ entryData = { ...defaultEntryData } }) => {
             padding: 0,
             width: "100%",
             boxSizing: "border-box",
+            ...$style,
           },
         },
       }}
@@ -99,7 +103,7 @@ const ViewEntryItem = ({ entryData = { ...defaultEntryData } }) => {
               <span>Copy username</span>
             </Button>
             {action === "username" && (
-              <div style={{ position: "absolute", top: "45px", left: "10px" }}>
+              <div style={{ position: "absolute", top: "48px" }}>
                 Copied username
               </div>
             )}
@@ -120,7 +124,7 @@ const ViewEntryItem = ({ entryData = { ...defaultEntryData } }) => {
               <span>Copy password</span>
             </Button>
             {action === "password" && (
-              <div style={{ position: "absolute", top: "45px", left: "10px" }}>
+              <div style={{ position: "absolute", top: "48px" }}>
                 Copied password
               </div>
             )}

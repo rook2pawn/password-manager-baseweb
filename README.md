@@ -30,3 +30,13 @@ Also doesn't support mobile layout proper.
 
     yarn storybook
 
+
+# license
+
+MIT/ISC 
+
+(C) 2021 David Wee
+
+# contact
+
+david wee rook2pawn@gmail.com

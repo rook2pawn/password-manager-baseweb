@@ -61,7 +61,7 @@ export const Primary = () => {
             flexDirection: "row",
           }}
         >
-          <div style={{ width: "60%" }}>
+          <div style={{ width: "80%" }}>
             <TableEntries
               table={table}
               onView={({ idx, item }) => {

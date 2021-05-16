@@ -12,11 +12,14 @@ export default ({
   const EntryFields = ["Title", "Username", "URL", "Last Updated"];
   return (
     <Table>
-      <TableHeader>
-        {EntryFields.map((field, idx) => (
-          <HeaderCell key={idx}>{field}</HeaderCell>
-        ))}
-      </TableHeader>
+      <div style={{ display: "flex", borderBottom: "thin solid #ccc" }}>
+        <TableHeader>
+          {EntryFields.map((field, idx) => (
+            <HeaderCell key={idx}>{field}</HeaderCell>
+          ))}
+        </TableHeader>
+        <div style={{ width: "240px" }}> </div>
+      </div>
       {table.map((item, idx) => {
         return (
           <TableItem

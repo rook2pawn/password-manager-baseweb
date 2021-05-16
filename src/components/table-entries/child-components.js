@@ -8,11 +8,11 @@ export const Table = styled("div", {
 });
 export const TableHeader = styled("div", {
   display: "flex",
-  justifyContent: "space-evenly",
-  borderBottom: "thin solid #ccc",
+  justifyContent: "space-between",
   fontFamily: 'system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif',
   paddingTop: "5px",
   paddingBottom: "5px",
+  width: "100%",
 });
 
 export const HeaderCell = styled("span", {

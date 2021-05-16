@@ -39,9 +39,9 @@ const validateURL = (url) => {
 };
 
 const defaultEntryData = {
-  username: "rook2pawn",
-  title: "sampleTitle",
-  url: "https://foo.com",
+  username: "",
+  title: "",
+  url: "",
   password: "",
   key: "",
 };

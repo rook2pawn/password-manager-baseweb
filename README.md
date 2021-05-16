@@ -1,5 +1,32 @@
-# Fusion.js application
+# install
 
-Welcome to your Fusion.js application. Get started by running the application with `yarn dev` in a terminal.
+this installs via yarn
 
-Visit our documentation at: https://fusionjs.com
+    yarn install 
+
+
+if you don't have yarn
+
+    npm install -g yarn
+
+if you have build issues, 
+
+    rm -rf node_modules
+    yarn cache clean
+    rm yarn.lock
+
+# run
+
+    yarn dev
+
+
+# issues
+
+This is built on FusionJS and it doesn't play nicely with Opera Browser. Will be looking into that.
+Also doesn't support mobile layout proper. 
+
+
+# storybook 
+
+    yarn storybook
+

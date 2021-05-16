@@ -1,7 +1,7 @@
 import React from "react";
 
 import Table from "./index";
-import ProviderWrapper from "../provider-wrapper";
+import ProviderWrapper from "../provider-wrapper/storybook";
 
 export const TableEntry = () => (
   <ProviderWrapper>

@@ -8,11 +8,10 @@ const noop = () => Promise.resolve();
 const AddEntryItem = ({
   onCancelClick = noop,
   onSaveClick = noop,
-  isNewEntry = true,
+  mode = "edit",
   $style = {},
   entryData,
 }) => {
-  const [editing, setEditing] = React.useState(true);
   const itemRef = React.useRef();
 
   const saveClick = () => {
@@ -32,44 +31,44 @@ const AddEntryItem = ({
         ...$style,
       }}
     >
-      <EntryItem ref={itemRef} isNewEntry={isNewEntry} entryData={entryData} />
-      <div
-        style={{
-          display: "flex",
-          flexDirection: "row",
-          height: "50px",
-        }}
-      >
-        <Button
-          kind={ButtonKIND.secondary}
-          overrides={{
-            BaseButton: {
-              style: ({ $theme }) => ({
-                width: "50%",
-              }),
-            },
+      <EntryItem mode={mode} ref={itemRef} entryData={entryData} />
+      {mode === "edit" && (
+        <div
+          style={{
+            display: "flex",
+            flexDirection: "row",
+            height: "50px",
           }}
-          disabled={!editing}
-          startEnhancer={() => <Delete size={24} />}
-          onClick={cancelClick}
         >
-          Cancel
-        </Button>
-        <Button
-          overrides={{
-            BaseButton: {
-              style: ({ $theme }) => ({
-                width: "50%",
-              }),
-            },
-          }}
-          disabled={!editing}
-          startEnhancer={() => <Check size={24} />}
-          onClick={saveClick}
-        >
-          Save row
-        </Button>
-      </div>
+          <Button
+            kind={ButtonKIND.secondary}
+            overrides={{
+              BaseButton: {
+                style: ({ $theme }) => ({
+                  width: "50%",
+                }),
+              },
+            }}
+            startEnhancer={() => <Delete size={24} />}
+            onClick={cancelClick}
+          >
+            Cancel
+          </Button>
+          <Button
+            overrides={{
+              BaseButton: {
+                style: ({ $theme }) => ({
+                  width: "50%",
+                }),
+              },
+            }}
+            startEnhancer={() => <Check size={24} />}
+            onClick={saveClick}
+          >
+            Save row
+          </Button>
+        </div>
+      )}
     </div>
   );
 };

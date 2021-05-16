@@ -1,7 +1,7 @@
 import React from "react";
 
 import AddEntryItem from "./index";
-import ProviderWrapper from "../provider-wrapper";
+import ProviderWrapper from "../provider-wrapper/storybook";
 
 export const AddEntry = () => (
   <ProviderWrapper>

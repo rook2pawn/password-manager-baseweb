@@ -1,14 +1,14 @@
 import React from "react";
 
-import TableItem from "./index";
+import ViewItem from "./index";
 import ProviderWrapper from "../provider-wrapper/storybook";
 
-export const TableEntry = () => (
+export const ViewEntryItem = () => (
   <ProviderWrapper>
-    <TableItem />
+    <ViewItem />
   </ProviderWrapper>
 );
 
 export default {
-  title: "Components/TableItem",
+  title: "Components/View",
 };

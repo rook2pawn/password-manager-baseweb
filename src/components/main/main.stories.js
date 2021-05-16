@@ -1,5 +1,5 @@
 import React from "react";
-import ProviderWrapper from "../provider-wrapper";
+import ProviderWrapper from "../provider-wrapper/storybook";
 
 import { Primary } from "./index";
 

@@ -4,6 +4,7 @@ import Title from "../title";
 import TableEntries from "../table-entries";
 import AddEntryUI from "../add-entry-ui";
 import AddEntryItem from "../add-entry-item";
+import ViewEntryItem from "../view-entry-item";
 import {
   Modal,
   ModalHeader,
@@ -23,6 +24,7 @@ const storage = __BROWSER__
 export const Primary = () => {
   const [table, setTable] = React.useState(storage.getTable());
   const [isOpen, setIsOpen] = React.useState(false);
+  const [mode, setMode] = React.useState("edit"); // edit/view
   const [activeEntry, setActiveEntry] = React.useState();
 
   const saveEntry = (entry) => {
@@ -70,6 +72,7 @@ export const Primary = () => {
               table={table}
               onView={({ idx, item }) => {
                 setActiveEntry(item);
+                setMode("view");
                 setIsOpen(true);
               }}
               onRemove={({ idx, item }) => {
@@ -77,16 +80,23 @@ export const Primary = () => {
                 setTable([...table.slice(0, idx), ...table.slice(idx + 1)]);
                 toaster.positive("Removed password entry.");
               }}
+              onEdit={({ idx, item }) => {
+                setActiveEntry(item);
+                setMode("edit");
+                setIsOpen(true);
+              }}
             />
+            <AddEntryUI saveEntry={saveEntry} />
+
             {isOpen && (
               <Modal
                 onClose={modalClose}
-                closeable={false}
+                closeable={mode === "edit" || mode === "add" ? false : true}
                 isOpen={isOpen}
                 animate
                 autoFocus
                 size={SIZE.default}
-                role={ROLE.dialog}
+                role={ROLE.alertdialog}
                 overrides={{
                   Dialog: {
                     style: {
@@ -96,41 +106,53 @@ export const Primary = () => {
                   },
                 }}
               >
-                <AddEntryItem
-                  onCancelClick={modalClose}
-                  onSaveClick={(entry) => {
-                    return new Promise((resolve, reject) => {
-                      updateEntry(entry).then(() => {
-                        return resolve();
-                      });
-                    })
-                      .then(() => {
-                        toaster.positive("Entry updated successful.");
-                        modalClose();
+                {(mode === "edit" || mode === "add") && (
+                  <AddEntryItem
+                    onCancelClick={modalClose}
+                    onSaveClick={(entry) => {
+                      return new Promise((resolve, reject) => {
+                        updateEntry(entry).then(() => {
+                          return resolve();
+                        });
                       })
-                      .catch((e) => {
-                        toaster.negative("Did not update.");
-                        modalClose();
-                      });
-                  }}
-                  entryData={activeEntry}
-                  $style={{ width: "600px" }}
-                  isNewEntry={false}
-                />
+                        .then(() => {
+                          toaster.positive("Entry updated successful.");
+                          modalClose();
+                        })
+                        .catch((e) => {
+                          toaster.negative("Did not update.");
+                          modalClose();
+                        });
+                    }}
+                    entryData={activeEntry}
+                    $style={{ width: "600px" }}
+                    mode={mode}
+                  />
+                )}
+                {mode === "view" && (
+                  <ViewEntryItem
+                    onCancelClick={modalClose}
+                    onSaveClick={(entry) => {
+                      return new Promise((resolve, reject) => {
+                        updateEntry(entry).then(() => {
+                          return resolve();
+                        });
+                      })
+                        .then(() => {
+                          toaster.positive("Entry updated successful.");
+                          modalClose();
+                        })
+                        .catch((e) => {
+                          toaster.negative("Did not update.");
+                          modalClose();
+                        });
+                    }}
+                    entryData={activeEntry}
+                    $style={{ width: "600px" }}
+                  />
+                )}
               </Modal>
             )}
-          </div>
-
-          <div
-            style={{
-              display: "flex",
-              flexDirection: "column",
-              flexGrow: 1,
-              paddingLeft: "20px",
-              paddingBottom: "20px",
-            }}
-          >
-            <AddEntryUI saveEntry={saveEntry} />
           </div>
         </div>
       </div>

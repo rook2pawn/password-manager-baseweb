@@ -3,7 +3,12 @@ import { Table, TableHeader, HeaderCell } from "./child-components";
 
 import TableItem from "../table-item";
 const noop = () => Promise.resolve();
-export default ({ table = [], onRemove = noop, onView = noop }) => {
+export default ({
+  table = [],
+  onRemove = noop,
+  onView = noop,
+  onEdit = noop,
+}) => {
   const EntryFields = ["Title", "Username", "URL", "Last Updated"];
   return (
     <Table>
@@ -20,6 +25,9 @@ export default ({ table = [], onRemove = noop, onView = noop }) => {
             }}
             onRemove={() => {
               onRemove({ item: table[idx], idx });
+            }}
+            onEdit={() => {
+              onEdit({ item: table[idx], idx });
             }}
             key={idx}
             idx={idx}

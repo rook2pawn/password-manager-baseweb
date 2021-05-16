@@ -1,7 +1,7 @@
 import React from "react";
 
 import AddEntryUI from "./index";
-import ProviderWrapper from "../provider-wrapper";
+import ProviderWrapper from "../provider-wrapper/storybook";
 
 import { ToasterContainer } from "baseui/toast";
 

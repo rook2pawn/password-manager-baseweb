@@ -46,7 +46,7 @@ const defaultEntryData = {
   key: "",
 };
 const EntryItem = (
-  { isNewEntry = true, entryData = { ...defaultEntryData } },
+  { mode = "add", entryData = { ...defaultEntryData } },
   ref
 ) => {
   const [username, setUsername] = useState(entryData.username);
@@ -106,6 +106,18 @@ const EntryItem = (
     3: "Strong",
     4: "Strongest",
   };
+
+  let descriptionTitle = "";
+  switch (mode) {
+    case "edit":
+      descriptionTitle = "Edit entry";
+      break;
+    case "add":
+      descriptionTitle = "Add new entry";
+      break;
+    default:
+      break;
+  }
   return (
     <Card
       overrides={{
@@ -119,9 +131,8 @@ const EntryItem = (
       }}
     >
       <fieldset>
-        <legend>
-          {isNewEntry ? "Add new entry" : "View/Edit existing entry"}
-        </legend>
+        <legend>{descriptionTitle}</legend>
+
         <FormControl
           error={
             !validStates.title && validStates.isVisitedTitle

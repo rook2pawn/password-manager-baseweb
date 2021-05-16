@@ -6,6 +6,7 @@ import Delete from "baseui/icon/delete";
 import DeleteAlt from "baseui/icon/delete-alt";
 const noop = () => Promise.resolve();
 import { useStyletron } from "baseui";
+import { assetUrl } from "fusion-core";
 
 export default ({
   idx = 0,
@@ -14,6 +15,7 @@ export default ({
   url = "https://ebay.com",
   onRemove = noop,
   onView = noop,
+  onEdit = noop,
 }) => {
   return (
     <div
@@ -32,8 +34,26 @@ export default ({
           </a>
         </Cell>
       </Row>
-      <Button kind={KIND.secondary} onClick={onRemove}>
+      <Button
+        style={{ marginLeft: "10px", width: "100px" }}
+        kind={KIND.secondary}
+        onClick={onEdit}
+      >
+        <img
+          src={assetUrl("../../../src/static/edit.png")}
+          width={16}
+          height={16}
+        />
+        <span>Edit</span>
+      </Button>
+
+      <Button
+        style={{ marginLeft: "10px", width: "100px" }}
+        kind={KIND.secondary}
+        onClick={onRemove}
+      >
         <DeleteAlt />
+        <span>Delete</span>
       </Button>
     </div>
   );

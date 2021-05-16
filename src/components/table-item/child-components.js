@@ -4,15 +4,14 @@ import { styled } from "fusion-plugin-styletron-react";
 export const Row = styled("div", {
   display: "flex",
   width: "100%",
-  height: "40px",
+  height: "48px",
   alignItems: "center",
-  borderRight: "thin solid #ccc",
-  borderBottom: "thin solid #ccc",
+  padding: "3px",
   justifyContent: "space-evenly",
   fontFamily: 'system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif',
-  transition: "background 0.25s",
+  transition: "backgroundColor 0.25s",
   ":hover": {
-    background: "#CCC",
+    backgroundColor: "#CCC",
   },
 });
 export const Cell = styled("span", {
@@ -21,5 +20,4 @@ export const Cell = styled("span", {
   cursor: "inherit",
   fontFamily: 'system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif',
   boxSizing: "border-box",
-  borderLeft: "thin dotted #ccc",
 });

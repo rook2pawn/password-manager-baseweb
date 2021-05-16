@@ -34,7 +34,7 @@ const removeTableItem = (item) => {
   const keys = getTableKeys();
   storage.setItem(
     "tableEntries",
-    JSON.stringify(keys.filter((_item) => _item.key !== item.key))
+    JSON.stringify(keys.filter((key) => key !== item.key))
   );
   storage.removeItem(item.key);
 };

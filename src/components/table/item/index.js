@@ -1,7 +1,7 @@
 import * as React from "react";
 import { Row, Cell } from "./child-components";
 import { Button, KIND } from "baseui/button";
-
+import Show from "baseui/icon/show";
 import DeleteAlt from "baseui/icon/delete-alt";
 const noop = () => Promise.resolve();
 import { assetUrl } from "fusion-core";
@@ -34,6 +34,15 @@ export default ({
         </Cell>
         <Cell>{lastUpdated ? new Date(lastUpdated).toString() : ""}</Cell>
       </Row>
+      <Button
+        style={{ marginLeft: "10px", width: "100px" }}
+        kind={KIND.secondary}
+        onClick={onView}
+      >
+        <Show />
+        <span style={{ marginLeft: "5px" }}>View</span>
+      </Button>
+
       <Button
         style={{ marginLeft: "10px", width: "100px" }}
         kind={KIND.secondary}

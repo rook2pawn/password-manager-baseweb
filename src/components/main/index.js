@@ -88,7 +88,7 @@ export const Primary = () => {
               }}
               startEnhancer={() => <Plus size={24} />}
             >
-              Add a new password entry
+              Add entry
             </Button>
             {isOpen && (
               <Modal
@@ -112,7 +112,6 @@ export const Primary = () => {
                   <AddEntryItem
                     onCancelClick={modalClose}
                     onSaveClick={(entry) => {
-                      console.log("ENTRY ON SAVE CLICK:", entry);
                       return new Promise((resolve, reject) => {
                         if (mode === "edit") {
                           updateEntry(entry).then(() => {

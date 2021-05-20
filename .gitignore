@@ -2,3 +2,5 @@ node_modules
 .fusion
 yarn.lock
 package-lock.json
+key.pem
+cert.pem

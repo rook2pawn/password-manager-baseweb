@@ -2,7 +2,7 @@ import React from "react";
 import { FormControl } from "baseui/form-control";
 import { Card } from "baseui/card";
 import { Button } from "baseui/button";
-
+import { Input } from "baseui/input";
 import copy from "copy-to-clipboard";
 
 const ButtonOverrides = {
@@ -58,81 +58,54 @@ const ViewEntryItem = ({
           <legend>{descriptionTitle}</legend>
           <FormControl
             label={() => "Username"}
-            caption={() => "Username for this entry"}
+            caption={() => action === "username" && "Copied username"}
           >
-            <input style={inputStyle} readOnly value={username} type="text" />
+            <React.Fragment>
+              <Input
+                positive={action === "username"}
+                style={inputStyle}
+                readOnly
+                value={username}
+                type="text"
+              />
+              <Button
+                onClick={() => {
+                  copy(username);
+                  setAction("username");
+                }}
+              >
+                <span>Copy username</span>
+              </Button>
+            </React.Fragment>
           </FormControl>
-          <FormControl
-            label={() => "Password"}
-            caption={() => "Password for this entry"}
-          >
-            <input
-              style={inputStyle}
-              readOnly
-              value={password}
-              type="password"
-            />
+          <FormControl label={() => "Password"}>
+            <React.Fragment>
+              <Input
+                style={inputStyle}
+                readOnly
+                value={password}
+                type="password"
+              />
+              <Button
+                onClick={() => {
+                  copy(password);
+                  setAction("password");
+                }}
+              >
+                <span>Copy password</span>
+              </Button>
+            </React.Fragment>
           </FormControl>
 
-          <FormControl label={() => "URL"} caption={() => "URL of entry"}>
-            <input style={inputStyle} readOnly value={url} type="text" />
+          <FormControl label={() => "URL"}>
+            <React.Fragment>
+              <Input style={inputStyle} readOnly value={url} type="text" />
+              <Button $as="a" href={url} target="_blank">
+                Open URL
+              </Button>
+            </React.Fragment>
           </FormControl>
         </fieldset>
-        <div
-          style={{
-            display: "flex",
-            flexDirection: "column",
-            justifyContent: "space-between",
-            marginTop: "60px",
-            height: "280px",
-          }}
-        >
-          <div
-            style={{
-              display: "flex",
-              flexDirection: "column",
-              position: "relative",
-            }}
-          >
-            <Button
-              onClick={() => {
-                copy(username);
-                setAction("username");
-              }}
-            >
-              <span>Copy username</span>
-            </Button>
-            {action === "username" && (
-              <div style={{ position: "absolute", top: "48px" }}>
-                Copied username
-              </div>
-            )}
-          </div>
-          <div
-            style={{
-              display: "flex",
-              flexDirection: "column",
-              position: "relative",
-            }}
-          >
-            <Button
-              onClick={() => {
-                copy(password);
-                setAction("password");
-              }}
-            >
-              <span>Copy password</span>
-            </Button>
-            {action === "password" && (
-              <div style={{ position: "absolute", top: "48px" }}>
-                Copied password
-              </div>
-            )}
-          </div>
-          <Button $as="a" href={url} target="_blank">
-            Open URL
-          </Button>
-        </div>
       </div>
     </Card>
   );

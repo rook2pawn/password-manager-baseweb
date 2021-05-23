@@ -4,7 +4,9 @@ import React from "react";
 import { Primary } from "../components/main";
 import ProviderWrapper from "../components/provider-wrapper/fusion";
 import { Helmet } from "fusion-plugin-react-helmet-async";
-
+import Storage from "../components/storageWidgets/localstorage/localstorage.js";
+const storage = __BROWSER__ ? new Storage() : { getTable: () => {} };
+console.log("USED STORAGE IS:", storage);
 const Home = () => {
   return (
     <React.Fragment>
@@ -35,7 +37,7 @@ const Home = () => {
             />
           </a>
         </div>
-        <Primary />
+        <Primary storage={storage} />
       </ProviderWrapper>
     </React.Fragment>
   );

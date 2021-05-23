@@ -16,13 +16,23 @@ if you have build issues,
 
 # run
 
-    yarn dev
+    yarn dev // start service
+    npm run proxy // start https proxy
 
 # https
 
 This runs only in http. requires https proxy. Create self sign using openssl
 
     openssl req -x509 -newkey rsa:4096 -keyout key.pem -out cert.pem -days 365 -nodes -subj '/CN=localhost'
+
+or generate your own keys.
+
+For
+  
+ npm run proxy
+  
+You will need to create your own self signed keys for localhost testing or get a real key and cert
+requires key.pem (usually privkey.pem) and cert.pem (usually fullchain.pem) to be placed in the root of the project.
 
 # issues
 

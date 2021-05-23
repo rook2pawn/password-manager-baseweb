@@ -12,11 +12,11 @@ const AddEntryItem = ({
   $style = {},
   entryData,
 }) => {
-  console.log("addEntryItem mode:", mode);
   const itemRef = React.useRef();
 
   const saveClick = () => {
     const entry = itemRef.current.getEntry();
+    console.log("SaveClick:", entry);
     return onSaveClick(entry);
   };
   const cancelClick = () => {

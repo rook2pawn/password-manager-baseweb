@@ -18,7 +18,7 @@ const defaultEntryData = {
   username: "rook2pawn",
   title: "sampleTitle",
   url: "https://foo.com",
-  password: "",
+  password: "abcdf",
   key: "",
 };
 const inputStyle = {
@@ -54,7 +54,7 @@ const ViewEntryItem = ({
       }}
     >
       <div style={{ display: "flex" }}>
-        <fieldset>
+        <fieldset style={{ width: "100%" }}>
           <legend>{descriptionTitle}</legend>
           <FormControl
             label={() => "Username"}
@@ -78,10 +78,14 @@ const ViewEntryItem = ({
               </Button>
             </React.Fragment>
           </FormControl>
-          <FormControl label={() => "Password"}>
+          <FormControl
+            label={() => "Password"}
+            caption={() => action === "password" && "Copied password"}
+          >
             <React.Fragment>
               <Input
                 style={inputStyle}
+                positive={action === "password"}
                 readOnly
                 value={password}
                 type="password"

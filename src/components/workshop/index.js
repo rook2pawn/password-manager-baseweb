@@ -9,7 +9,7 @@ import { Button } from "baseui/button";
 import { Modal, SIZE, ROLE } from "baseui/modal";
 import { toaster } from "baseui/toast";
 const Workshop = ({ storage }) => {
-  const [table, setTable] = React.useState(storage.getTable());
+  const [table, setTable] = React.useState([]);
   const [isOpen, setIsOpen] = React.useState(false);
   const [mode, setMode] = React.useState("edit"); // edit/view/add
   const [activeEntry, setActiveEntry] = React.useState();
@@ -30,6 +30,9 @@ const Workshop = ({ storage }) => {
     setActiveEntry();
     setIsOpen(false);
   };
+  React.useEffect(() => {
+    setTable(storage.getTable());
+  }, []);
 
   return (
     <div

@@ -1,29 +1,40 @@
 import React from "react";
 import { BorderBox } from "../shared";
 const LocalStorageWidget = ({ storage }) => {
-  const [state, setState] = React.useState({
-    read: false,
-    create: false,
-    update: false,
-    delete: false,
-  });
-  console.log("LocalSTorageWidget being rerun");
+  const [read, setRead] = React.useState(false);
+  const [create, setCreate] = React.useState(false);
+  const [del, setDel] = React.useState(false);
+  const [update, setUpdate] = React.useState(false);
   React.useEffect(() => {
-    console.log("React USE EFFECT!!!");
     storage.on("data", (type) => {
-      console.log("DATA:", type);
+      console.log("data event:", type);
       switch (type) {
         case "read":
-          setState({ ...state, read: true });
+          setRead(true);
+          setTimeout(() => {
+            setRead(false);
+          }, 1000);
           break;
         case "delete":
-          setState({ ...state, delete: true });
+          setDel(true);
+          setTimeout(() => {
+            setDel(false);
+          }, 1000);
+
           break;
         case "create":
-          setState({ ...state, create: true });
+          setCreate(true);
+          setTimeout(() => {
+            setCreate(false);
+          }, 1000);
+
           break;
         case "update":
-          setState({ ...state, update: true });
+          setUpdate(true);
+          setTimeout(() => {
+            setUpdate(false);
+          }, 1000);
+
           break;
         default:
           break;
@@ -34,10 +45,10 @@ const LocalStorageWidget = ({ storage }) => {
   return (
     <BorderBox>
       <span>LocalStorage</span>
-      <span>Create:{state.create ? "TRUE" : "FALSE"}</span>
-      <span>Read:{state.read ? "TRUE" : "FALSE"}</span>
-      <span>Update:{state.update ? "TRUE" : "FALSE"}</span>
-      <span>Delete:{state.delete ? "TRUE" : "FALSE"}</span>
+      <span>Create:{create ? "TRUE" : "FALSE"}</span>
+      <span>Read:{read ? "TRUE" : "FALSE"}</span>
+      <span>Update:{update ? "TRUE" : "FALSE"}</span>
+      <span>Delete:{del ? "TRUE" : "FALSE"}</span>
     </BorderBox>
   );
 };

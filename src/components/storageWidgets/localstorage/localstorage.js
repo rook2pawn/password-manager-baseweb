@@ -61,6 +61,7 @@ class Storage {
     }
   }
   getTable() {
+    console.log("getTable");
     const storage = window.localStorage;
     const keys = this.getTableKeys();
     const table = [];

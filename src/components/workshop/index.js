@@ -4,9 +4,17 @@ import TableEntries from "../table/entries";
 import AddEntryItem from "../add-entry-item";
 import ViewEntryItem from "../view-entry-item";
 import Plus from "baseui/icon/plus";
-import { Button } from "baseui/button";
+import { Button, KIND as ButtonKind } from "baseui/button";
 
-import { Modal, SIZE, ROLE } from "baseui/modal";
+import {
+  Modal,
+  ModalHeader,
+  ModalBody,
+  ModalFooter,
+  ModalButton,
+  SIZE,
+  ROLE,
+} from "baseui/modal";
 import { toaster } from "baseui/toast";
 const Workshop = ({ storage }) => {
   const [table, setTable] = React.useState([]);
@@ -15,8 +23,6 @@ const Workshop = ({ storage }) => {
   const [activeEntry, setActiveEntry] = React.useState();
 
   const saveEntry = (entry) => {
-    console.log("Save Entry:", entry);
-
     storage.addTableItem(entry);
     setTable(storage.getTable());
     return Promise.resolve();
@@ -30,9 +36,12 @@ const Workshop = ({ storage }) => {
     setActiveEntry();
     setIsOpen(false);
   };
+
   React.useEffect(() => {
     setTable(storage.getTable());
   }, []);
+
+  const [onDeleteConfirm, setOnDeleteConfirm] = React.useState();
 
   return (
     <div
@@ -50,9 +59,16 @@ const Workshop = ({ storage }) => {
             setIsOpen(true);
           }}
           onRemove={({ idx, item }) => {
-            storage.removeTableItem(item);
-            setTable([...table.slice(0, idx), ...table.slice(idx + 1)]);
-            toaster.positive("Removed password entry.");
+            setMode("deleteConfirm");
+            setIsOpen(true);
+            setOnDeleteConfirm(() => () => {
+              storage.removeTableItem(item);
+              setTable([...table.slice(0, idx), ...table.slice(idx + 1)]);
+              toaster.positive("Removed password entry.");
+              setIsOpen(false);
+              setMode("");
+              setActiveEntry();
+            });
           }}
           onEdit={({ idx, item }) => {
             setActiveEntry(item);
@@ -73,7 +89,11 @@ const Workshop = ({ storage }) => {
         {isOpen && (
           <Modal
             onClose={modalClose}
-            closeable={mode === "edit" || mode === "add" ? false : true}
+            closeable={
+              mode === "edit" || mode === "add" || mode === "deleteConfirm"
+                ? false
+                : true
+            }
             isOpen={isOpen}
             animate
             autoFocus
@@ -88,6 +108,26 @@ const Workshop = ({ storage }) => {
               },
             }}
           >
+            {mode === "deleteConfirm" && (
+              <React.Fragment>
+                <ModalHeader>Delete Confirm</ModalHeader>
+                <ModalBody>
+                  Please confirm that you want to delete this entry
+                </ModalBody>
+                <ModalFooter>
+                  <ModalButton onClick={modalClose} kind={ButtonKind.tertiary}>
+                    Cancel
+                  </ModalButton>
+                  <ModalButton
+                    onClick={() => {
+                      onDeleteConfirm();
+                    }}
+                  >
+                    Okay
+                  </ModalButton>
+                </ModalFooter>
+              </React.Fragment>
+            )}
             {(mode === "edit" || mode === "add") && (
               <AddEntryItem
                 onCancelClick={modalClose}
@@ -112,6 +152,7 @@ const Workshop = ({ storage }) => {
                     .catch((e) => {
                       toaster.negative("Did not update.");
                       modalClose();
+                      4;
                     });
                 }}
                 entryData={activeEntry}
